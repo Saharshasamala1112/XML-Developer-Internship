@@ -1,0 +1,1584 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+
+
+
+
+<!-- Subtitle -->
+<soustitreouv lang="fr">Divorces et s&#x00E9;paration, rupture de PACS et de concubinage</soustitreouv>
+
+
+<!-- PART title -->
+<section_sommaire>Partie II. Effets patrimoniaux de la rupture</section_sommaire>
+
+
+PART title 
+<titre>Pr&#x00E9;sentation</titre>
+
+
+<!-- epigraph. This tagging should be used for the quotes which are appearing immediately next to chapter/section titles. -->
+
+<epigraphe>
+<alinea><marquage typemarq="italique">&#x00AB;&#x00A0;Tu ne me chercherais pas si tu ne m'avais d&#x00E9;j&#x00E0; trouv&#x00E9;.&#x00A0;&#x00BB;</marquage></alinea>
+<source>Pascal</source>
+</epigraphe>
+
+<notetabl id="ta1n1">
+<no>*</no>
+<alinea>.........</alinea>
+</notetabl>
+
+
+
+<!-- Blockquote/disp-quote. This tagging should be used for the quotes which are appearing in between the paras. 
+
+
+
+<para id="pa23">
+<bloccitation>
+<alinea></alinea>
+</bloccitation>
+</para>
+
+<!-- inline Equation -->
+
+<objetmedia flot="ligne"><image id="im1" typeimage="equation" typemime="image:jpg" xlink:actuate="onLoad" xlink:href="DUNOD_COUTA_2016_04_0013_inline_eq001.jpg" xlink:show="embed" xlink:title="" xlink:type="simple"/></objetmedia>
+
+<!-- Display Equation -->
+
+<equation id="eq1">
+<no>(1a)</no>
+<legende lang="fr">XXXXXXXXXXXXXXXXXXXXXXXX</legende>
+<objetmedia flot="ligne"><image id="im1" typeimage="equation" typemime="image:jpeg" xlink:actuate="onLoad" xlink:href="DUNOD_COUTA_2016_04_0013_display_eq001.jpg" xlink:show="embed" xlink:title="" xlink:type="simple"/></objetmedia>
+<noteeq id="ne1"></noteeq>
+</equation>
+
+
+<!-- Figure -->
+
+<figure id="fi1">
+<no>
+<legende lang="fr">
+<titre>Figure 2.1. &#x00C9;volution du nombre de faits constat&#x00E9;s de viols et tentatives de viols</titre>
+<alinea>Champ&#x00A0;: Faits constat&#x00E9;s de viols et tentatives de viols entre 1972 et 2015 en France m&#x00E9;tropolitaine.</alinea>
+</legende>
+</no>
+<objetmedia flot="ligne">
+<image id="im1" typeimage="figure" typemime="image:jpeg" xlink:actuate="onLoad" xlink:href="DUNOD_COUTA_2016_04_0013_im001.jpg" xlink:show="embed" xlink:title="" xlink:type="simple" />
+</objetmedia>
+<source>
+<marquage typemarq="italique">Source</marquage>&#x00A0;: &#x00C9;tat&#x00A0;4001 - traitement ONDRP.</source>
+</figure>
+
+<!-- Table -->
+
+<tableau formeprimaire="cals id="ta1">
+<legende lang="fr">
+<titre>Tableau 2.1. Caract&#x00E9;ristiques des auteurs de viols</titre>
+</legende>
+<table frame="all">
+<tgroup cols="6">
+<colspec colname="col1" colnum="1" colwidth="25.19%" />
+<colspec colname="col2" colnum="2" colwidth="22.9%" />
+<colspec colname="col3" colnum="3" colwidth="24.8%" />
+<colspec colname="col4" colnum="4" colwidth="24.8%" />
+<colspec colname="col5" colnum="5" colwidth="19.14%" />
+<colspec colname="col6" colnum="6" colwidth="17.0%" />
+<thead>
+<row>
+<entry align="left" colname="col1" colsep="0" rowsep="0" valign="bottom" />
+<entry align="left" colname="col2" colsep="1" rowsep="0" valign="bottom" />
+<entry align="left" colname="col3" colsep="1" nameend="col6" namest="col3" rowsep="1" valign="middle">
+<alinea><marquage typemarq="gras">Condamnations pour viols entre 1984 et 2012</marquage></alinea>
+<alinea><marquage typemarq="gras"> (N=36&#x00A0;051)</marquage></alinea>
+</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="0" rowsep="0" valign="middle">&#x00A0;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="0" valign="middle">&#x00A0;</entry>
+<entry align="left" colname="col3" colsep="1" nameend="col4" namest="col3" rowsep="1" valign="middle"><marquage typemarq="gras">En nombre</marquage></entry>
+<entry align="left" colname="col5" colsep="1" nameend="col6" namest="col5" rowsep="1" valign="middle"><marquage typemarq="gras">En&#x00A0;%</marquage></entry>
+</row>
+</thead><tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" nameend="col2" namest="col1" rowsep="1" valign="middle" />
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">
+<alinea><marquage typemarq="gras">1984-1997</marquage></alinea>
+<alinea><marquage typemarq="gras">(N=12&#x00A0;150)</marquage></alinea>
+</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">
+<alinea><marquage typemarq="gras">1998-2012</marquage></alinea>
+<alinea><marquage typemarq="gras">(N=23&#x00A0;901)</marquage></alinea>
+</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle"><marquage typemarq="gras">1984-1997</marquage></entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle"><marquage typemarq="gras">1998-2012</marquage></entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" morerows="1" rowsep="1" valign="middle"><marquage typemarq="gras">Sexe</marquage> </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Hommes</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">11 901</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">23 563</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">98,0</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">98,6</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Femmes</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">249</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">338</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">2,0</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">1,4</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" morerows="4" rowsep="1" valign="middle"><marquage typemarq="gras">Cat&#x00E9;gorie d'&#x00E2;ge</marquage> </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Moins de 18&#x00A0;ans</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">1 714</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">6 202</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">14,1</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">25,9</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">De 18 &#x00E0; moins de 25&#x00A0;ans</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">2 927</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">3 734</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">24,1</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">15,6</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">De 25 &#x00E0; moins de 40&#x00A0;ans</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">5 406</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">8 996</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">44,5</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">37,6</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">De 40 &#x00E0; moins de 60&#x00A0;ans</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">1 968</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">4 479</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">16,2</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">18,7</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">60&#x00A0;ans et plus</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">135</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">490</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">1,1</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">2,1</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" morerows="5" rowsep="1" valign="middle"><marquage typemarq="gras">Nationalit&#x00E9;</marquage> </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Fran&#x00E7;aise</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">9 964</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">20 691</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">82,0</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">86,6</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Afrique</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">1 290</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">1 427</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">10,6</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">6,0</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Asie et Oc&#x00E9;anie</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">86</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">103</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">0,7</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">0,4</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Am&#x00E9;rique</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">199</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">183</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">1,6</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">0,8</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Europe (hors France)</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">479</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">605</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">3,9</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">2,5</entry>
+</row>
+<row>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">Non d&#x00E9;clar&#x00E9;s et apatrides</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">132</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">892</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">1,1</entry>
+<entry align="left" colname="col6" colsep="1" rowsep="1" valign="middle">3,7</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<objetmedia flot="ligne">
+<image id="im5" typeimage="tableau" typemime="image:jpeg" xlink:actuate="onLoad" xlink:href="DUNOD_COUTA_2016_04_0013_im000.jpg" xlink:show="embed" xlink:title="" xlink:type="simple" />
+</objetmedia>
+<source>
+<marquage typemarq="italique">Source</marquage>&#x00A0;: Exploitation statistique du Casier judiciaire national (SDSE-minist&#x00E8;re de la Justice), traitement ONDRP.</source>
+</tableau>
+
+<!-- Box -->
+
+<encadre id="en1" type="1">
+<alinea>&#x2013; C'est quoi pour toi le mensonge&#x00A0;? Le fait de mentir&#x00A0;?</alinea>
+<alinea>&#x2013; En fait c'est quand je&#x2026; je mens, mais en fait quand je mens&#x2026; c'est parce que avant j'ai pleur&#x00E9;&#x2026; avant de mentir.</alinea>
+<alinea>&#x2013; Explique-moi ce que c&#x2019;est &#x00AB;&#x00A0;mentir&#x00A0;&#x00BB; pour toi&#x00A0;?</alinea>
+<alinea>&#x2013; Mentir c'est quand tu dis des mensonges.</alinea>
+<alinea>&#x2013; C'est quoi un mensonge&#x00A0;?</alinea>
+<alinea>&#x2013; Un mensonge c'est&#x2026; c'est quand tu euh&#x2026; par exemple papa il m'a donn&#x00E9; les choses, voil&#x00E0;. &#x00C7;a c'est mentir.</alinea>
+<alinea>&#x2013; Donne-moi un exemple l&#x00E0;, dis-moi un mensonge.</alinea>
+<alinea>&#x2013; En fait euh&#x2026; par exemple euh&#x2026; (elle chuchote) par exemple&#x2026;</alinea>
+<alinea>Or m&#x00EA;me si sa m&#x00E8;re expliquait que cette enfant, prise dans un conflit de jalousie avec son a&#x00EE;n&#x00E9;e, mentait souvent, ce qu&#x2019;elle lui avait r&#x00E9;v&#x00E9;l&#x00E9; &#x00E9;tait plausible, et justement il &#x00E9;tait important de savoir. Cette tentative de parler explicitement du mensonge avec un enfant aussi jeune &#x00E9;tait donc tout &#x00E0; fait vaine.</alinea>
+</encadre>
+
+<!-- Number List -->
+
+<listeord numeration="decimal" compteur="18">
+
+<para id="pa11">
+<listeord numeration="decimal">
+<elemliste><alinea>Introduction&#x00A0;: c&#x2019;est &#x00E0; l&#x2019;enfant de formuler &#x00E0; sa fa&#x00E7;on les raisons de l&#x2019;entretien (en r&#x00E9;ponse &#x00E0; la question&#x00A0;: sais-tu pourquoi tu viens me voir aujourd&#x2019;hui&#x00A0;? Il est essentiel en effet de savoir comment il a &#x00E9;t&#x00E9; &#x00AB;&#x00A0;pr&#x00E9;par&#x00E9;&#x00A0;&#x00BB; &#x00E0; l&#x2019;entretien (influence possible), et s&#x2019;il a r&#x00E9;ellement envie de parler d&#x2019;une agression subie.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">&#x00C9;valuation du niveau de l&#x2019;enfant et de son rapport &#x00E0; la r&#x00E9;alit&#x00E9;</marquage>&#x00A0;: en dehors de la possibilit&#x00E9; de disposer d&#x2019;un examen psychologique cognitif sp&#x00E9;cifique, il faut v&#x00E9;rifier la congruence &#x00E2;ge/scolarit&#x00E9;, s&#x2019;appuyer sur le t&#x00E9;moignage d&#x2019;un professeur ou d&#x2019;un proche et faire &#x00E9;voquer par l&#x2019;enfant lui-m&#x00EA;me ce qu&#x2019;il pense de sa scolarit&#x00E9;, de ses ambitions, de son niveau de r&#x00E9;ussite.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">Exploration du contexte&#x00A0;: l&#x2019;occasion de faire un r&#x00E9;cit et d&#x2019;explorer les rep&#x00E8;res.</marquage></alinea></elemliste>
+</listeord>
+</para>
+
+<!-- Upper Alpha -->
+
+<para id="pa11">
+<listeord numeration="lettremaj">
+<elemliste><alinea>Introduction&#x00A0;: c&#x2019;est &#x00E0; l&#x2019;enfant de formuler &#x00E0; sa fa&#x00E7;on les raisons de l&#x2019;entretien (en r&#x00E9;ponse &#x00E0; la question&#x00A0;: sais-tu pourquoi tu viens me voir aujourd&#x2019;hui&#x00A0;? Il est essentiel en effet de savoir comment il a &#x00E9;t&#x00E9; &#x00AB;&#x00A0;pr&#x00E9;par&#x00E9;&#x00A0;&#x00BB; &#x00E0; l&#x2019;entretien (influence possible), et s&#x2019;il a r&#x00E9;ellement envie de parler d&#x2019;une agression subie.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">&#x00C9;valuation du niveau de l&#x2019;enfant et de son rapport &#x00E0; la r&#x00E9;alit&#x00E9;</marquage>&#x00A0;: en dehors de la possibilit&#x00E9; de disposer d&#x2019;un examen psychologique cognitif sp&#x00E9;cifique, il faut v&#x00E9;rifier la congruence &#x00E2;ge/scolarit&#x00E9;, s&#x2019;appuyer sur le t&#x00E9;moignage d&#x2019;un professeur ou d&#x2019;un proche et faire &#x00E9;voquer par l&#x2019;enfant lui-m&#x00EA;me ce qu&#x2019;il pense de sa scolarit&#x00E9;, de ses ambitions, de son niveau de r&#x00E9;ussite.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">Exploration du contexte&#x00A0;: l&#x2019;occasion de faire un r&#x00E9;cit et d&#x2019;explorer les rep&#x00E8;res.</marquage></alinea></elemliste>
+</listeord>
+</para>
+
+<!-- Lower Alpha -->
+
+<para id="pa11">
+<listeord numeration="lettremin">
+<elemliste><alinea>Introduction&#x00A0;: c&#x2019;est &#x00E0; l&#x2019;enfant de formuler &#x00E0; sa fa&#x00E7;on les raisons de l&#x2019;entretien (en r&#x00E9;ponse &#x00E0; la question&#x00A0;: sais-tu pourquoi tu viens me voir aujourd&#x2019;hui&#x00A0;? Il est essentiel en effet de savoir comment il a &#x00E9;t&#x00E9; &#x00AB;&#x00A0;pr&#x00E9;par&#x00E9;&#x00A0;&#x00BB; &#x00E0; l&#x2019;entretien (influence possible), et s&#x2019;il a r&#x00E9;ellement envie de parler d&#x2019;une agression subie.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">&#x00C9;valuation du niveau de l&#x2019;enfant et de son rapport &#x00E0; la r&#x00E9;alit&#x00E9;</marquage>&#x00A0;: en dehors de la possibilit&#x00E9; de disposer d&#x2019;un examen psychologique cognitif sp&#x00E9;cifique, il faut v&#x00E9;rifier la congruence &#x00E2;ge/scolarit&#x00E9;, s&#x2019;appuyer sur le t&#x00E9;moignage d&#x2019;un professeur ou d&#x2019;un proche et faire &#x00E9;voquer par l&#x2019;enfant lui-m&#x00EA;me ce qu&#x2019;il pense de sa scolarit&#x00E9;, de ses ambitions, de son niveau de r&#x00E9;ussite.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">Exploration du contexte&#x00A0;: l&#x2019;occasion de faire un r&#x00E9;cit et d&#x2019;explorer les rep&#x00E8;res.</marquage></alinea></elemliste>
+</listeord>
+</para>
+
+<!-- Upper Roman -->
+
+<para id="pa11">
+<listeord numeration="romainmaj">
+<elemliste><alinea>Introduction&#x00A0;: c&#x2019;est &#x00E0; l&#x2019;enfant de formuler &#x00E0; sa fa&#x00E7;on les raisons de l&#x2019;entretien (en r&#x00E9;ponse &#x00E0; la question&#x00A0;: sais-tu pourquoi tu viens me voir aujourd&#x2019;hui&#x00A0;? Il est essentiel en effet de savoir comment il a &#x00E9;t&#x00E9; &#x00AB;&#x00A0;pr&#x00E9;par&#x00E9;&#x00A0;&#x00BB; &#x00E0; l&#x2019;entretien (influence possible), et s&#x2019;il a r&#x00E9;ellement envie de parler d&#x2019;une agression subie.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">&#x00C9;valuation du niveau de l&#x2019;enfant et de son rapport &#x00E0; la r&#x00E9;alit&#x00E9;</marquage>&#x00A0;: en dehors de la possibilit&#x00E9; de disposer d&#x2019;un examen psychologique cognitif sp&#x00E9;cifique, il faut v&#x00E9;rifier la congruence &#x00E2;ge/scolarit&#x00E9;, s&#x2019;appuyer sur le t&#x00E9;moignage d&#x2019;un professeur ou d&#x2019;un proche et faire &#x00E9;voquer par l&#x2019;enfant lui-m&#x00EA;me ce qu&#x2019;il pense de sa scolarit&#x00E9;, de ses ambitions, de son niveau de r&#x00E9;ussite.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">Exploration du contexte&#x00A0;: l&#x2019;occasion de faire un r&#x00E9;cit et d&#x2019;explorer les rep&#x00E8;res.</marquage></alinea></elemliste>
+</listeord>
+</para>
+
+<!-- Lower Roman -->
+
+<para id="pa11">
+<listeord numeration="romainmin">
+<elemliste><alinea>Introduction&#x00A0;: c&#x2019;est &#x00E0; l&#x2019;enfant de formuler &#x00E0; sa fa&#x00E7;on les raisons de l&#x2019;entretien (en r&#x00E9;ponse &#x00E0; la question&#x00A0;: sais-tu pourquoi tu viens me voir aujourd&#x2019;hui&#x00A0;? Il est essentiel en effet de savoir comment il a &#x00E9;t&#x00E9; &#x00AB;&#x00A0;pr&#x00E9;par&#x00E9;&#x00A0;&#x00BB; &#x00E0; l&#x2019;entretien (influence possible), et s&#x2019;il a r&#x00E9;ellement envie de parler d&#x2019;une agression subie.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">&#x00C9;valuation du niveau de l&#x2019;enfant et de son rapport &#x00E0; la r&#x00E9;alit&#x00E9;</marquage>&#x00A0;: en dehors de la possibilit&#x00E9; de disposer d&#x2019;un examen psychologique cognitif sp&#x00E9;cifique, il faut v&#x00E9;rifier la congruence &#x00E2;ge/scolarit&#x00E9;, s&#x2019;appuyer sur le t&#x00E9;moignage d&#x2019;un professeur ou d&#x2019;un proche et faire &#x00E9;voquer par l&#x2019;enfant lui-m&#x00EA;me ce qu&#x2019;il pense de sa scolarit&#x00E9;, de ses ambitions, de son niveau de r&#x00E9;ussite.</alinea></elemliste>
+<elemliste><alinea><marquage typemarq="italique">Exploration du contexte&#x00A0;: l&#x2019;occasion de faire un r&#x00E9;cit et d&#x2019;explorer les rep&#x00E8;res.</marquage></alinea></elemliste>
+</listeord>
+</para>
+
+
+<!-- Solid Bullet List -->
+<para id="pa11">
+<listenonord signe="disque">
+<elemliste><alinea>la peur de ne pas &#x00EA;tre crue, de repr&#x00E9;sailles de ou des auteur(s), de devoir aller en justice&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>les repr&#x00E9;sentations et discours soci&#x00E9;taux&#x00A0;: &#x00AB;&#x00A0;une fille viol&#x00E9;e est une fille perdue. C'est une aguicheuse, elle a eu ce qu'elle m&#x00E9;ritait.&#x00A0;&#x00BB;&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>la honte&#x00A0;: d'avoir &#x00E9;t&#x00E9; le lieu d'une agression sexuelle, de dire qu'elle a &#x00E9;t&#x00E9; souill&#x00E9;e&#x00A0;;</alinea></elemliste>
+</listenonord>
+</para>
+
+<!-- Circle List -->
+
+<para id="pa11">
+<listenonord signe="cercle">
+<elemliste><alinea>la peur de ne pas &#x00EA;tre crue, de repr&#x00E9;sailles de ou des auteur(s), de devoir aller en justice&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>les repr&#x00E9;sentations et discours soci&#x00E9;taux&#x00A0;: &#x00AB;&#x00A0;une fille viol&#x00E9;e est une fille perdue. C'est une aguicheuse, elle a eu ce qu'elle m&#x00E9;ritait.&#x00A0;&#x00BB;&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>la honte&#x00A0;: d'avoir &#x00E9;t&#x00E9; le lieu d'une agression sexuelle, de dire qu'elle a &#x00E9;t&#x00E9; souill&#x00E9;e&#x00A0;;</alinea></elemliste>
+</listenonord>
+</para>
+
+<!-- Square List -->
+
+<para id="pa11">
+<listenonord signe="carre">
+<elemliste><alinea>la peur de ne pas &#x00EA;tre crue, de repr&#x00E9;sailles de ou des auteur(s), de devoir aller en justice&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>les repr&#x00E9;sentations et discours soci&#x00E9;taux&#x00A0;: &#x00AB;&#x00A0;une fille viol&#x00E9;e est une fille perdue. C'est une aguicheuse, elle a eu ce qu'elle m&#x00E9;ritait.&#x00A0;&#x00BB;&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>la honte&#x00A0;: d'avoir &#x00E9;t&#x00E9; le lieu d'une agression sexuelle, de dire qu'elle a &#x00E9;t&#x00E9; souill&#x00E9;e&#x00A0;;</alinea></elemliste>
+</listenonord>
+</para>
+
+<!-- ndash List -->
+
+<para id="pa11">
+<listenonord signe="tiret">
+<elemliste><alinea>la peur de ne pas &#x00EA;tre crue, de repr&#x00E9;sailles de ou des auteur(s), de devoir aller en justice&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>les repr&#x00E9;sentations et discours soci&#x00E9;taux&#x00A0;: &#x00AB;&#x00A0;une fille viol&#x00E9;e est une fille perdue. C'est une aguicheuse, elle a eu ce qu'elle m&#x00E9;ritait.&#x00A0;&#x00BB;&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>la honte&#x00A0;: d'avoir &#x00E9;t&#x00E9; le lieu d'une agression sexuelle, de dire qu'elle a &#x00E9;t&#x00E9; souill&#x00E9;e&#x00A0;;</alinea></elemliste>
+</listenonord>
+</para>
+
+<!-- Simple List (no marker) -->
+
+<para id="pa11">
+<listenonord signe="nul">
+<elemliste><alinea>la peur de ne pas &#x00EA;tre crue, de repr&#x00E9;sailles de ou des auteur(s), de devoir aller en justice&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>les repr&#x00E9;sentations et discours soci&#x00E9;taux&#x00A0;: &#x00AB;&#x00A0;une fille viol&#x00E9;e est une fille perdue. C'est une aguicheuse, elle a eu ce qu'elle m&#x00E9;ritait.&#x00A0;&#x00BB;&#x00A0;;</alinea></elemliste>
+<elemliste><alinea>la honte&#x00A0;: d'avoir &#x00E9;t&#x00E9; le lieu d'une agression sexuelle, de dire qu'elle a &#x00E9;t&#x00E9; souill&#x00E9;e&#x00A0;;</alinea></elemliste>
+</listenonord>
+</para>
+
+<!-- back, note group, note -->
+
+<partiesann>
+<grnote>
+<note id="no1"><no>1</no><alinea>Article 63-4-5 du code de proc&#x00E9;dure p&#x00E9;nale.</alinea></note>
+<note id="no2"><no>2</no><alinea>Cass. Crim. 8&#x00A0;juin 1994, n&#x00B0;&#x00A0;94-81396, Bull. Crim. 1994, n&#x00B0;&#x00A0;226.</alinea></note>
+<note id="no3"><no>3</no><alinea>Cass. Crim. 11&#x00A0;juin 1992, n&#x00B0;&#x00A0;91-86.346, Bull.crim. 1992, n&#x00B0;&#x00A0;232.</alinea></note>
+</grnote>
+</partiesann>
+
+<!-- Annex / Appendix -->
+
+<partiesann>
+<annexe id="an1">
+<section1 id="s1n6">
+<titre>Annexe. GEVS-A (2016)</titre>
+<para id="pa28">
+<figure id="fi1">
+<objetmedia flot="ligne">
+<image id="im1" typeimage="figure" typemime="image:jpeg" xlink:actuate="onLoad" xlink:href="DUNOD_COUTA_2016_04_0221_im001.jpg" xlink:show="embed" xlink:title="" xlink:type="simple" />
+</objetmedia>
+</figure>
+</para>
+<section2 id="s2n8">
+<titre />
+<section3 id="s3n1">
+<titre>
+<marquage typemarq="italique">La loi</marquage>
+</titre>
+<section4 id="s4n1">
+<titre>
+<marquage typemarq="italique">Histoire judiciaire</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta1">
+<table frame="all">
+<tgroup cols="4">
+<colspec colname="col1" colnum="1" colwidth="58.14%" />
+<colspec colname="col2" colnum="2" colwidth="18.93%" />
+<colspec colname="col3" colnum="3" colwidth="23.04%" />
+<colspec colname="col4" colnum="4" colwidth="19.91%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">1. J'ai d&#x00E9;j&#x00E0; &#x00E9;t&#x00E9; jug&#x00E9; pour des actes sexuels interdits</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, une fois</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, plusieurs fois</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non, jamais</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">2. J'ai d&#x00E9;j&#x00E0; &#x00E9;t&#x00E9; jug&#x00E9; pour d'autres actes interdits</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, une fois</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, plusieurs fois</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non, jamais</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n2">
+<titre>
+<marquage typemarq="italique">Rapport &#x00E0; la loi</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta2">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="39.44%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="21.75%" />
+<colspec colname="col4" colnum="4" colwidth="21.75%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">3. Je pense que la loi est utile </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">4. Je pense que la loi est trop stricte</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">5. Je crois &#x00E0; la loi, elle est juste</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">6. J'emmerde la loi</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+</section3>
+<section3 id="s3n2">
+<titre>
+<marquage typemarq="italique">Le(s) passage(s) &#x00E0; l'acte</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta3">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="55.53%" />
+<colspec colname="col2" colnum="2" colwidth="20.48%" />
+<colspec colname="col3" colnum="3" colwidth="15.72%" />
+<colspec colname="col4" colnum="4" colwidth="14.62%" />
+<colspec colname="col5" colnum="5" colwidth="13.67%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">7. Nombre de passages &#x00E0; l'acte </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Un seul</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;De 2 &#x00E0; 5</entry>
+<entry align="left" colname="col4" colsep="1" nameend="col5" namest="col4" rowsep="1" valign="top">&#x25A1;&#x00A0;Plus de 5</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">8. Date et/ou p&#x00E9;riode du (des) passage(s) &#x00E0; l'acte</entry>
+<entry align="left" colname="col2" colsep="1" nameend="col5" namest="col2" rowsep="1" valign="top">&#x00A0;</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">9. Lieu du (des) passage(s) &#x00E0; l'acte</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Lieu Familier</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Lieu Inconnu</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1; Int&#x00E9;rieur</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1; Ext&#x00E9;rieur</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+<section4 id="s4n3">
+<titre>
+<marquage typemarq="italique">Type(s) de passage(s) &#x00E0; l'acte</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta4">
+<table frame="all">
+<tgroup cols="4">
+<colspec colname="col1" colnum="1" colwidth="60.27%" />
+<colspec colname="col2" colnum="2" colwidth="19.77%" />
+<colspec colname="col3" colnum="3" colwidth="19.19%" />
+<colspec colname="col4" colnum="4" colwidth="20.78%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">10. J'ai touch&#x00E9; ou caress&#x00E9; les zones sexuelles</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Les seins</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Le sexe</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Les fesses</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">11. J'ai montr&#x00E9; mon sexe</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="0" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top" />
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">12. J'ai p&#x00E9;n&#x00E9;tr&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Son sexe</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Ses fesses</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Sa bouche</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">13. Pour le/la p&#x00E9;n&#x00E9;trer, j'ai utilis&#x00E9; </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Mon sexe</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Mes doigts</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Un objet</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n4">
+<titre>
+<marquage typemarq="italique">Avant de commettre ce(s) passage(s) &#x00E0; l'acte</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta5">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="63.78%" />
+<colspec colname="col2" colnum="2" colwidth="12.51%" />
+<colspec colname="col3" colnum="3" colwidth="16.17%" />
+<colspec colname="col4" colnum="4" colwidth="16.19%" />
+<colspec colname="col5" colnum="5" colwidth="11.36%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">14. Je marchais seul, sans but</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">15. J'avais une id&#x00E9;e pr&#x00E9;cise ou un sc&#x00E9;nario de comment &#x00E7;a allait se passer</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">16. Il m'est arriv&#x00E9; quelque chose d'inhabituel</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">17. J'avais consomm&#x00E9; de la drogue ou de l'alcool</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">18. J'ai h&#x00E9;sit&#x00E9; &#x00E0; le faire</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">19. Je voulais me venger de quelqu'un &#x00E0; travers cet acte	</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">20. J'&#x00E9;tais f&#x00E2;ch&#x00E9;, ou &#x00E9;nerv&#x00E9; contre la victime</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">21. J'&#x00E9;tais amoureux de la victime</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n5">
+<titre>
+<marquage typemarq="italique">Au cours du (des) passage(s) &#x00E0; l'acte</marquage> </titre>
+<tableau formeprimaire="cals" id="ta6">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="63.78%" />
+<colspec colname="col2" colnum="2" colwidth="12.51%" />
+<colspec colname="col3" colnum="3" colwidth="17.06%" />
+<colspec colname="col4" colnum="4" colwidth="15.45%" />
+<colspec colname="col5" colnum="5" colwidth="11.22%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">22. J'ai fait du chantage ou je lui ai promis quelque chose en &#x00E9;change</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">23. Je l'ai menac&#x00E9;(e), j'ai cherch&#x00E9; &#x00E0; lui faire peur ou &#x00E0; l'impressionner</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">24. J'ai &#x00E9;t&#x00E9; violent, je l'ai forc&#x00E9; physiquement</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">25. Je lui ai menti dans le but d'obtenir ce que je voulais	</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">26. J&#x2019;ai utilis&#x00E9; une arme, ou j&#x2019;en avais une sur moi</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">27. J'ai cherch&#x00E9; &#x00E0; le/la draguer</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">28. J'ai profit&#x00E9; de mon &#x00E2;ge pour l'influencer</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">29. Je l&#x2019;ai fait en groupe</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">30. Je l&#x2019;ai vu souffrir mais j&#x2019;ai quand m&#x00EA;me continu&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n6">
+<titre>
+<marquage typemarq="italique">Apr&#x00E8;s le(s) passage(s) &#x00E0; l'acte</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta7">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="39.44%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="21.75%" />
+<colspec colname="col4" colnum="4" colwidth="21.75%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">31. Je me suis enfui</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">32. Je lui ai dit de ne pas le dire, que &#x00E7;a reste entre nous</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">33. J'aurais voulu qu'il (elle) disparaisse</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">34. Je lui ai dit de partir, de d&#x00E9;gager</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">35. J'ai r&#x00E9;alis&#x00E9;, j'ai pris conscience</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n7">
+<titre>
+<marquage typemarq="italique">Analyse de l'acte	</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta8">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="63.76%" />
+<colspec colname="col2" colnum="2" colwidth="12.52%" />
+<colspec colname="col3" colnum="3" colwidth="16.28%" />
+<colspec colname="col4" colnum="4" colwidth="16.28%" />
+<colspec colname="col5" colnum="5" colwidth="11.17%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">36. Ce que j'ai fait est grave</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">37. Ce que j'ai fait est interdit</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n8">
+<titre>
+<marquage typemarq="italique">Ce que j'ai ressenti</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta9">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="40.98%" />
+<colspec colname="col2" colnum="2" colwidth="18.93%" />
+<colspec colname="col3" colnum="3" colwidth="22.15%" />
+<colspec colname="col4" colnum="4" colwidth="18.93%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">38. J'&#x00E9;tais tr&#x00E8;s excit&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s </entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">39. J'&#x00E9;tais stress&#x00E9;, mal au ventre, ou tendu</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">40. Je me suis senti triste, mal dans ma peau</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">41. Je me suis senti en col&#x00E8;re, r&#x00E9;volt&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">42. J&#x2019;avais la sensation que ce n&#x2019;&#x00E9;tait pas moi qui agissait</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">43. J'ai trouv&#x00E9; que c'&#x00E9;tait sale, j'&#x00E9;tais d&#x00E9;go&#x00FB;t&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">44. Je me suis senti comme seul ou paum&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">45. J&#x2019;&#x00E9;tais comme dans un brouillard ou une sorte de chaos</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">46. J'ai eu du plaisir</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">47. J&#x2019;avais l&#x2019;impression que je n&#x2019;&#x00E9;tais pas l&#x00E0; ou d&#x2019;&#x00EA;tre dans un autre monde</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">48. Je me suis senti plus fort que d'habitude</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">49. Je me suis senti comme sup&#x00E9;rieur &#x00E0; l'autre</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, avant</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, pendant</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui, apr&#x00E8;s</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+</section3>
+<section3 id="s3n3">
+<titre>
+<marquage typemarq="italique">La (les) victime(s)</marquage> </titre>
+<tableau formeprimaire="cals" id="ta10">
+<table frame="all">
+<tgroup cols="4">
+<colspec colname="col1" colnum="1" colwidth="37.62%" />
+<colspec colname="col2" colnum="2" colwidth="24.61%" />
+<colspec colname="col3" colnum="3" colwidth="28.89%" />
+<colspec colname="col4" colnum="4" colwidth="28.89%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">50. Nombre de victimes</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Une victime</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;De 2 &#x00E0; 5 victimes</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plus de 5 victimes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+<section4 id="s4n9">
+<titre>
+<marquage typemarq="italique">Son (leurs) &#x00E2;ge(s)</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta11">
+<table frame="all">
+<tgroup cols="3">
+<colspec colname="col1" colnum="1" colwidth="82.94%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">51. Entre 0 et 2&#x00A0;ans</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">52. Entre 3 et 6&#x00A0;ans</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">53. Entre 7 et 10&#x00A0;ans</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">54. Entre 11 et 14&#x00A0;ans</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">55. Entre 15 et 18&#x00A0;ans</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">56. Un(e) adulte</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n10">
+<titre>
+<marquage typemarq="italique">Son (leurs) sexe(s)</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta12">
+<table frame="all">
+<tgroup cols="3">
+<colspec colname="col1" colnum="1" colwidth="82.94%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">57. F&#x00E9;minin</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">58. Masculin</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n11">
+<titre>
+<marquage typemarq="italique">Mon lien avec la (les) victime(s)</marquage> </titre>
+<tableau formeprimaire="cals" id="ta13">
+<table frame="all">
+<tgroup cols="3">
+<colspec colname="col1" colnum="1" colwidth="82.94%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">59. C'&#x00E9;tait un membre de ma famille proche (fr&#x00E8;re, s&#x0153;ur&#x2026;)</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">60. C'&#x00E9;tait un membre de ma famille &#x00E9;largie (cousine&#x2026;)</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">61. C'&#x00E9;tait un ou une amie</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">62. C'&#x00E9;tait une connaissance</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">63. Je ne la connaissais pas</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n12">
+<titre>
+<marquage typemarq="italique">Ce que je pense d'elle/lui aujourd'hui</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta14">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="39.44%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="21.75%" />
+<colspec colname="col4" colnum="4" colwidth="21.75%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">64. Je pense lui avoir fait du mal</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">65. C'est elle/lui qui a commenc&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">66. Je pense qu'elle/il souffre</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">67. Je pense qu&#x2019;elle/il en avait envie</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">68. Je pense souvent &#x00E0; la victime</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">69. Je pense qu'il/elle a eu du plaisir</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+</section3>
+<section3 id="s3n4">
+<titre>
+<marquage typemarq="italique">La sexualit&#x00E9;</marquage> </titre>
+<section4 id="s4n13">
+<titre>
+<marquage typemarq="italique">Attirances sexuelles</marquage> </titre>
+<tableau formeprimaire="cals" id="ta15">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="39.44%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="21.75%" />
+<colspec colname="col4" colnum="4" colwidth="21.75%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">70. Je suis attir&#x00E9; par les filles de mon &#x00E2;ge</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">71. Je suis attir&#x00E9;e par les gar&#x00E7;ons de mon &#x00E2;ge</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">72. &#x00C7;a m'arrive d'&#x00EA;tre attir&#x00E9; par des adultes</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">73. &#x00C7;a m'arrive d'&#x00EA;tre attir&#x00E9; par des enfants</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n14">
+<titre>
+<marquage typemarq="italique">V&#x00E9;cu de la sexualit&#x00E9; et exp&#x00E9;riences sexuelles</marquage> </titre>
+<tableau formeprimaire="cals" id="ta16">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="39.44%" />
+<colspec colname="col2" colnum="2" colwidth="18.04%" />
+<colspec colname="col3" colnum="3" colwidth="21.75%" />
+<colspec colname="col4" colnum="4" colwidth="21.75%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">74. J'ai d&#x00E9;j&#x00E0; eu un ou des rapports sexuels</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">75. J'ai d&#x00E9;j&#x00E0; eu une ou plusieurs copine(s) (ou copain) avec qui je suis sorti sans coucher </entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">76. Je prends mon plaisir sexuel tout seul</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">77. Je n&#x2019;aime pas mon sexe ou certaines parties de mon corps</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">78. Je vais r&#x00E9;guli&#x00E8;rement sur des sites pornos</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">79. La sexualit&#x00E9; me d&#x00E9;go&#x00FB;te</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">80. J'ai des fantasmes que je n'ai jamais partag&#x00E9;s</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">81. J'ai &#x00E9;t&#x00E9; influenc&#x00E9; par des vid&#x00E9;os porno avant ma premi&#x00E8;re exp&#x00E9;rience sexuelle</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">82. La sexualit&#x00E9; m'envahit, j'y pense tout le temps</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="top">83. Ma sexualit&#x00E9; m'&#x00E9;panouit</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="justify" colname="col1" colsep="1" rowsep="1" valign="top">84. La premi&#x00E8;re fois que j&#x2019;ai vu un truc porno, je devais avoir</entry>
+<entry align="justify" colname="col2" colsep="1" nameend="col3" namest="col2" rowsep="1" valign="top">&#x25A1;&#x00A0;Moins de 8&#x00A0;ans</entry>
+<entry align="justify" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Entre 8 et 11&#x00A0;ans</entry>
+<entry align="justify" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plus de 11&#x00A0;ans</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+</section3>
+<section3 id="s3n5">
+<titre>
+<marquage typemarq="italique">La famille</marquage>
+</titre>
+<section4 id="s4n15">
+<titre>
+<marquage typemarq="italique">L'enfance</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta17">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="65.69%" />
+<colspec colname="col2" colnum="2" colwidth="10.94%" />
+<colspec colname="col3" colnum="3" colwidth="16.12%" />
+<colspec colname="col4" colnum="4" colwidth="16.14%" />
+<colspec colname="col5" colnum="5" colwidth="11.13%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">85. J'ai v&#x00E9;cu des ruptures et des s&#x00E9;parations quand j'&#x00E9;tais enfant</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">86. On n&#x2019;avait pas toujours assez &#x00E0; manger quand j&#x2019;&#x00E9;tais petit</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">87. On a beaucoup de contacts physiques entre nous &#x00E0; la maison</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">88. Je suis souvent all&#x00E9; &#x00E0; l&#x2019;h&#x00F4;pital quand j&#x2019;&#x00E9;tais enfant</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">89. &#x00C0; la maison, on parlait de sexe ou je pouvais voir des choses sexuelles</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">90. Il m&#x2019;arrive parfois de me sentir comme d&#x00E9;laiss&#x00E9; ou abandonn&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">91. J'ai vu mes parents faire l'amour</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">92. On se fait des c&#x00E2;lins et on se dit je t&#x2019;aime en se regardant dans les yeux</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">93. On dormait chacun dans son lit</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">94. On me dit souvent que je ressemble beaucoup &#x00E0; l&#x2019;un de mes parents</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">95. On me dit que je ressemble &#x00E0; quelqu&#x2019;un de ma famille que j&#x2019;aime pas</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">96. J&#x2019;ai d&#x00E9;j&#x00E0; v&#x00E9;cu des choses sexuelles avec un membre de ma famille</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">97. &#x00C0; la maison on ne pouvait pas parler de sexe, c&#x2019;&#x00E9;tait comme interdit</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">98. J'ai vu mes parents se battre</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">99. J&#x2019;ai l&#x2019;impression qu&#x2019;il y a des secrets ou des choses qu&#x2019;on ne se dit pas</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">100. J&#x2019;ai parfois le sentiment que je dois penser comme mes parents</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">101. Il est arriv&#x00E9; des choses dramatiques dans la vie de mes parents et de mes grands-parents</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="top">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">102. Ma place au sein de mes fr&#x00E8;res et s&#x0153;urs</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Le plus grand</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Celui du milieu</entry>
+<entry align="left" colname="col4" colsep="0" rowsep="1" valign="middle">&#x25A1;&#x00A0;Le plus petit</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle" />
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+<section4 id="s4n16">
+<titre>
+<marquage typemarq="italique">Le cadre de vie actuel</marquage>
+</titre>
+<tableau formeprimaire="cals" id="ta18">
+<table frame="all">
+<tgroup cols="5">
+<colspec colname="col1" colnum="1" colwidth="27.68%" />
+<colspec colname="col2" colnum="2" colwidth="32.35%" />
+<colspec colname="col3" colnum="3" colwidth="25.61%" />
+<colspec colname="col4" colnum="4" colwidth="27.98%" />
+<colspec colname="col5" colnum="5" colwidth="19.03%" />
+<tbody>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">103. Mes parents vivent ensemble</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="0" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+<entry align="left" colname="col4" colsep="0" rowsep="1" valign="middle" />
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle" />
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">104. J'ai &#x00E9;t&#x00E9; plac&#x00E9; suite au signalement</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui, en foyer</entry>
+<entry align="left" colname="col3" colsep="1" nameend="col4" namest="col3" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui, en famille d&#x2019;accueil</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">105. Je suis un enfant adopt&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="0" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+<entry align="left" colname="col4" colsep="0" rowsep="1" valign="middle" />
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle" />
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">106. Je m'entends bien avec mon p&#x00E8;re</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">107. Je m'entends bien avec ma m&#x00E8;re</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Oui</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t oui</entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Plut&#x00F4;t non</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+<row>
+<entry align="left" colname="col1" colsep="1" rowsep="1" valign="middle">108. Je suis scolaris&#x00E9;</entry>
+<entry align="left" colname="col2" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Coll&#x00E8;ge/lyc&#x00E9;e</entry>
+<entry align="left" colname="col3" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;&#x00C9;cole sp&#x00E9;cialis&#x00E9;e </entry>
+<entry align="left" colname="col4" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Formation</entry>
+<entry align="left" colname="col5" colsep="1" rowsep="1" valign="middle">&#x25A1;&#x00A0;Non</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tableau>
+</section4>
+</section3>
+</section2>
+</section1>
+</annexe>
+</partiesann>
+
+<!-- Reference with Number -->
+
+<partiesann>
+<biblio>
+<titre>R&#x00E9;f&#x00E9;rences</titre>
+<refbiblio id="rb1"><no>1</no><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Blanchard</marquage> E.B. (1976), &#x00AB;&#x00A0;The measurement and generation of sexual arousal in male sexual deviates&#x00A0;&#x00BB;. <marquage typemarq="italique">Prog Behav Modif</marquage>., 2&#x00A0;:99-136.</alinea></refbiblio>
+<refbiblio id="rb2"><no>2</no><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Gore</marquage> D.K., <marquage typemarq="petitecap">Holland</marquage> C., <marquage typemarq="petitecap">Camps</marquage> N., <marquage typemarq="petitecap">Becker</marquage> J.V., <marquage typemarq="petitecap">Rathner</marquage> J. (1989), &#x00AB;&#x00A0;The measurment of the cognitive distortions of child molesters&#x00A0;&#x00BB;. <marquage typemarq="italique">Annals of sex research</marquage>, 2(2):135-52.</alinea></refbiblio>
+<refbiblio id="rb3"><no>3</no><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Mittelman</marquage> M.S., <marquage typemarq="petitecap">Becker</marquage> J.V. (1985), &#x00AB;&#x00A0;Sexual offenders&#x00A0;: Results of assessment and recommendations for treatment&#x00A0;&#x00BB;. In&#x00A0;: Ben-Aron M.H., Hucker S.J., Webster C.D., editors. <marquage typemarq="italique">Clinical criminology&#x00A0;: The assessment and treatment of criminal behavior</marquage>. Toronto, CA&#x00A0;: University of Toronto, p. 191-205.</alinea></refbiblio>
+</biblio>
+</partiesann>
+
+<!-- Reference without Number -->
+
+<partiesann>
+<biblio>
+<titre>R&#x00E9;f&#x00E9;rences</titre>
+<refbiblio id="rb1"><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Blanchard</marquage> E.B. (1976), &#x00AB;&#x00A0;The measurement and generation of sexual arousal in male sexual deviates&#x00A0;&#x00BB;. <marquage typemarq="italique">Prog Behav Modif</marquage>., 2&#x00A0;:99-136.</alinea></para>
+<refbiblio id="rb2"><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Gore</marquage> D.K., <marquage typemarq="petitecap">Holland</marquage> C., <marquage typemarq="petitecap">Camps</marquage> N., <marquage typemarq="petitecap">Becker</marquage> J.V., <marquage typemarq="petitecap">Rathner</marquage> J. (1989), &#x00AB;&#x00A0;The measurment of the cognitive distortions of child molesters&#x00A0;&#x00BB;. <marquage typemarq="italique">Annals of sex research</marquage>, 2(2):135-52.</alinea></para>
+<refbiblio id="rb3"><alinea><marquage typemarq="petitecap">Abel</marquage> G.G., <marquage typemarq="petitecap">Mittelman</marquage> M.S., <marquage typemarq="petitecap">Becker</marquage> J.V. (1985), &#x00AB;&#x00A0;Sexual offenders&#x00A0;: Results of assessment and recommendations for treatment&#x00A0;&#x00BB;. In&#x00A0;: Ben-Aron M.H., Hucker S.J., Webster C.D., editors. <marquage typemarq="italique">Clinical criminology&#x00A0;: The assessment and treatment of criminal behavior</marquage>. Toronto, CA&#x00A0;: University of Toronto, p. 191-205.</alinea></para>
+</biblio>
+</partiesann>
+
+<!-- Example -->
+
+<exemple id="ex1">
+<alinea><marquage typemarq="gras"><marquage typemarq="italique">Vignette clinique n&#x00B0;1 &#x2013; Une g&#x00E9;n&#x00E9;alogie g&#x00E9;ologique</marquage></marquage></alinea>
+<alinea>Un de nos patients, psychotique paraphr&#x00E8;ne et jargonaphasique faisait remonter sa lign&#x00E9;e jusqu&#x2019;au pr&#x00E9;cambrien. Il r&#x00E9;citait, usant de mots latins et proven&#x00E7;aux, toutes les &#x00E8;res g&#x00E9;ologiques comme autant d&#x2019;anc&#x00EA;tres personnels fabuleux, faisant ainsi l&#x2019;&#x00E9;conomie de la question de ses origines et donc de la sexualit&#x00E9;. Ce positionnement ante-sexuel, quasi min&#x00E9;ral, signe un fonctionnement archa&#x00EF;que laissant peu de place &#x00E0; un &#x00E9;ventuel entourage humain. Il est donc clairement psychotique m&#x00EA;me si par ailleurs ce sujet a pu longtemps rester ins&#x00E9;r&#x00E9; socialement et m&#x00EA;me travailler comme gardien de mus&#x00E9;e. Cette modalit&#x00E9; pathologique d&#x2019;&#x00E9;laboration du lignage est &#x00E0; diff&#x00E9;rentier de ce qui se retrouve dans certains mythes tribaux, dans la mesure o&#x00F9; ceux-ci sont ritualis&#x00E9;s et sacralis&#x00E9;s, constitutifs d&#x2019;une identit&#x00E9; collective faisant office d&#x2019;histoire ou de m&#x00E9;taphore. La force du tabou de l&#x2019;inceste dans ces civilisations et la propension exogamique traduite par la guerre sont &#x00E0; la mesure du risque que pourrait engendrer une telle fermeture du monde telle que dans le cas clinique ci-dessus &#x00E9;voqu&#x00E9;e.</alinea>
+</exemple>
+
+
+<verbatim typeverb="">
+<bloc>
+<ligne></ligne>
+<ligne></ligne>
+<ligne></ligne>
+<ligne></ligne>
+<ligne></ligne>
+<ligne></ligne>
+</bloc>
+</verbatim>
+
+
+<verbatim typeverb="poeme">
+<bloc>
+<ligne><marquage typemarq="italique">&#x00AB;&#x00A0;Qu&#x2019;on me donne l&#x2019;obscurit&#x00E9; puis la lumi&#x00E8;re,</marquage></ligne>
+<ligne><marquage typemarq="italique">Qu&#x2019;on me donne la faim la soif puis un festin</marquage></ligne>
+<ligne><marquage typemarq="italique">Qu&#x2019;on me donne le froid pour que j&#x2019;aime la flamme</marquage></ligne>
+<ligne><marquage typemarq="italique">Pour que j&#x2019;aime ma terre qu&#x2019;on me donne l&#x2019;exil&#x2026;&#x00A0;&#x00BB;</marquage></ligne>
+</bloc>
+
+<bloc>
+<ligne><marquage typemarq="italique">&#x00AB;&#x00A0;Qu&#x2019;on me donne l&#x2019;obscurit&#x00E9; puis la lumi&#x00E8;re,</marquage></ligne>
+<ligne><marquage typemarq="italique">Qu&#x2019;on me donne la faim la soif puis un festin</marquage></ligne>
+<ligne><marquage typemarq="italique">Qu&#x2019;on me donne le froid pour que j&#x2019;aime la flamme</marquage></ligne>
+<ligne><marquage typemarq="italique">Pour que j&#x2019;aime ma terre qu&#x2019;on me donne l&#x2019;exil&#x2026;&#x00A0;&#x00BB;</marquage></ligne>
+<source>...........</source>
+</bloc>
+</verbatim>
+
+
+dialogue
+
+<verbatim typeverb="theatre">
+<bloc>
+<ligne>...............</ligne>
+<ligne>...............</ligne>
+<ligne>...............</ligne>
+<ligne>...............</ligne>
+<ligne>...............</ligne>
+<ligne>...............</ligne>
+</bloc>
+</verbatim>
+
+<b [^>]*>
+
+
+
+
+
+
+
+We have discussed about below new updates. Please follow them in fresh files and QC corrections.
+
+1.	Book end footnotes
+
+a. page end footnotes|chapter end footnotes
+b. book end footnotes (create separate XML and PDF)
+c. above two cases
+
+2.	Image attribute
+
+<objetmedia flot="ligne">
+
+3.	Footnotes in tables
+
+<tableau formeprimaire="cals id="ta3">
+<legende lang="fr"><titre>Tableau 2 Projections dÃ©mographiques par groupes dâ€™Ã¢ges entre 2000 et 2030 CÃ´te dâ€™Ivoire</titre>
+<alinea>* En milliers.</alinea>
+</legende>
+<objetmedia flot="ligne"><image id="im5" typeimage="tableau" typemime="image:jpeg" xlink:type="simple" xlink:href="KART_ZABUS_2018_01_0295_im005.jpg" xlink:show="embed" xlink:actuate="onLoad"/></objetmedia>
+<source><marquage typemarq="italique">Source</marquage>Â : EdStats, World Bank, Thematic data in Education and Population Projection, 2005.</source>
+<notetabl
+</tableau>
+
+<titre>Pr&#x00E9;sentation</titre>
+
+
+
+
+
+
+
+
+
+
+
+
+shift1 for closing all tabs
+CTRL X 2  For two windows
+CTRL X 0  For single window
+Ctrl y paste
+CTRL S   For search
+ctrl x s for save
+CTRL g for cancel
+Ctrl xg for goto line
+F2 for fundamental mode
+F2 for html
+f2 new file  for new
+f9 for backup
+To find files   ctrl X b
+CTRl + tab for same line macro
+
+
+For para numbers increasing
+
+Ctrl x Shift 0  for macro OFF
+Ctrl x Shift 9  for macro On
+
+Ctrl s  (id="pa  then ctrl(space) for mark space(markset)
+
+ctrl s "(double quote)(leftarrow) then) CTrl+tab
+
+
+Ctrl shift (rightarrow) then  alt + w
+
+rightarrow (ctrl + tab) then ctrl y  then ctrl x shift 0  then ctrl+f4
+
+
+
+Ctrlx s
+
+ctrl x x (for buffer saving)
+
+Ctrl x y (for releasing quite)
+
+
+
+
+
+
+
+
+about:config
+security.fileuri.strict_origin_policy
+
+
+
+
+For stars
+
+<separateur typesep="asterisque"/>
+
+
+
+
+<auteur id="au1" typeaut="contributeur">
+<contribution>Professor</contribution>
