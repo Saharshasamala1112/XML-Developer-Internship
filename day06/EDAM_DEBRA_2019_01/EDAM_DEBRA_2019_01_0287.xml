@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="EDAM_DEBRA_2019_01_0287" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<section_sommaire>3. Les forces de l&#x2019;histoire</section_sommaire>
+<tri>EDAM_DEBRA_2019_01_0287</tri>
+<pagination>
+<ppage>287</ppage>
+<dpage>302</dpage>
+</pagination>
+<nbpage>16</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Spinoza, histoire et anthropologie</titre>
+</grtitre>
+<grauteur>
+<auteur id="au1" typeaut="auteur">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au2" typeaut="auteur">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au3" typeaut="auteur">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au4" typeaut="auteur">
+<nompers>
+<prenom>Nicolas</prenom>
+<nomfamille>Isra&#x00EB;l</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+</liminaire>
+<corps>
+<section1 id="s1n46">
+<titre>Retour sur la dur&#x00E9;e de la multitude</titre>
+<para id="pa481"><alinea><np pagenum="287"/>Je me propose d&#x2019;&#x00E9;tudier dans le pr&#x00E9;sent chapitre la conception spinoziste de l&#x2019;histoire en me concentrant pour ce faire sur son usage des concepts de tribu, de caste et de secte.</alinea></para>
+<para id="pa482"><alinea>Il semble que, jusqu&#x2019;&#x00E0; pr&#x00E9;sent, les &#x00E9;tudes spinozistes ont plut&#x00F4;t privil&#x00E9;gi&#x00E9; l&#x2019;analyse de l&#x2019;histoire politique des soci&#x00E9;t&#x00E9;s. Ce qui suppose, par exemple, d&#x2019;expliquer la dur&#x00E9;e d&#x2019;un r&#x00E9;gime politique &#x00E0; partir des fluctuations de la puissance de la multitude. Comme je l&#x2019;ai moi-m&#x00EA;me soulign&#x00E9; dans mon livre<renvoi id="re1no1" idref="no1" typeref="note">1</renvoi>, si la puissance de la multitude est &#x00E0; la source de la souverainet&#x00E9; politique, cela a &#x00E9;videmment des r&#x00E9;percussions sur le cours de l&#x2019;histoire. Par exemple, la conception contractualiste de l&#x2019;&#x00C9;tat qui lui assigne pour cause un engagement valant <marquage typemarq="italique">une fois pour</marquage> <np pagenum="288"/><marquage typemarq="italique">toutes</marquage>, cesse d&#x2019;&#x00EA;tre op&#x00E9;ratoire. L&#x2019;id&#x00E9;e du pacte social ne trouve son ad&#x00E9;quation, ne s&#x2019;explique par sa cause prochaine, que si elle se d&#x00E9;duit de ce que l&#x2019;on pourrait appeler, avec Alexandre Matheron, un &#x00AB;&#x00A0;consensualisme instantan&#x00E9;iste<renvoi id="re1no2" idref="no2" typeref="note">2</renvoi>&#x00A0;&#x00BB;. En raison de la dur&#x00E9;e qui affecte sa puissance, la multitude est porteuse de la souverainet&#x00E9; et &#x00E0; chaque instant, &#x00E0; tout moment le pouvoir souverain peut passer d&#x2019;un r&#x00E9;gime politique &#x00E0; l&#x2019;autre, en d&#x00E9;pit des promesses ant&#x00E9;rieures. Les diff&#x00E9;rents r&#x00E9;gimes politiques ne sont que les &#x00E9;tats stabilis&#x00E9;s d&#x2019;une puissance fluctuante. Comme je l&#x2019;ai soulign&#x00E9;, chaque r&#x00E9;gime politique va donc forger un auxiliaire temporel qui lui est propre. Il est concevable d&#x2019;op&#x00E9;rer une distinction entre un temps monarchique, aristocratique et d&#x00E9;mocratique, en &#x00E9;tudiant comment ses diff&#x00E9;rentes institutions politiques devraient, aux yeux de Spinoza, scander la d&#x00E9;volution du pouvoir &#x00E0; la multitude afin de garantir la stabilit&#x00E9; du r&#x00E9;gime. &#x00C0; partir du moment o&#x00F9; la dur&#x00E9;e de chaque r&#x00E9;gime est tributaire de la continuation du transfert consenti, &#x00E0; chaque instant, par la multitude, le v&#x00E9;ritable &#x00E9;cueil que rencontre chaque corps politique est celui de sa stabilit&#x00E9;. La dur&#x00E9;e d&#x2019;un r&#x00E9;gime sera stable ou instable selon qu&#x2019;il se perp&#x00E9;tue en fonction de l&#x2019;&#x00E9;quilibre des puissances dont il a h&#x00E9;rit&#x00E9; ou qu&#x2019;il se laisse affecter par des institutions qui lui sont ext&#x00E9;rieures. La stabilit&#x00E9; d&#x2019;un corps politique d&#x00E9;pend donc de sa capacit&#x00E9; &#x00E0; demeurer dans le m&#x00EA;me &#x00E9;tat, &#x00E0; sauvegarder sa forme institutionnelle.</alinea></para>
+</section1>
+<section1 id="s1n47">
+<titre>Le point de vue de l&#x2019;anthropologie sociale</titre>
+<para id="pa483"><alinea>Or, il me semble que, pour identifier la conception spinoziste de l&#x2019;histoire, il ne suffit pas de se tourner vers les concepts classiques de la philosophie politique, mais il faut &#x00E9;galement adopter la vision de l&#x2019;anthropologie sociale. Selon Evans-Pritchard, l&#x2019;anthropologie sociale peut se d&#x00E9;finir comme l&#x2019;&#x00E9;tude du comportement social &#x00E0; travers des formes institutionnelles primitives ou archa&#x00EF;ques<renvoi id="re1no3" idref="no3" typeref="note">3</renvoi>. Ces institutions sont dites archa&#x00EF;ques, non pas parce qu&#x2019;elles appartiennent &#x00E0; un pass&#x00E9; <np pagenum="289"/>r&#x00E9;volu, mais parce qu&#x2019;elles d&#x00E9;limitent une strate du comportement social, qui est toujours susceptible de rena&#x00EE;tre dans nos soci&#x00E9;t&#x00E9;s.</alinea></para>
+<para id="pa484"><alinea>On comprend ainsi que l&#x2019;analyse anthropologique ne doit pas se limiter, comme nous y invitent les &#x00E9;tudes spinozistes, &#x00E0; la d&#x00E9;duction des propri&#x00E9;t&#x00E9;s de la nature humaine. &#x00C9;tudier les propri&#x00E9;t&#x00E9;s de l&#x2019;homme &#x00E0; l&#x2019;&#x00E9;tat de nature, ce n&#x2019;est pas analyser le comportement social de l&#x2019;homme dans le cadre d&#x2019;institutions archa&#x00EF;ques. Par exemple, la mise en lumi&#x00E8;re de la logique affective immanente aux conflits para&#x00EE;t incompl&#x00E8;te aux yeux m&#x00EA;mes de Spinoza. Une authentique analyse de la discorde civile ne saurait se contenter de rattacher les causes des conflits aux propri&#x00E9;t&#x00E9;s de la nature humaine et d&#x2019;identifier les m&#x00E9;canismes passionnels qui conduisent les hommes &#x00E0; devenir ennemis ; l&#x2019;analyse de la discorde trouvant alors sa conclusion dans l&#x2019;affirmation selon laquelle l&#x2019;&#x00E9;tat de nature est toujours pr&#x00E9;sent dans l&#x2019;&#x00E9;tat civil. Dans ce cadre, le renforcement de la puissance souveraine se pr&#x00E9;sente comme la seule mani&#x00E8;re de surmonter les conflits qui perdurent au sein de l&#x2019;&#x00E9;tat civil.</alinea></para>
+<para id="pa485"><alinea>Dans le <marquage typemarq="italique">Trait&#x00E9; th&#x00E9;ologico-politique</marquage> (<marquage typemarq="italique">TTP</marquage>), Spinoza semble adopter simultan&#x00E9;ment une perspective concurrente. En pr&#x00E9;curseur de l&#x2019;anthropologie sociale, Spinoza y &#x00E9;tablit une comparaison entre l&#x2019;ordre social archa&#x00EF;que des H&#x00E9;breux et les soci&#x00E9;t&#x00E9;s politiques qui lui sont contemporaines. L&#x2019;&#x00E9;tude de l&#x2019;histoire du peuple h&#x00E9;breu le conduit &#x00E0; analyser des formes d&#x2019;organisation sociales primitives qui sous-tendent la citoyennet&#x00E9; ou le cadre national. Dans cette perspective, la cat&#x00E9;gorie m&#x00EA;me du th&#x00E9;ologico-politique demeure inad&#x00E9;quate car elle ne parvient &#x00E0; appr&#x00E9;hender la nature des soci&#x00E9;t&#x00E9;s tribales &#x00E9;tudi&#x00E9;es.</alinea></para>
+<para id="pa486"><alinea>Si l&#x2019;on passe de l&#x2019;&#x00E9;tude des institutions politiques centrales &#x00E0; l&#x2019;analyse anthropologique de la structure sociale, il est flagrant que les H&#x00E9;breux ne sont pas retourn&#x00E9;s &#x00E0; l&#x2019;&#x00E9;tat de nature en sortant d&#x2019;&#x00C9;gypte. Si l&#x2019;on se place sur le plan de la conf&#x00E9;d&#x00E9;ration tribale, les H&#x00E9;breux ne se sont jamais retrouv&#x00E9;s dans un nouvel &#x00E9;tat de nature, alors m&#x00EA;me qu&#x2019;ils n&#x2019;&#x00E9;taient soumis &#x00E0; aucune autorit&#x00E9; centrale, politique ou religieuse<renvoi id="re1no4" idref="no4" typeref="note">4</renvoi>. La <np pagenum="290"/>cat&#x00E9;gorie d&#x2019;&#x00E9;tat de nature se pr&#x00E9;sente alors comme une notion inad&#x00E9;quate, h&#x00E9;rit&#x00E9;e de la philosophie politique hobbesienne, incapable de concevoir l&#x2019;existence d&#x2019;une soci&#x00E9;t&#x00E9; ac&#x00E9;phale, porteuse, selon la c&#x00E9;l&#x00E8;bre expression d&#x2019;Evans-Pritchard, d&#x2019;une &#x00AB;&#x00A0;anarchie ordonn&#x00E9;e&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa487"><alinea>On ne peut r&#x00E9;duire l&#x2019;absence de pouvoir central, de souverainet&#x00E9;, &#x00E0; un simple &#x00E9;tat d&#x2019;anarchie.</alinea></para>
+</section1>
+<section1 id="s1n48">
+<titre>La stabilit&#x00E9; tribale</titre>
+<para id="pa488"><alinea>Or, ce qui retient l&#x2019;attention de Spinoza c&#x2019;est la stabilit&#x00E9; de l&#x2019;organisation tribale qui sous-tend les diff&#x00E9;rentes transformations de l&#x2019;&#x00C9;tat des H&#x00E9;breux, par exemple, le passage du r&#x00E9;gime th&#x00E9;ocratique au r&#x00E9;gime monarchique. En ce sens, il ne suffit pas d&#x2019;affirmer que les r&#x00E9;gimes politiques ne sont que les &#x00E9;tats stabilis&#x00E9;s d&#x2019;une puissance fluctuante. On pourrait presque soutenir le contraire, les r&#x00E9;gimes politiques ne sont que les &#x00E9;tats fluctuants d&#x2019;une organisation sociale stable. Cette analyse anthropologique r&#x00E9;v&#x00E8;le alors le caract&#x00E8;re pr&#x00E9;caire voire utopique de la souverainet&#x00E9; politique, qui ne parvient &#x00E0; &#x00E9;difier que des &#x00C9;tats d&#x00E9;faillants.</alinea></para>
+<para id="pa489"><alinea>Comment comprendre, selon cette perspective authentiquement anthropologique, que &#x00AB;&#x00A0;l&#x2019;&#x00C9;tat [&#x2026;] doive sa perte &#x00E0; ses citoyens plus encore qu&#x2019;&#x00E0; ses ennemis<renvoi id="re1no5" idref="no5" typeref="note">5</renvoi> ?&#x00A0;&#x00BB; On le sait, c&#x2019;est &#x00E0; la lumi&#x00E8;re de cette question que Spinoza va proc&#x00E9;der &#x00E0; l&#x2019;examen d&#x00E9;taill&#x00E9; de l&#x2019;histoire des H&#x00E9;breux. Cette &#x00E9;tude de l&#x2019;histoire des H&#x00E9;breux va conduire Spinoza &#x00E0; proposer une analyse v&#x00E9;ritablement anthropologique de la multitude. Il ne s&#x2019;agit plus d&#x2019;expliquer la formation de la multitude &#x00E0; partir de l&#x2019;interaction psychique entre individus d&#x2019;un groupe en proie &#x00E0; une crainte ou &#x00E0; une indignation communes, mais d&#x2019;appr&#x00E9;hender un peuple comme une conf&#x00E9;d&#x00E9;ration de tribus, soud&#x00E9;es par des valeurs traditionnelles<renvoi id="re1no6" idref="no6" typeref="note">6</renvoi>. En ce sens, le concept de tribu doit &#x00EA;tre compris comme un <np pagenum="291"/>groupe de solidarit&#x00E9; qui repose sur la reconnaissance d&#x2019;une commune ascendance et la possession d&#x2019;un territoire.</alinea></para>
+<para id="pa490"><alinea>S&#x2019;agissant du peuple h&#x00E9;breu, Spinoza op&#x00E8;re une distinction cruciale pour notre propos. &#x00AB;&#x00A0;Eu &#x00E9;gard &#x00E0; Dieu et &#x00E0; la religion, on devait certes les consid&#x00E9;rer comme des concitoyens ; mais, eu &#x00E9;gard au droit de chaque tribu sur une autre, seulement comme des conf&#x00E9;d&#x00E9;r&#x00E9;s<renvoi id="re1no7" idref="no7" typeref="note">7</renvoi>.&#x00A0;&#x00BB; La citoyennet&#x00E9; repose sur une appartenance religieuse tandis que la conf&#x00E9;d&#x00E9;ration r&#x00E9;sulte de l&#x2019;organisation tribale.</alinea></para>
+<para id="pa491"><alinea>C&#x2019;est donc relativement &#x00E0; cette division tribale de la souverainet&#x00E9; politique que l&#x2019;on con&#x00E7;oit que l&#x2019;&#x00C9;tat ne puisse maintenir son unit&#x00E9; que sous une forme th&#x00E9;ocratique. Seule la r&#x00E9;f&#x00E9;rence au Temple comme &#x00AB;&#x00A0;demeure royale de l&#x2019;&#x00C9;tat [&#x2026;] faisait de tous les membres des tribus des concitoyens<renvoi id="re1no8" idref="no8" typeref="note">8</renvoi>.&#x00A0;&#x00BB; La th&#x00E9;ocratie appara&#x00EE;t donc pour les H&#x00E9;breux comme la seule forme de gouvernement adapt&#x00E9;e &#x00E0; l&#x2019;organisation tribale de la soci&#x00E9;t&#x00E9;<renvoi id="re1no9" idref="no9" typeref="note">9</renvoi>.</alinea></para>
+<para id="pa492"><alinea>&#x00C0; l&#x2019;encontre de ce que certains commentateurs soutiennent, la th&#x00E9;ocratie h&#x00E9;bra&#x00EF;que, en d&#x00E9;pit du fait que les rites religieux tendent &#x00E0; r&#x00E9;gir la totalit&#x00E9; de l&#x2019;existence des individus<renvoi id="re1no10" idref="no10" typeref="note">10</renvoi> n&#x2019;a donc, aux yeux de Spinoza, rien de totalitaire. Le r&#x00E9;gime th&#x00E9;ocratique est sous-tendu par une &#x00AB;&#x00A0;anarchie ordonn&#x00E9;e&#x00A0;&#x00BB; tribale. La soci&#x00E9;t&#x00E9; des H&#x00E9;breux est donc au mieux holiste, le primat de la concorde religieuse r&#x00E9;sulte d&#x2019;une valorisation de la coh&#x00E9;sion sociale, qui s&#x2019;impose simplement &#x00E0; l&#x2019;&#x00E9;chelle de la conf&#x00E9;d&#x00E9;ration.</alinea></para>
+<para id="pa493"><alinea>La conf&#x00E9;d&#x00E9;ration des H&#x00E9;breux semble &#x00EA;tre con&#x00E7;ue selon la logique contractuelle de l&#x2019;alliance qui intervient entre des entit&#x00E9;s souveraines<renvoi id="re1no11" idref="no11" typeref="note">11</renvoi>.</alinea></para>
+<para id="pa494"><alinea>L&#x2019;organisation tribale de la soci&#x00E9;t&#x00E9; rend donc superflue l&#x2019;&#x00E9;mergence d&#x2019;une puissance souveraine <marquage typemarq="italique">centrale</marquage>. Seule la perspective d&#x2019;une guerre de conqu&#x00EA;te justifiait pour les H&#x00E9;breux l&#x2019;institution d&#x2019;un <np pagenum="292"/>commandement commun&#x00A0;: &#x00AB;&#x00A0;apr&#x00E8;s que toutes les tribus se furent partag&#x00E9; les terres acquises par droit de guerre [&#x2026;] par l&#x00E0; m&#x00EA;me cessa la justification d&#x2019;un commandement en chef commun, puisque cette division faisait que les membres des diff&#x00E9;rentes tribus devaient &#x00EA;tre consid&#x00E9;r&#x00E9;s moins comme des concitoyens que comme des conf&#x00E9;d&#x00E9;r&#x00E9;s<renvoi id="re1no12" idref="no12" typeref="note">12</renvoi>.&#x00A0;&#x00BB; L&#x2019;institution d&#x2019;un commandement commun s&#x2019;imposait aussi longtemps qu&#x2019;une guerre de conqu&#x00EA;te &#x00E9;tait entreprise. Le concept de souverainet&#x00E9; devrait donc &#x00EA;tre rattach&#x00E9; ici &#x00E0; la notion d&#x2019;<marquage typemarq="italique">imperium</marquage>, de commandement militaire.</alinea></para>
+<para id="pa495"><alinea>Apr&#x00E8;s la division du territoire conquis, des &#x00AB;&#x00A0;princes de tribus&#x00A0;&#x00BB; sont choisis afin de conserver la presque totalit&#x00E9; des pr&#x00E9;rogatives de la souverainet&#x00E9; sur leur &#x00C9;tat particulier. Chaque tribu &#x00AB;&#x00A0;&#x00E9;tait divis&#x00E9;e en familles (<marquage typemarq="italique">familias</marquage>) dont les chefs &#x00E9;taient choisis parmi les plus anciens<renvoi id="re1no13" idref="no13" typeref="note">13</renvoi>&#x00A0;&#x00BB;. M&#x00EA;me si Spinoza souligne que le &#x00AB;&#x00A0;droit sacr&#x00E9; des consanguins&#x00A0;&#x00BB;, des fr&#x00E8;res et des parents, se trouve au principe de la coh&#x00E9;sion et de la solidarit&#x00E9; de chaque tribu, ce droit n&#x2019;accorde aucune autorit&#x00E9; sur la tribu, &#x00AB;&#x00A0;le prince ne surpassait pas les autres par la noblesse ni le droit du sang mais c&#x2019;est seulement en raison de son &#x00E2;ge et de sa vertu que l&#x2019;administration de l&#x2019;&#x00C9;tat lui incombait<renvoi id="re1no14" idref="no14" typeref="note">14</renvoi>&#x00A0;&#x00BB;. Alors que la parent&#x00E9; constitue le principe de la coh&#x00E9;sion sociale, les tribus ne reconnaissent aucun principe de succession dynastique. Selon le principe de l&#x2019;&#x00E9;galit&#x00E9; tribale, qui est au c&#x0153;ur du code de conduite des H&#x00E9;breux, nul ne peut recevoir d&#x2019;ordre d&#x2019;un &#x00E9;gal<renvoi id="re1no15" idref="no15" typeref="note">15</renvoi>. Les membres de chaque tribu choisissent librement leurs chefs, qui exercent le pouvoir &#x00E0; tour de r&#x00F4;le<renvoi id="re1no16" idref="no16" typeref="note">16</renvoi>. Alors que Spinoza remarque que la th&#x00E9;ocratie h&#x00E9;bra&#x00EF;que a pu se pr&#x00E9;senter, de mani&#x00E8;re fugitive, comme une d&#x00E9;mocratie, il est surprenant qu&#x2019;il ne conclue pas son analyse de l&#x2019;&#x00E9;galit&#x00E9; politique tribale en notant qu&#x2019;elle repose sur une forme primitive de d&#x00E9;mocratie<renvoi id="re1no17" idref="no17" typeref="note">17</renvoi>.</alinea></para>
+<para id="pa496"><alinea><np pagenum="293"/>Cependant, au-del&#x00E0; de cette &#x00E9;galit&#x00E9; politique tribale, ce qui est fondamental aux yeux de Spinoza, c&#x2019;est qu&#x2019;il n&#x2019;y a pas de tribu sans territoire. Selon Spinoza, le v&#x00E9;ritable principe de la coh&#x00E9;sion tribale se trouve dans une &#x00AB;&#x00A0;institution exceptionnelle&#x00A0;&#x00BB; qui s&#x2019;accordait &#x00E0; l&#x2019;int&#x00E9;r&#x00EA;t de chaque membre<renvoi id="re1no18" idref="no18" typeref="note">18</renvoi>. Nulle part au monde les citoyens ne poss&#x00E9;daient &#x00AB;&#x00A0;un droit de propri&#x00E9;t&#x00E9; sup&#x00E9;rieur&#x00A0;&#x00BB;, &#x00AB;&#x00A0;chacun avait une part des terres et des champs &#x00E9;gale &#x00E0; celle du prince, et chacun y &#x00E9;tait le ma&#x00EE;tre &#x00E9;ternel de sa part<renvoi id="re1no19" idref="no19" typeref="note">19</renvoi>&#x00A0;&#x00BB;. L&#x2019;institution du jubil&#x00E9; nous permet ainsi de rep&#x00E9;rer la manifestation d&#x2019;une forme de &#x00AB;&#x00A0;temps structural&#x00A0;&#x00BB;, pour reprendre l&#x2019;expression d&#x2019;Evans-Pritchard&#x00A0;: &#x00AB;&#x00A0;si la pauvret&#x00E9; contraignait quelqu&#x2019;un &#x00E0; vendre son fonds ou son champ, on devait le lui restituer int&#x00E9;gralement au moment du jubil&#x00E9;<renvoi id="re1no20" idref="no20" typeref="note">20</renvoi>&#x00A0;&#x00BB;. L&#x2019;institution de ce temps cyclique se pr&#x00E9;sente alors comme la cons&#x00E9;quence de l&#x2019;&#x00E9;ternit&#x00E9; de la structure tribale dans la dur&#x00E9;e de l&#x2019;histoire. L&#x2019;organisation tribale de la soci&#x00E9;t&#x00E9; permet ainsi l&#x2019;&#x00E9;mergence d&#x2019;un droit de propri&#x00E9;t&#x00E9; sup&#x00E9;rieur, tandis que la fraternit&#x00E9; religieuse, la charit&#x00E9; envers le prochain, le concitoyen, rendait &#x00AB;&#x00A0;la pauvret&#x00E9; supportable<renvoi id="re1no21" idref="no21" typeref="note">21</renvoi>&#x00A0;&#x00BB;. Selon Spinoza, la conjonction de cette &#x00E9;gale distribution tribale et de cette fraternit&#x00E9; religieuse contribuait &#x00AB;&#x00A0;&#x00E0; &#x00E9;viter les guerres civiles et &#x00E0; supprimer les causes de conflit<renvoi id="re1no22" idref="no22" typeref="note">22</renvoi>&#x00A0;&#x00BB;, aliment&#x00E9;es par l&#x2019;envie.</alinea></para>
+</section1>
+<section1 id="s1n49">
+<titre>Les guerres intertribales</titre>
+<para id="pa497"><alinea>N&#x00E9;anmoins, malgr&#x00E9; l&#x2019;alliance entre les tribus, des guerres intertribales pouvaient survenir. Il importe alors de dissocier la guerre offensive ou d&#x00E9;fensive, telle qu&#x2019;elle se manifeste au sein de l&#x2019;&#x00E9;tat de nature <np pagenum="294"/>qui commande les relations entre Nations, des diff&#x00E9;rents conflits qui peuvent surgir au sein d&#x2019;une conf&#x00E9;d&#x00E9;ration tribale. Si une tribu mena&#x00E7;ait de se s&#x00E9;parer de Dieu, &#x00AB;&#x00A0;les autres tribus devaient l&#x2019;attaquer comme un ennemi qui aurait rompu un engagement avec elles<renvoi id="re1no23" idref="no23" typeref="note">23</renvoi>&#x00A0;&#x00BB;. Mais compte tenu des clauses religieuses, &#x00AB;&#x00A0;peu rigoureuses<renvoi id="re1no24" idref="no24" typeref="note">24</renvoi>&#x00A0;&#x00BB;, qui pr&#x00E9;sidaient seules &#x00E0; la conf&#x00E9;d&#x00E9;ration, en pratique/de fait, &#x00AB;&#x00A0;il n&#x2019;y avait pas de raison pour que les tribus commencent &#x00E0; se faire mutuellement la guerre ni pour qu&#x2019;elles se m&#x00EA;lent des affaires les unes des autres<renvoi id="re1no25" idref="no25" typeref="note">25</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa498"><alinea>La guerre intertribale pouvait n&#x00E9;anmoins intervenir &#x00E0; l&#x2019;occasion d&#x2019;une offense. Par exemple, lorsque la tribu de Benjamin outragea une femme de la tribu de L&#x00E9;vi, toutes les tribus conf&#x00E9;d&#x00E9;r&#x00E9;es se rassembl&#x00E8;rent pour venger le dommage subi<renvoi id="re1no26" idref="no26" typeref="note">26</renvoi>. La vengeance collective r&#x00E9;sultant d&#x2019;une offense ne peut intervenir qu&#x2019;entre groupes politiques partageant des valeurs communes mais qui ne reconnaissent pas de juge commun pour arbitrer leurs diff&#x00E9;rends.</alinea></para>
+<para id="pa499"><alinea>On voit bien que la structure sociale tribale manifeste directement ses effets dans l&#x2019;histoire des h&#x00E9;breux. En vertu du m&#x00E9;canisme de l&#x2019;opposition segmentaire qui r&#x00E9;git la structure tribale, les h&#x00E9;breux sont contraints de soutenir un parent proche contre un parent &#x00E9;loign&#x00E9;. Le choix des ennemis n&#x2019;est pas libre, il est donc impos&#x00E9; par la structure sociale.</alinea></para>
+<para id="pa500"><alinea>Pourtant, Spinoza souligne que les tribus r&#x00E9;unies &#x00AB;&#x00A0;massacr&#x00E8;rent par droit de guerre les coupables et les innocents, ce dont elles se lament&#x00E8;rent ensuite en le regrettant trop tard<renvoi id="re1no27" idref="no27" typeref="note">27</renvoi>&#x00A0;&#x00BB;. L&#x2019;&#x00E9;pisode relat&#x00E9; dans l&#x2019;&#x00C9;criture insiste sur le tiraillement int&#x00E9;rieur des H&#x00E9;breux d&#x00E9;chir&#x00E9;s entre le respect de la solidarit&#x00E9; tribale et l&#x2019;imp&#x00E9;ratif religieux de n&#x2019;&#x00E9;pargner personne qui exc&#x00E8;de le droit de vengeance. Si l&#x2019;imp&#x00E9;ratif religieux l&#x2019;a emport&#x00E9;, c&#x2019;est que la tribu de L&#x00E9;vi, charg&#x00E9;e d&#x2019;administrer les choses sacr&#x00E9;es, &#x00E9;tait victime de l&#x2019;outrage. Tandis que dans la forme classique de la vendetta tribale, le conflit est toujours l&#x2019;instrument d&#x2019;un retour &#x00E0; <np pagenum="295"/>l&#x2019;ordre, d&#x2019;un nouvel &#x00E9;quilibre entre les tribus. Apr&#x00E8;s ce moment d&#x2019;&#x00E9;garement, les H&#x00E9;breux retrouvent les principes de la guerre tribale&#x00A0;: cette guerre civile &#x00AB;&#x00A0;se termina&#x2026;par un apaisement complet, et les vainqueurs eurent tant de mansu&#x00E9;tude pour les vaincus qu&#x2019;ils mirent tous leurs soins &#x00E0; les r&#x00E9;tablir dans leur ancienne dignit&#x00E9; et leur ancienne puissance<renvoi id="re1no28" idref="no28" typeref="note">28</renvoi>.&#x00A0;&#x00BB;</alinea></para>
+<para id="pa501"><alinea>En ce sens, &#x00E0; l&#x2019;encontre de ce que Spinoza soutient au chapitre XVI du <marquage typemarq="italique">TTP</marquage>, le droit que la Cit&#x00E9; oppose &#x00E0; un ennemi ext&#x00E9;rieur, qui ne reconna&#x00EE;t pas son pouvoir, ne serait pas le m&#x00EA;me que le droit de vengeance &#x00E0; l&#x2019;&#x00E9;gard d&#x2019;un ennemi int&#x00E9;rieur, d&#x2019;un membre de la conf&#x00E9;d&#x00E9;ration tribale qui lui a caus&#x00E9; un dommage<renvoi id="re1no29" idref="no29" typeref="note">29</renvoi>.</alinea></para>
+<para id="pa502"><alinea>Spinoza remarque ainsi &#x00AB;&#x00A0;qu&#x2019;aussi longtemps que le peuple conserva le pouvoir&#x00A0;&#x00BB;, c&#x2019;est-&#x00E0;-dire que la multitude fut organis&#x00E9;e selon la forme d&#x2019;une conf&#x00E9;d&#x00E9;ration tribale, &#x00AB;&#x00A0;il n&#x2019;y eut qu&#x2019;une seule guerre civile<renvoi id="re1no30" idref="no30" typeref="note">30</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa503"><alinea>Une conf&#x00E9;d&#x00E9;ration tribale qui repose sur une relation d&#x2019;alliance entre plusieurs segments particuliers repr&#x00E9;sente donc pour Spinoza un mod&#x00E8;le de stabilit&#x00E9;, en d&#x00E9;pit des conflits qui peuvent toujours survenir tant qu&#x2019;ils n&#x2019;auront que Dieu pour juge commun<renvoi id="re1no31" idref="no31" typeref="note">31</renvoi>.</alinea></para>
+<para id="pa504"><alinea>Spinoza en conclut donc, selon la logique de l&#x2019;analyse anthropologique, que la conf&#x00E9;d&#x00E9;ration des tribus h&#x00E9;bra&#x00EF;ques peut donc &#x00EA;tre compar&#x00E9;e &#x00AB;&#x00A0;(si on met &#x00E0; part le temple commun)&#x00A0;&#x00BB; avec &#x00AB;&#x00A0;les Hautes Puissances, les &#x00C9;tats conf&#x00E9;d&#x00E9;r&#x00E9;s des N&#x00E9;erlandais<renvoi id="re1no32" idref="no32" typeref="note">32</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+</section1>
+<section1 id="s1n50">
+<titre>La caste des L&#x00E9;vites</titre>
+<para id="pa505"><alinea>L&#x2019;analyse anthropologique de l&#x2019;histoire des H&#x00E9;breux va donc conduire Spinoza &#x00E0; formuler une remarque d&#x00E9;cisive&#x00A0;: &#x00AB;&#x00A0;toutes les tribus seraient rest&#x00E9;es bien plus &#x00E9;troitement unies si toutes avaient eu un droit &#x00E9;gal d&#x2019;administrer les choses sacr&#x00E9;es<renvoi id="re1no33" idref="no33" typeref="note">33</renvoi>.&#x00A0;&#x00BB; On voit bien que le principe du conflit entre la conf&#x00E9;d&#x00E9;ration et la tribu de Benjamin qui repose sur la <np pagenum="296"/>vengeance d&#x2019;une offense subie n&#x2019;est pas le m&#x00EA;me que celui qui nourrit l&#x2019;hostilit&#x00E9; &#x00E0; l&#x2019;&#x00E9;gard de la supr&#x00E9;matie religieuse accord&#x00E9;e &#x00E0; la tribu des L&#x00E9;vites, l&#x2019;indignation devant l&#x2019;atteinte &#x00E0; l&#x2019;&#x00E9;galit&#x00E9; tribale.</alinea></para>
+<para id="pa506"><alinea>Ainsi, selon Spinoza, &#x00AB;&#x00A0;l&#x2019;intention premi&#x00E8;re fut de transmettre la totalit&#x00E9; du minist&#x00E8;re sacr&#x00E9; aux premiers n&#x00E9;s et non pas aux L&#x00E9;vites&#x00A0;&#x00BB;. On retrouve ainsi le principe de la division des pouvoirs pr&#x00E9;sent dans l&#x2019;ensemble des soci&#x00E9;t&#x00E9;s tribales, les chefs tribaux choisis par le peuple pour leurs comp&#x00E9;tences partagent le pouvoir avec des dignitaires religieux, &#x00E9;ventuellement choisis parmi les a&#x00EE;n&#x00E9;s.</alinea></para>
+<para id="pa507"><alinea>Mais poursuit Spinoza &#x00AB;&#x00A0;apr&#x00E8;s que tous, sauf les L&#x00E9;vites, eurent ador&#x00E9; le veau d&#x2019;or, les premiers n&#x00E9;s furent r&#x00E9;pudi&#x00E9;s et r&#x00E9;put&#x00E9;s impurs et les L&#x00E9;vites furent choisis &#x00E0; leur place<renvoi id="re1no34" idref="no34" typeref="note">34</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa508"><alinea>L&#x2019;objet de l&#x2019;indignation est donc clairement identifi&#x00E9;&#x00A0;: comment s&#x2019;arroger le droit de d&#x00E9;clarer impurs les membres d&#x2019;une soci&#x00E9;t&#x00E9; tribale ?</alinea></para>
+<para id="pa509"><alinea>La tribu des L&#x00E9;vites fut s&#x00E9;par&#x00E9;e des autres tribus formant la conf&#x00E9;d&#x00E9;ration, parce qu&#x2019;elle &#x00E9;tait garante &#x00AB;&#x00A0;de l&#x2019;interpr&#x00E9;tation vraie des lois<renvoi id="re1no35" idref="no35" typeref="note">35</renvoi>&#x00A0;&#x00BB;. Cette tribu devint alors comparable &#x00E0; une caste, elle retirait sa dignit&#x00E9; du fait qu&#x2019;elle &#x00E9;tait &#x00AB;&#x00A0;compl&#x00E8;tement &#x00E9;cart&#x00E9;e du domaine commun de l&#x2019;&#x00C9;tat<renvoi id="re1no36" idref="no36" typeref="note">36</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa510"><alinea>Le reste du peuple fut soumis par Mo&#x00EF;se &#x00E0; l&#x2019;obligation d&#x2019;assurer la subsistance de cette caste de pr&#x00EA;tres afin qu&#x2019;elle f&#x00FB;t l&#x2019;objet du plus grand honneur<renvoi id="re1no37" idref="no37" typeref="note">37</renvoi>. L&#x2019;ensemble de ces privil&#x00E8;ges se transmettaient, &#x00E0; l&#x2019;encontre de la logique tribale, selon le principe de la succession h&#x00E9;r&#x00E9;ditaire. C&#x2019;est en ce sens que les H&#x00E9;breux perdent le droit de d&#x00E9;signer le successeur de Mo&#x00EF;se<renvoi id="re1no38" idref="no38" typeref="note">38</renvoi>. Ces marques institutionnelles de d&#x00E9;f&#x00E9;rence, &#x00AB;&#x00A0;rappelaient continuellement aux autres tribus leur impuret&#x00E9; et leur r&#x00E9;pudiation<renvoi id="re1no39" idref="no39" typeref="note">39</renvoi>&#x00A0;&#x00BB;. <np pagenum="297"/>La distinction religieuse entre le pur et l&#x2019;impur devient donc un principe de hi&#x00E9;rarchie sociale qui rompt avec le code l&#x2019;&#x00E9;galit&#x00E9; tribale.</alinea></para>
+<para id="pa511"><alinea>C&#x2019;est cette institutionnalisation de l&#x2019;impuret&#x00E9; qui explique les nombreuses s&#x00E9;ditions qui ont affect&#x00E9; l&#x2019;&#x00C9;tat des H&#x00E9;breux et qui se sont manifest&#x00E9;es d&#x00E8;s le r&#x00E8;gne de Mo&#x00EF;se&#x00A0;: &#x00AB;&#x00A0;un grand nombre d&#x2019;hommes, et qui n&#x2019;&#x00E9;taient pas de la pl&#x00E8;be&#x00A0;&#x00BB;, c&#x2019;est-&#x00E0;-dire des chefs tribaux, all&#x00E8;rent voir Mo&#x00EF;se &#x00AB;&#x00A0;excit&#x00E9;s et en d&#x00E9;sordre, criant qu&#x2019;ils &#x00E9;taient tous &#x00E9;galement saints et qu&#x2019;il s&#x2019;&#x00E9;tait &#x00E9;lev&#x00E9; sans aucun droit au-dessus des autres<renvoi id="re1no40" idref="no40" typeref="note">40</renvoi>&#x00A0;&#x00BB;. D&#x2019;apr&#x00E8;s les insurg&#x00E9;s, Mo&#x00EF;se a &#x00E9;lev&#x00E9; par un artifice sa propre tribu au-dessus des autres, alors que selon l&#x2019;inspiration premi&#x00E8;re de la r&#x00E9;publique des H&#x00E9;breux, toutes les tribus devraient avoir les m&#x00EA;mes droits et les m&#x00EA;mes honneurs<renvoi id="re1no41" idref="no41" typeref="note">41</renvoi>.</alinea></para>
+<para id="pa512"><alinea>On doit comprendre que les tribus h&#x00E9;bra&#x00EF;ques affaiblies par les conditions de leur captivit&#x00E9; en &#x00C9;gypte pr&#x00E9;sentent une organisation sociale propice &#x00E0; l&#x2019;irruption d&#x2019;un proph&#x00E8;te-l&#x00E9;gislateur assignant une mission religieuse &#x00E0; la conf&#x00E9;d&#x00E9;ration. Mo&#x00EF;se s&#x2019;est donc octroy&#x00E9; le droit de juger impur l&#x2019;ensemble des tribus qui avaient renou&#x00E9; avec des pratiques d&#x2019;inspiration tot&#x00E9;mique. Statuer sur l&#x2019;impuret&#x00E9; s&#x2019;apparente donc &#x00E0; un droit d&#x2019;excommunier, qui permet de choisir librement ses ennemis en d&#x00E9;passant le m&#x00E9;canisme de l&#x2019;opposition segmentaire, en transcendant les clivages tribaux.</alinea></para>
+</section1>
+<section1 id="s1n51">
+<titre>De l&#x2019;apparition des proph&#x00E8;tes &#x00E0; la formation des sectes</titre>
+<para id="pa513"><alinea>On pourrait alors soutenir que la religion de Mo&#x00EF;se, en promouvant la distinction entre le pur et l&#x2019;impur, vise &#x00E0; suspendre l&#x2019;organisation tribale du peuple h&#x00E9;breu. Or, Selon Spinoza, c&#x2019;est pr&#x00E9;cis&#x00E9;ment l&#x2019;attribution de l&#x2019;administration des choses sacr&#x00E9;es &#x00E0; une caste de pr&#x00EA;tres r&#x00E9;put&#x00E9;s purs qui se trouve &#x00E0; l&#x2019;origine de l&#x2019;&#x00E9;rosion de la concorde religieuse<renvoi id="re1no42" idref="no42" typeref="note">42</renvoi>. C&#x2019;est cette m&#x00EA;me discorde religieuse&#x00A0;qui a provoqu&#x00E9; la chute du r&#x00E9;gime th&#x00E9;ocratique et l&#x2019;instauration d&#x2019;une monarchie<renvoi id="re1no43" idref="no43" typeref="note">43</renvoi>.</alinea></para>
+<para id="pa514"><alinea><np pagenum="298"/>Le passage du r&#x00E9;gime des juges &#x00E0; celui des rois r&#x00E9;pond &#x00E0; la n&#x00E9;cessit&#x00E9; de maintenir la coh&#x00E9;sion de la conf&#x00E9;d&#x00E9;ration tribale &#x00E0; un moment o&#x00F9; l&#x2019;unit&#x00E9; des croyances religieuses s&#x2019;&#x00E9;tait &#x00E9;rod&#x00E9;e<renvoi id="re1no44" idref="no44" typeref="note">44</renvoi>. D&#x00E9;sormais &#x00AB;&#x00A0;les membres de toutes les tribus demeurent concitoyens non plus en vertu du droit divin ou du pontificat mais du droit des rois<renvoi id="re1no45" idref="no45" typeref="note">45</renvoi>&#x00A0;&#x00BB;. Mais, dans le cadre de la superposition d&#x2019;un r&#x00E9;gime monarchique &#x00E0; la conf&#x00E9;d&#x00E9;ration tribale, la d&#x00E9;volution du droit d&#x2019;administrer les choses sacr&#x00E9;es aux seuls pontifes est per&#x00E7;ue par le roi comme une limitation intol&#x00E9;rable de sa souverainet&#x00E9;. Alors que la division de la souverainet&#x00E9; dans le cadre de l&#x2019;organisation tribale &#x00E9;tait source de stabilit&#x00E9;, la division de la souverainet&#x00E9; royale est une source in&#x00E9;puisable de conflits.</alinea></para>
+<para id="pa515"><alinea>Selon Spinoza, les H&#x00E9;breux accoutum&#x00E9;s &#x00E0; l&#x2019;organisation tribale de la soci&#x00E9;t&#x00E9; n&#x2019;auraient jamais d&#x00FB; choisir un monarque<renvoi id="re1no46" idref="no46" typeref="note">46</renvoi>. D&#x00E9;sormais la coh&#x00E9;sion de la conf&#x00E9;d&#x00E9;ration est fragilis&#x00E9;e par un conflit, qui transcende les appartenances tribales, entre les pontifes et le monarque. En effet l&#x2019;instauration du r&#x00E9;gime monarchique va provoquer le surgissement de nouveaux ph&#x00E9;nom&#x00E8;nes&#x00A0;: &#x00AB;&#x00A0;avant les rois ; il y eut fort peu de proph&#x00E8;tes<renvoi id="re1no47" idref="no47" typeref="note">47</renvoi>.&#x00A0;&#x00BB; D&#x00E9;sormais de faux proph&#x00E8;tes abusant le peuple prolif&#x00E8;rent afin de renforcer le pouvoir monarchique fragilis&#x00E9; par l&#x2019;autorit&#x00E9; des pontifes<renvoi id="re1no48" idref="no48" typeref="note">48</renvoi> et les r&#x00E9;criminations des vrais proph&#x00E8;tes<renvoi id="re1no49" idref="no49" typeref="note">49</renvoi>.</alinea></para>
+<para id="pa516"><alinea>Les proph&#x00E8;tes sont &#x00AB;&#x00A0;de simples particuliers&#x00A0;&#x00BB; dot&#x00E9;s d&#x2019;une &#x00AB;&#x00A0;libert&#x00E9; [&#x2026;] d&#x2019;instruire, d&#x2019;invectiver et de bl&#x00E2;mer<renvoi id="re1no50" idref="no50" typeref="note">50</renvoi>&#x00A0;&#x00BB;. Or c&#x2019;est par l&#x2019;abus de ce droit qu&#x2019;ils provoqu&#x00E8;rent &#x00AB;&#x00A0;d&#x2019;importantes guerres civiles<renvoi id="re1no51" idref="no51" typeref="note">51</renvoi>&#x00A0;&#x00BB;. C&#x2019;est comme si la souverainet&#x00E9; monarchique dilatait et enflammait l&#x2019;imagination des proph&#x00E8;tes.</alinea></para>
+<para id="pa517"><alinea><np pagenum="299"/>Deux questions frappent particuli&#x00E8;rement Spinoza&#x00A0;: comment une caste charg&#x00E9;e de pr&#x00E9;server les lois religieuses a-t-elle pu provoquer la naissance de sectes ? Comment passe-t-on d&#x2019;une organisation tribale &#x00E0; une organisation sectaire de la multitude ? Le ph&#x00E9;nom&#x00E8;ne sectaire para&#x00EE;t indissociable de l&#x2019;&#x00E9;mergence de l&#x2019;individualisme religieux. Chaque secte s&#x2019;appuie sur la revendication par tous les individus d&#x2019;un droit &#x00E9;gal de proph&#x00E9;tiser. Il faut n&#x00E9;anmoins pr&#x00E9;ciser que la revendication d&#x2019;une &#x00E9;galit&#x00E9; entre les tribus dans l&#x2019;administration des choses sacr&#x00E9;es ne se confond pas avec la doctrine de l&#x2019;individualisme religieux qui reconna&#x00EE;t &#x00E0; chaque individu le droit d&#x2019;interpr&#x00E9;ter la parole de Dieu et non d&#x2019;en administrer le culte.</alinea></para>
+<para id="pa518"><alinea>Or, il est naturel qu&#x2019;un individu qui d&#x00E9;tient l&#x00E9;gitimement le droit de juger les choses sacr&#x00E9;es selon sa complexion se laisse emporter par le d&#x00E9;sir de les administrer, de former des sectes.</alinea></para>
+<para id="pa519"><alinea>L&#x2019;institution d&#x2019;une secte suppose l&#x2019;invention de dogmes in&#x00E9;dits qui favorisent la formation de nouveaux groupes sociaux en rupture avec le principe de la succession h&#x00E9;r&#x00E9;ditaire, en vigueur dans l&#x2019;administration des choses sacr&#x00E9;es.</alinea></para>
+<para id="pa520"><alinea>Selon Spinoza, d&#x00E8;s lors que le pouvoir souverain d&#x00E9;l&#x00E8;gue l&#x2019;interpr&#x00E9;tation du droit divin &#x00E0; une secte, ses docteurs vont abuser du droit d&#x2019;excommunier et &#x00AB;&#x00A0;enflammer [&#x2026;] la fureur de la multitude f&#x00E9;roce&#x00A0;&#x00BB; contre tous les citoyens qui sont accus&#x00E9;s publiquement d&#x2019;impi&#x00E9;t&#x00E9;<renvoi id="re1no52" idref="no52" typeref="note">52</renvoi>.</alinea></para>
+<para id="pa521"><alinea>Le droit d&#x2019;excommunier se pr&#x00E9;sente alors comme l&#x2019;arme du faible qui mine la puissance du pouvoir souverain. Spinoza finit par affirmer que toutes les pr&#x00E9;rogatives de la souverainet&#x00E9;, et notamment le droit de d&#x00E9;cider de la guerre et de la paix, sont suspendues au &#x00AB;&#x00A0;droit de juger et de d&#x00E9;cr&#x00E9;ter ce qui pieux ou impie, sacril&#x00E8;ge ou non<renvoi id="re1no53" idref="no53" typeref="note">53</renvoi>&#x00A0;&#x00BB;. Le pouvoir de d&#x00E9;cr&#x00E9;ter ce qui est pur ou impur, pieux ou impie, sacr&#x00E9; ou profane <np pagenum="300"/>semble concentrer l&#x2019;essence de la souverainet&#x00E9;, ce qui jette un nouvel &#x00E9;clairage sur la proclamation d&#x2019;impuret&#x00E9; fondatrice de Mo&#x00EF;se.</alinea></para>
+<para id="pa522"><alinea>L&#x2019;absence notable de sectes au sein du premier &#x00C9;tat des H&#x00E9;breux est sans aucun doute li&#x00E9;e &#x00E0; l&#x2019;organisation tribale de la multitude. La multitude est dot&#x00E9;e d&#x2019;une stabilit&#x00E9; sup&#x00E9;rieure lorsqu&#x2019;elle est con&#x00E7;ue comme une conf&#x00E9;d&#x00E9;ration tribale et non comme un peuple de proph&#x00E8;tes<renvoi id="re1no54" idref="no54" typeref="note">54</renvoi>. Car celui qui proph&#x00E9;tise se pr&#x00E9;sente comme un individu qui cesse de communier avec le groupe tribal.</alinea></para>
+<para id="pa523"><alinea>Comme le souligne Spinoza, si, dans le premier &#x00C9;tat, les pontifes d&#x00E9;tenaient le droit d&#x2019;interpr&#x00E9;ter les lois, &#x00AB;&#x00A0;il ne leur appartenait pas de juger les citoyens ou d&#x2019;excommunier quelqu&#x2019;un. Cela relevait seulement des juges ou des princes d&#x00E9;sign&#x00E9;s par le peuple<renvoi id="re1no55" idref="no55" typeref="note">55</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa524"><alinea>Si les sectes sont apparues dans le second &#x00C9;tat, c&#x2019;est que les pontifes ont usurp&#x00E9; le droit souverain de d&#x00E9;cr&#x00E9;ter, alors qu&#x2019;ils ne poss&#x00E9;daient que celui de &#x00AB;&#x00A0;donner les r&#x00E9;ponses de Dieu quand ils &#x00E9;taient interrog&#x00E9;s par les princes ou les conseils<renvoi id="re1no56" idref="no56" typeref="note">56</renvoi>&#x00A0;&#x00BB; tribaux.</alinea></para>
+<para id="pa525"><alinea>C&#x2019;est cette usurpation de la souverainet&#x00E9; par les pontifes qui a favoris&#x00E9; les conflits entre le parti conservateur des sadduc&#x00E9;ens et la secte des pharisiens. Ces docteurs de basse extraction sont accus&#x00E9;s de provoquer la division de la multitude en sectes<renvoi id="re1no57" idref="no57" typeref="note">57</renvoi>. Ce qui caract&#x00E9;rise le second &#x00C9;tat des H&#x00E9;breux ce sont donc les profondes controverses th&#x00E9;ologiques dont il est le th&#x00E9;&#x00E2;tre<renvoi id="re1no58" idref="no58" typeref="note">58</renvoi>.</alinea></para>
+<para id="pa526"><alinea>De m&#x00EA;me que les pharisiens pour &#x00AB;&#x00A0;d&#x00E9;pouiller les plus riches de leurs dignit&#x00E9;s [&#x2026;] se mirent &#x00E0; accuser les sadduc&#x00E9;ens d&#x2019;impi&#x00E9;t&#x00E9;&#x00A0;&#x00BB;, au sein de la R&#x00E9;publique des Provinces Unies, diff&#x00E9;rentes sectes conduisent la multitude &#x00E0; d&#x00E9;tester &#x00AB;&#x00A0;des hommes remarquables par leur probit&#x00E9; et illustres par leur vertu<renvoi id="re1no59" idref="no59" typeref="note">59</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa527"><alinea><np pagenum="301"/>Cette exploitation sectaire du pouvoir d&#x2019;excommunier vise &#x00E0; instrumentaliser des croyances religieuses afin de conqu&#x00E9;rir de nouvelles dignit&#x00E9;s<renvoi id="re1no60" idref="no60" typeref="note">60</renvoi>. D&#x00E9;sormais, aux antipodes de la succession h&#x00E9;r&#x00E9;ditaire, l&#x2019;ascension sociale passe par la conqu&#x00EA;te des charges religieuses&#x00A0;: &#x00AB;&#x00A0;la religion s&#x2019;est r&#x00E9;duite pour le peuple &#x00E0; tenir les minist&#x00E8;res de l&#x2019;&#x00C9;glise pour des dignit&#x00E9;s si bien qu&#x2019;un immense d&#x00E9;sir d&#x2019;administrer les choses sacr&#x00E9;es&#x00A0;&#x00BB;&#x00A0;s&#x2019;est empar&#x00E9; des plus ambitieux<renvoi id="re1no61" idref="no61" typeref="note">61</renvoi>. Chaque dignitaire religieux ambitionne d&#x2019;identifier l&#x2019;ennemi int&#x00E9;rieur, qui n&#x2019;est plus seulement l&#x2019;impur que l&#x2019;on tient &#x00E0; distance mais celui qui est excommuni&#x00E9; par le chef charismatique d&#x2019;une secte.</alinea></para>
+<para id="pa528"><alinea>La controverse, au c&#x0153;ur m&#x00EA;me du calvinisme, entre les Remontrants et les Contre-Remontrants qui a affect&#x00E9; la R&#x00E9;publique des Provinces unies entre 1610 et 1619, r&#x00E9;v&#x00E8;le donc pour Spinoza le principe m&#x00EA;me de la formation sectaire de la multitude.</alinea></para>
+</section1>
+<section1 id="s1n52">
+<titre>La formation th&#x00E9;ologico-politique de la nation</titre>
+<para id="pa529"><alinea>Au-del&#x00E0; des m&#x00E9;tamorphoses de l&#x2019;ennemi int&#x00E9;rieur &#x00E9;tudi&#x00E9;es &#x00E0; partir des concepts de tribu, de caste et de secte, comment identifier la figure de l&#x2019;ennemi ext&#x00E9;rieur telle qu&#x2019;elle se cristallise dans les relations internationales ?</alinea></para>
+<para id="pa530"><alinea>Spinoza nous invite donc &#x00E0; op&#x00E9;rer une distinction entre l&#x2019;organisation tribale de la multitude et la formation religieuse, ou th&#x00E9;ologico-politique, de la nation. Spinoza souligne que ce n&#x2019;est pas &#x00E0; travers son organisation tribale mais en r&#x00E9;f&#x00E9;rence &#x00E0; un culte commun que le peuple h&#x00E9;breu se pr&#x00E9;sente comme une nation. Le territoire de l&#x2019;&#x00C9;tat devient une &#x00AB;&#x00A0;terre sainte&#x00A0;&#x00BB; parce que le culte de Dieu &#x00AB;&#x00A0;n&#x2019;&#x00E9;tait cens&#x00E9; pouvoir se pratiquer que sur le sol de la patrie<renvoi id="re1no62" idref="no62" typeref="note">62</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa531"><alinea>Le culte de Dieu n&#x2019;est donc pas l&#x2019;instrument d&#x2019;une servitude volontaire mais d&#x2019;une s&#x00E9;gr&#x00E9;gation active par laquelle les H&#x00E9;breux se s&#x00E9;parent des autres nations<renvoi id="re1no63" idref="no63" typeref="note">63</renvoi>&#x00A0;: &#x00AB;&#x00A0;pour que les H&#x00E9;breux puissent conserver la <np pagenum="302"/>libert&#x00E9; qu&#x2019;ils avaient acquise et garder sous leur domination absolue les terres qu&#x2019;ils occupaient, il leur fut n&#x00E9;cessaire [&#x2026;] d&#x2019;adapter la religion &#x00E0; leur seul &#x00C9;tat et de se s&#x00E9;parer des autres Nations<renvoi id="re1no64" idref="no64" typeref="note">64</renvoi>&#x00A0;&#x00BB;. Cette forme d&#x2019;&#x00C9;tat qui repose sur &#x00AB;&#x00A0;un pacte explicite avec Dieu&#x00A0;&#x00BB; ne peut &#x00EA;tre utile qu&#x2019;&#x00E0; &#x00AB;&#x00A0;ceux-l&#x00E0; seulement qui voudraient vivre isol&#x00E9;s et sans commerce avec d&#x2019;autres hommes, se renfermer dans leurs fronti&#x00E8;res et se couper (<marquage typemarq="italique">segregari</marquage>) du reste du monde<renvoi id="re1no65" idref="no65" typeref="note">65</renvoi>&#x00A0;&#x00BB;. Les H&#x00E9;breux &#x00AB;&#x00A0;crurent que leur royaume &#x00E9;tait le royaume de Dieu, qu&#x2019;eux seuls &#x00E9;taient les enfants de Dieu (<marquage typemarq="italique">filios Dei</marquage>) et que les autres Nations &#x00E9;taient les ennemis de Dieu<renvoi id="re1no66" idref="no66" typeref="note">66</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa532"><alinea>Il ne s&#x2019;agirait pas tant de soutenir que les H&#x00E9;breux ont &#x00E9;t&#x00E9; &#x00E9;lus en raison de l&#x2019;extraordinaire concours de la fortune, mais de comprendre que la croyance en une &#x00E9;lection divine constitue le fondement de toute nation. Seul un peuple qui entretient l&#x2019;illusion de son &#x00E9;lection divine peut devenir une nation. En ce sens, le peuple h&#x00E9;breu serait une des premi&#x00E8;res v&#x00E9;ritables nations de l&#x2019;histoire<renvoi id="re1no67" idref="no67" typeref="note">67</renvoi>.</alinea></para>
+<para id="pa533"><alinea>Les H&#x00E9;breux n&#x2019;ont pas &#x00AB;&#x00A0;tribalis&#x00E9;&#x00A0;&#x00BB; mais plut&#x00F4;t politis&#x00E9; leur religion, pour en faire le principe d&#x2019;une distinction ami-ennemi. Mais la pr&#x00E9;sence de l&#x2019;ennemi ext&#x00E9;rieur s&#x2019;estompe derri&#x00E8;re les m&#x00E9;tamorphoses de l&#x2019;ennemi int&#x00E9;rieur. C&#x2019;est donc &#x00E0; travers la s&#x00E9;quence tribu-caste-secte que Spinoza interpr&#x00E8;te les m&#x00E9;tamorphoses de l&#x2019;ennemi int&#x00E9;rieur. Spinoza en conclut alors que l&#x2019;&#x00E9;rosion des structures tribales est la source de ph&#x00E9;nom&#x00E8;nes proph&#x00E9;tiques incontr&#x00F4;lables.</alinea></para>
+<para id="pa534"><alinea>On comprend ainsi que Spinoza ne soutient aucunement, en projetant un mod&#x00E8;le de d&#x00E9;veloppement uniforme sur le devenir des soci&#x00E9;t&#x00E9;s, que l&#x2019;&#x00E9;mergence d&#x2019;une puissance souveraine suppose le d&#x00E9;passement de l&#x2019;organisation tribale de la soci&#x00E9;t&#x00E9;. Bien au contraire, Spinoza se souviendra de cette configuration dans le <marquage typemarq="italique">Trait&#x00E9; Politique</marquage> en consid&#x00E9;rant qu&#x2019;un r&#x00E9;gime monarchique parvient &#x00E0; assurer l&#x2019;&#x00E9;galit&#x00E9; et la dignit&#x00E9; de ses citoyens d&#x00E8;s lors que la multitude est divis&#x00E9;e en familles ou en clans<renvoi id="re1no68" idref="no68" typeref="note">68</renvoi>.</alinea></para>
+</section1>
+</corps>
+<partiesann>
+<grnote>
+<note id="no1">
+<no>1</no>
+<alinea>Nicolas Israel, <marquage typemarq="italique">Spinoza. Le Temps de la vigilance</marquage>, Paris, Payot, 2001.</alinea>
+</note>
+<note id="no2">
+<no>2</no>
+<alinea>Alexandre Matheron, <marquage typemarq="italique">Spinoza et la probl&#x00E9;matique juridique de Grotius</marquage>, <marquage typemarq="italique">Anthropologie et Politique au XVIIe</marquage>, Paris, Vrin, 1986, p.&#x00A0;100.</alinea>
+</note>
+<note id="no3">
+<no>3</no>
+<alinea>Edward E. Evans-Pritcard, <marquage typemarq="italique">Social Anthropology and Other Essays</marquage>, New York, The Free Press, 1962, p.&#x00A0;5.</alinea>
+</note>
+<note id="no4">
+<no>4</no>
+<alinea>Baruch Spinoza,<marquage typemarq="italique">Trait&#x00E9; th&#x00E9;ologico-politique</marquage> (<marquage typemarq="italique">TTP</marquage>), trad. fr. J. Lagr&#x00E9;e et P.-F. Moreau, Paris, Puf, 1999, XVII, p.&#x00A0;545 ; p.&#x00A0;585. Cf Andr&#x00E9; Malet, <marquage typemarq="italique">Le Trait&#x00E9; th&#x00E9;ologico-politique de Spinoza et la pens&#x00E9;e biblique</marquage>, Paris, Les Belles Lettres, 1966, p.&#x00A0;273. J&#x2019;ai pr&#x00E9;sent&#x00E9; ce point dans une perspective diff&#x00E9;rente dans &#x00AB;&#x00A0;Le <marquage typemarq="italique">Trait&#x00E9; th&#x00E9;ologico-Politique</marquage>&#x00A0;: de la libre interpr&#x00E9;tation&#x00A0;&#x00BB;, in Lectures de Spinoza, Pierre-Fran&#x00E7;ois Moreau et Charles Ramond (&#x00E9;d.), Paris, Ellipses &#x00C9;ditions, 2006, p.&#x00A0;52.</alinea>
+</note>
+<note id="no5">
+<no>5</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;541 ; p.&#x00A0;537 &#x00AB;&#x00A0;m&#x00EA;me priv&#x00E9;s de leur droit&#x00A0;&#x00BB;.</alinea>
+</note>
+<note id="no6">
+<no>6</no>
+<alinea>&#x00AB;&#x00A0;Tous les hommes barbares ou civilis&#x00E9;s tissent partout des liens coutumiers&#x00A0;&#x00BB; (<marquage typemarq="italique">Trait&#x00E9; politique</marquage> (<marquage typemarq="italique">TP</marquage>), trad. fr. Ch. Ramond, Paris, Puf, 2005, I, 5).</alinea>
+</note>
+<note id="no7">
+<no>7</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;557.</alinea>
+</note>
+<note id="no8">
+<no>8</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;561.</alinea>
+</note>
+<note id="no9">
+<no>9</no>
+<alinea>Edward E. Evans-Pritchard, <marquage typemarq="italique">The Sanusi of Cyrenaica</marquage>, Londres/Oxford, Oxford University Press, 1954, p.&#x00A0;69 ; sur les dieux internationaux qui &#x00E9;mergent au sein des assembl&#x00E9;es intertribales voir &#x00C9;mile Durkheim, <marquage typemarq="italique">Les Formes &#x00E9;l&#x00E9;mentaires de la vie religieuse</marquage>, Paris, Puf, 1912, p.&#x00A0;608-609.</alinea>
+</note>
+<note id="no10">
+<no>10</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;573. <marquage typemarq="italique">TTP</marquage>, V, p.&#x00A0;225.</alinea>
+</note>
+<note id="no11">
+<no>11</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVI, p.&#x00A0;523-525.</alinea>
+</note>
+<note id="no12">
+<no>12</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;557.</alinea>
+</note>
+<note id="no13">
+<no>13</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;561.</alinea>
+</note>
+<note id="no14">
+<no>14</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;567.</alinea>
+</note>
+<note id="no15">
+<no>15</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, V p.&#x00A0;221 ; XVII, p.&#x00A0;573.</alinea>
+</note>
+<note id="no16">
+<no>16</no>
+<alinea>Cf. Aristote, <marquage typemarq="italique">Les Politiques</marquage>, Paris, GF-Flammarion, p.&#x00A0;127-128 ; p.&#x00A0;418.</alinea>
+</note>
+<note id="no17">
+<no>17</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVI, p.&#x00A0;517.</alinea>
+</note>
+<note id="no18">
+<no>18</no>
+<alinea>&#x00AB;&#x00A0;L&#x2019;argument de l&#x2019;int&#x00E9;r&#x00EA;t&#x00A0;&#x00BB; est pr&#x00E9;sent&#x00E9; comme &#x00AB;&#x00A0;la force et la vie de toutes les actions humaines&#x00A0;&#x00BB; (<marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;571).</alinea>
+</note>
+<note id="no19">
+<no>19</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;571.</alinea>
+</note>
+<note id="no20">
+<no>20</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>. Cf. <marquage typemarq="italique">L&#x00E9;vitique</marquage>, XXV, 10-13. On retrouve une institution similaire chez les pathans de la vall&#x00E9;e de Swat. Cf. Fredrick Barth, <marquage typemarq="italique">Political Leadership Among Swat Pathan</marquage>, Londres,The Athlone Press, 1959, p.&#x00A0;9 et p.&#x00A0;65.</alinea>
+</note>
+<note id="no21">
+<no>21</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;571-573.</alinea>
+</note>
+<note id="no22">
+<no>22</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;573. Selon Sylvain Zac, le secret de l&#x2019;&#x00E9;lection du peuple h&#x00E9;breu &#x00AB;&#x00A0;r&#x00E9;side dans leur r&#x00E9;gime politique, r&#x00E9;gime th&#x00E9;ocratique qui, en raison de la d&#x00E9;pendance &#x00E9;gale de tous vis-&#x00E0;-vis de Dieu, leur vrai souverain, &#x00E9;tait, en r&#x00E9;alit&#x00E9;, un r&#x00E9;gime populaire assurant l&#x2019;&#x00E9;galit&#x00E9; sociale et la paix&#x00A0;&#x00BB;. Voir <marquage typemarq="italique">Spinoza et l&#x2019;interpr&#x00E9;tation de l&#x2019;&#x00C9;criture</marquage>, Paris, Puf, 1965, p.&#x00A0;209.</alinea>
+</note>
+<note id="no23">
+<no>23</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;559.</alinea>
+</note>
+<note id="no24">
+<no>24</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, V, p.&#x00A0;225.</alinea>
+</note>
+<note id="no25">
+<no>25</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.559.</alinea>
+</note>
+<note id="no26">
+<no>26</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;561.</alinea>
+</note>
+<note id="no27">
+<no>27</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;561.</alinea>
+</note>
+<note id="no28">
+<no>28</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;593.</alinea>
+</note>
+<note id="no29">
+<no>29</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVI, p.&#x00A0;525.</alinea>
+</note>
+<note id="no30">
+<no>30</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;593.</alinea>
+</note>
+<note id="no31">
+<no>31</no>
+<alinea>Les tribus de Juda et de Sim&#x00E9;on ne furent pas convoqu&#x00E9;es en justice pour le p&#x00E9;ch&#x00E9;, ou le crime qu&#x2019;elles commirent au nom du droit de guerre (<marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;559).</alinea>
+</note>
+<note id="no32">
+<no>32</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;559 ; XVIII, p.&#x00A0;603 ; <marquage typemarq="italique">TP</marquage>, IX, 14.</alinea>
+</note>
+<note id="no33">
+<no>33</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no34">
+<no>34</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;577.</alinea>
+</note>
+<note id="no35">
+<no>35</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;563.</alinea>
+</note>
+<note id="no36">
+<no>36</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;553; La tribu des L&#x00E9;vites &#x00E9;tait-elle encore une tribu puisqu&#x2019;elle ne partageait plus avec les autres &#x00AB;&#x00A0;ni l&#x2019;administration de l&#x2019;&#x00C9;tat ni aucune partie du territoire&#x00A0;&#x00BB; (<marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;563).</alinea>
+</note>
+<note id="no37">
+<no>37</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;553; p.&#x00A0;577. Ne pas avoir de terre est &#x00E9;videmment une marque de puissance et non de subordination. Cf. Andr&#x00E9; Malet, <marquage typemarq="italique">op.&#x00A0;cit.</marquage>, p.&#x00A0;255.</alinea>
+</note>
+<note id="no38">
+<no>38</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;551.</alinea>
+</note>
+<note id="no39">
+<no>39</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;577.</alinea>
+</note>
+<note id="no40">
+<no>40</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;579.</alinea>
+</note>
+<note id="no41">
+<no>41</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no42">
+<no>42</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;577-579.</alinea>
+</note>
+<note id="no43">
+<no>43</no>
+<alinea>Sylvain Zac, <marquage typemarq="italique">op.&#x00A0;cit.</marquage>, p.&#x00A0;209.</alinea>
+</note>
+<note id="no44">
+<no>44</no>
+<alinea>Telle est l&#x2019;interpr&#x00E9;tation de Sylvain Zac, <marquage typemarq="italique">ibid.</marquage>, p.&#x00A0;149.</alinea>
+</note>
+<note id="no45">
+<no>45</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;581.</alinea>
+</note>
+<note id="no46">
+<no>46</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;599. Sur l&#x2019;opposition entre les dispositions d&#x2019;une nation et la nature d&#x2019;un r&#x00E9;gime, voir <marquage typemarq="italique">TP</marquage>, VIII, 37.</alinea>
+</note>
+<note id="no47">
+<no>47</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;595.</alinea>
+</note>
+<note id="no48">
+<no>48</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no49">
+<no>49</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;583. Les proph&#x00E8;tes ont le droit de d&#x00E9;signer un nouveau roi et de pardonner le parricide mais ils sont priv&#x00E9;s du droit de juger le roi (<marquage typemarq="italique">TTP</marquage>, XIX, p.&#x00A0;629).</alinea>
+</note>
+<note id="no50">
+<no>50</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XIX, p.&#x00A0;623.</alinea>
+</note>
+<note id="no51">
+<no>51</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;591-593.</alinea>
+</note>
+<note id="no52">
+<no>52</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;597.</alinea>
+</note>
+<note id="no53">
+<no>53</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XIX, p.&#x00A0;621-623. <marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;597-599. L&#x2019;administration des choses sacr&#x00E9;es comprend le fait de &#x00AB;&#x00A0;d&#x00E9;signer les ministres, de d&#x00E9;terminer et d&#x2019;&#x00E9;tablir les fondements et l&#x2019;enseignement de l&#x2019;&#x00C9;glise, de juger des m&#x0153;urs et des actes de pi&#x00E9;t&#x00E9;, d&#x2019;excommunier quelqu&#x2019;un ou d&#x2019;admettre quelqu&#x2019;un dans l&#x2019;&#x00C9;glise, et enfin de pourvoir aux besoins des pauvres&#x00A0;&#x00BB; (<marquage typemarq="italique">TTP</marquage>, XIX, 621).</alinea>
+</note>
+<note id="no54">
+<no>54</no>
+<alinea>Sur le caract&#x00E8;re &#x00E9;vanescent du peuple de proph&#x00E8;tes qui r&#x00E9;sulte du premier pacte, voir Nicolas Isra&#x00EB;l, <marquage typemarq="italique">De la libre interpr&#x00E9;tation</marquage>, <marquage typemarq="italique">op.&#x00A0;cit.</marquage>, p.&#x00A0;53-54.</alinea>
+</note>
+<note id="no55">
+<no>55</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;589. <marquage typemarq="italique">TTP</marquage>, V, p.&#x00A0;217.</alinea>
+</note>
+<note id="no56">
+<no>56</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no57">
+<no>57</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;591.</alinea>
+</note>
+<note id="no58">
+<no>58</no>
+<alinea>Sylvain Zac, <marquage typemarq="italique">op. cit</marquage>, p.&#x00A0;162.</alinea>
+</note>
+<note id="no59">
+<no>59</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>. <marquage typemarq="italique">TTP</marquage>, XX, p.&#x00A0;647. &#x00AB;&#x00A0;C&#x2019;est le clerg&#x00E9; qui r&#x00E8;gne sur les esprits dans un pays o&#x00F9; la masse n&#x2019;est pas cultiv&#x00E9;e&#x00A0;&#x00BB; (Sylvain Zac, <marquage typemarq="italique">op.&#x00A0;cit</marquage>., p.&#x00A0;155).</alinea>
+</note>
+<note id="no60">
+<no>60</no>
+<alinea>Les hommes aspirent &#x00E0; &#x00AB;&#x00A0;recevoir les honneurs sous les applaudissements de la foule&#x00A0;&#x00BB; (<marquage typemarq="italique">TTP</marquage>, XX, p.&#x00A0;645-647).</alinea>
+</note>
+<note id="no61">
+<no>61</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, pr&#x00E9;face, p.&#x00A0;65.</alinea>
+</note>
+<note id="no62">
+<no>62</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no63">
+<no>63</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;569.</alinea>
+</note>
+<note id="no64">
+<no>64</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XIX, p.&#x00A0;617.</alinea>
+</note>
+<note id="no65">
+<no>65</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVIII, p.&#x00A0;587.</alinea>
+</note>
+<note id="no66">
+<no>66</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;569.</alinea>
+</note>
+<note id="no67">
+<no>67</no>
+<alinea><marquage typemarq="italique">TTP</marquage>, XVII, p.&#x00A0;575.</alinea>
+</note>
+<note id="no68">
+<no>68</no>
+<alinea><marquage typemarq="italique">TP</marquage>, VI, 11; VII, 18.</alinea>
+</note>
+</grnote>
+</partiesann>
+</article>

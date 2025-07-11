@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="EDAM_DEBRA_2019_01_0167" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<section_sommaire>2. La logique des institutions</section_sommaire>
+<tri>EDAM_DEBRA_2019_01_0167</tri>
+<pagination>
+<ppage>167</ppage>
+<dpage>187</dpage>
+</pagination>
+<nbpage>21</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Des luttes sociales en d&#x00E9;mocratie&#x00A0;: Pettit face &#x00E0; Spinoza, de la contestation au conflit</titre>
+</grtitre>
+<grauteur>
+<auteur id="au1" typeaut="auteur">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au2" typeaut="auteur">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au3" typeaut="auteur">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au4" typeaut="auteur">
+<nompers>
+<prenom>Christophe</prenom>
+<nomfamille>Miqueu</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+</liminaire>
+<corps>
+<section1 id="s1n25">
+<para id="pa223"><alinea><np pagenum="167"/>Le point de d&#x00E9;part de cette r&#x00E9;flexion crois&#x00E9;e Pettit/Spinoza vient de la lecture r&#x00E9;publicaine que j&#x2019;ai propos&#x00E9;e du philosophe hollandais dans le cadre de ma th&#x00E8;se<renvoi id="re1no1" idref="no1" typeref="note">1</renvoi>, et d&#x00E8;s lors de l&#x2019;int&#x00E9;r&#x00EA;t intellectuel qu&#x2019;il pouvait &#x00E0; mes yeux y avoir de rapprocher le Spinoza que j&#x2019;ai propos&#x00E9; de red&#x00E9;couvrir du principal th&#x00E9;oricien politique du r&#x00E9;publicanisme contemporain, Philip Pettit. Je commencerai donc par me focaliser, non pas sur leurs diff&#x00E9;rences, mais bien plut&#x00F4;t sur ce point commun qui les unit, d&#x2019;appartenir &#x00E0; la m&#x00EA;me tradition philosophique, dont l&#x2019;histoire remonte &#x00E0; l&#x2019;Antiquit&#x00E9;. Cette unit&#x00E9; philosophique, Pettit la reconna&#x00EE;t <np pagenum="168"/>d&#x2019;ailleurs lorsqu&#x2019;il fait l&#x2019;effort, dans la lign&#x00E9;e des travaux de l&#x2019;&#x00C9;cole de Cambridge, de s&#x2019;appuyer, dans la premi&#x00E8;re partie de <marquage typemarq="italique">R&#x00E9;publicanisme</marquage>, sur l&#x2019;histoire de l&#x2019;id&#x00E9;e r&#x00E9;publicaine pour pr&#x00E9;senter la tradition ancienne de pens&#x00E9;e dans laquelle s&#x2019;inscrit sa r&#x00E9;flexion<renvoi id="re1no2" idref="no2" typeref="note">2</renvoi>. Or, de Eco Haitsma Mulier &#x00E0; Jonathan Scott, en passant par Raia Prokhovnik et Jonathan Israel, il ne fait dans tous les cas plus de doute aujourd&#x2019;hui que la philosophie de Spinoza s&#x2019;inscrit, aussi bien dans son contexte (celui de la R&#x00E9;publique des Provinces-Unies) que dans ses principes, au c&#x0153;ur de cette philosophie r&#x00E9;publicaine historique, que Pettit se propose pour nos contemporains de renouveler.</alinea></para>
+<para id="pa224"><alinea>Cette philosophie r&#x00E9;publicaine spinoziste a sa singularit&#x00E9; et charrie notamment un vocabulaire absolument original qui la distingue nettement des r&#x00E9;f&#x00E9;rences r&#x00E9;publicaines de son &#x00E9;poque, notamment des r&#x00E9;publicains anglais. Articulant leur analyse &#x00E0; la centralit&#x00E9; classique accord&#x00E9;e &#x00E0; la raison pour comprendre le monde social, les r&#x00E9;publicains anglais d&#x00E9;veloppaient une anthropologie optimiste permettant d&#x2019;envisager la cit&#x00E9; r&#x00E9;publicaine en termes d&#x2019;id&#x00E9;al rationnel, dont l&#x2019;exemple le plus illustratif est l&#x2019;<marquage typemarq="italique">Oceana</marquage> d&#x2019;Harrington. Spinoza, au contraire, se concentre sur une &#x00E9;conomie des passions, les inscrit au c&#x0153;ur des rapports sociaux et propose un r&#x00E9;publicanisme fond&#x00E9; sur une tout autre dimension anthropologico-sociale, puisqu&#x2019;est mis en valeur l&#x2019;&#x00E9;tat des relations r&#x00E9;elles entre les individus anim&#x00E9;s en premier lieu par leur utile propre, qui peut &#x00EA;tre rationnel, mais ne l&#x2019;est pas le plus fr&#x00E9;quemment<renvoi id="re1no3" idref="no3" typeref="note">3</renvoi>.</alinea></para>
+<para id="pa225"><alinea>Au croisement de l&#x2019;anthropologie, de la philosophie sociale, morale et politique, nous allons voir ainsi ce qui distingue deux lignes directrices de compr&#x00E9;hension de la dynamique d&#x00E9;mocratique et de la construction sociale et politique pour la philosophie r&#x00E9;publicaine, deux lignes qui se rencontrent bien s&#x00FB;r quant &#x00E0; la finalit&#x00E9; politique recherch&#x00E9;e, la r&#x00E9;alisation et la promotion de l&#x2019;int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral, au c&#x0153;ur de la d&#x00E9;finition de ce qu&#x2019;est la chose publique, mais se distinguent quant aux d&#x00E9;veloppements propos&#x00E9;s, l&#x2019;un privil&#x00E9;giant la logique du consensus <np pagenum="169"/>et la pratique d&#x00E9;lib&#x00E9;rative de la contestation, l&#x2019;autre privil&#x00E9;giant le conflit et le recours aux masses, ordinairement d&#x00E9;laiss&#x00E9;es parce que suppos&#x00E9;es dangereuses, comme modalit&#x00E9; inh&#x00E9;rente de la construction d&#x00E9;mocratique.</alinea></para>
+</section1>
+<section1 id="s1n26">
+<titre>La non-domination comme id&#x00E9;al</titre>
+<para id="pa226"><alinea>Commen&#x00E7;ons donc par le commun&#x00A0;: le principe de non-domination. On sait qu&#x2019;il s&#x2019;agit du point de d&#x00E9;part de la philosophie politique et sociale de Pettit. La non-dominaton, telle que l&#x2019;auteur de <marquage typemarq="italique">R&#x00E9;publicanisme</marquage> la th&#x00E9;orise, est l&#x2019;id&#x00E9;al communautaire recherch&#x00E9; par toute soci&#x00E9;t&#x00E9; politique et en m&#x00EA;me temps le leitmotiv que l&#x2019;on retrouverait dans toute l&#x2019;histoire de la philosophie r&#x00E9;publicaine pour d&#x00E9;finir la libert&#x00E9; commune. Sa prise de position th&#x00E9;orique se fait autour d&#x2019;une autre mani&#x00E8;re de comprendre la libert&#x00E9; politique que celle, aujourd&#x2019;hui dominante, de nos contemporains lib&#x00E9;raux qu&#x2019;il r&#x00E9;inscrit dans le cadre du d&#x00E9;bat r&#x00E9;ouvert par Isaiah&#x00A0;Berlin<renvoi id="re1no4" idref="no4" typeref="note">4</renvoi> &#x00E0; la fin des ann&#x00E9;es 1950. Reprenant &#x00E0; sa mani&#x00E8;re la distinction propos&#x00E9;e au si&#x00E8;cle pr&#x00E9;c&#x00E9;dent par Benjamin Constant<renvoi id="re1no5" idref="no5" typeref="note">5</renvoi> entre la &#x00AB;&#x00A0;libert&#x00E9; des Anciens&#x00A0;&#x00BB; et la &#x00AB;&#x00A0;libert&#x00E9; des Modernes&#x00A0;&#x00BB;, Berlin oppose une conception &#x00AB;&#x00A0;n&#x00E9;gative&#x00A0;&#x00BB; de la libert&#x00E9; selon laquelle un individu ne peut &#x00EA;tre dit libre qu&#x2019;&#x00E0; condition qu&#x2019;aucune entrave ne vienne faire obstacle &#x00E0; sa volont&#x00E9;, c&#x2019;est-&#x00E0;-dire s&#x2019;il est ind&#x00E9;pendant, et une conception &#x00AB;&#x00A0;positive&#x00A0;&#x00BB; selon laquelle un individu ne peut &#x00EA;tre libre que s&#x2019;il est d&#x00E9;termin&#x00E9; rationnellement et non affectivement &#x00E0; agir, c&#x2019;est-&#x00E0;-dire s&#x2019;il se ma&#x00EE;trise lui-m&#x00EA;me. Berlin prend parti, comme Constant, pour la premi&#x00E8;re de ces deux conceptions, jugeant la seconde potentiellement liberticide. La premi&#x00E8;re forme de libert&#x00E9; est &#x00E0; la base de l&#x2019;&#x00C9;tat dit &#x00AB;&#x00A0;lib&#x00E9;ral&#x00A0;&#x00BB;, tandis que la seconde est &#x00E0; la base de l&#x2019;&#x00C9;tat dit &#x00AB;&#x00A0;populiste&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa227"><alinea>Or, l&#x2019;une comme l&#x2019;autre de ces deux philosophies de la libert&#x00E9; et de l&#x2019;&#x00C9;tat en occultent une troisi&#x00E8;me, celle qui pour Pettit est au fondement de la philosophie r&#x00E9;publicaine depuis l&#x2019;Antiquit&#x00E9;, &#x00E0; savoir la <np pagenum="170"/>&#x00AB;&#x00A0;libert&#x00E9; comme non-domination&#x00A0;&#x00BB;, principe de toute R&#x00E9;publique<renvoi id="re1no6" idref="no6" typeref="note">6</renvoi>. Cette troisi&#x00E8;me conception de la libert&#x00E9; partage l&#x2019;id&#x00E9;e de non-interf&#x00E9;rence, mais en des termes diff&#x00E9;rents de ceux de la pens&#x00E9;e lib&#x00E9;rale. Est libre pour le philosophe r&#x00E9;publicain tout individu qui n&#x2019;est soumis &#x00E0; aucun autre. Alors que les lib&#x00E9;raux se contentent d&#x2019;opposer la libert&#x00E9; et la contrainte, les r&#x00E9;publicains opposent la libert&#x00E9; et la soumission. Toute forme d&#x2019;esclavage, m&#x00EA;me lorsqu&#x2019;elle ne se traduit pas par une contrainte explicite (dans le cas par exemple o&#x00F9; le ma&#x00EE;tre d&#x00E9;cide de ne rien imposer &#x00E0; l&#x2019;esclave), est contraire &#x00E0; la libert&#x00E9;. Le simple fait que l&#x2019;autre puisse user de sa volont&#x00E9; pour interf&#x00E9;rer sur la mienne de mani&#x00E8;re totalement arbitraire, m&#x00EA;me s&#x2019;il ne le fait pas, suffit pour d&#x00E9;signer la situation comme &#x00E9;tant une situation de domination contraire &#x00E0; ma libert&#x00E9;. Autrement dit, ce n&#x2019;est pas l&#x2019;interf&#x00E9;rence en elle-m&#x00EA;me qui est combattue par les r&#x00E9;publicains &#x2013; car il peut y avoir des interf&#x00E9;rences &#x00E0; ma libert&#x00E9; raisonnablement acceptables voire justes, si par exemple elles r&#x00E9;pondent &#x00E0; une exigence de l&#x2019;int&#x00E9;r&#x00EA;t public &#x2013; mais bien la domination, c&#x2019;est-&#x00E0;-dire le fait qu&#x2019;une autre volont&#x00E9; ait la capacit&#x00E9; de s&#x2019;imposer arbitrairement &#x00E0; la mienne. La libert&#x00E9; comme non-domination insiste donc sur le refus de toute interf&#x00E9;rence arbitraire. En cela, elle n&#x2019;est pas non plus une libert&#x00E9; positive puisqu&#x2019;est laiss&#x00E9;e &#x00E0; l&#x2019;individu la possibilit&#x00E9; de d&#x00E9;terminer ce qui vaut selon lui d&#x2019;&#x00EA;tre suivi au cours de son existence. Ne pas avoir de ma&#x00EE;tre signifie bien &#x00E0; la fois ne pas subir d&#x2019;entraves arbitraires &#x00E0; ses choix et ne pas &#x00EA;tre dirig&#x00E9; dans ses choix de vie.</alinea></para>
+<para id="pa228"><alinea>Il en r&#x00E9;sulte un rapport &#x00E0; la loi commune tout &#x00E0; fait singulier que ni les tenants de la libert&#x00E9; n&#x00E9;gative ni ceux de la libert&#x00E9; positive n&#x2019;avaient pu concevoir. Pour les premiers, la loi est en effet n&#x00E9;cessairement une contrainte qui vient faire obstacle au libre d&#x00E9;ploiement de ma volont&#x00E9;. Pour les seconds, la loi conditionne ma volont&#x00E9; en l&#x2019;orientant vers une certaine conception du bien commun. Malgr&#x00E9; leur opposition id&#x00E9;ologique claire, aucune de ces deux conceptions n&#x2019;emp&#x00EA;che que la loi ne se r&#x00E9;duise &#x00E0; &#x00EA;tre celle du plus fort&#x00A0;: le plus fort est dans l&#x2019;une celui qui est <np pagenum="171"/>vraiment libre de faire ce qui lui pla&#x00EE;t ; le plus fort est dans l&#x2019;autre celui qui peut imposer &#x00E0; tous les autres sa conception du bien. Pour les r&#x00E9;publicains, la communaut&#x00E9; politique est par d&#x00E9;finition &#x2013; et doit donc &#x00EA;tre &#x2013; le lieu o&#x00F9; ne r&#x00E8;gne que la loi et dont est exclue la force, car la loi est ce par quoi la libert&#x00E9; existe r&#x00E9;ellement&#x00A0;: pour le dire autrement, il n&#x2019;y a de libert&#x00E9; que par la loi, car seule la loi met assur&#x00E9;ment fin &#x00E0; la domination. En effet, c&#x2019;est la loi qui assure &#x00E0; chacun l&#x2019;absence de rapports de force dans les relations interindividuelles, donc la possibilit&#x00E9; de faire des choix de vie sans &#x00EA;tre d&#x00E9;termin&#x00E9;, voire asservi dans ses d&#x00E9;cisions. Si donc la non-domination est la fin de toute loi, la loi est cette interf&#x00E9;rence juste, car rationnellement justifi&#x00E9;e aux yeux de tous comme ce par quoi la communaut&#x00E9; politique a une existence effective, qui, parce qu&#x2019;elle correspond n&#x00E9;cessairement &#x00E0; l&#x2019;int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral, garantit la libert&#x00E9; que les citoyens d&#x2019;une r&#x00E9;publique ont collectivement en partage.</alinea></para>
+</section1>
+<section1 id="s1n27">
+<titre>La r&#x00E9;alit&#x00E9; de la lutte contre la domination</titre>
+<para id="pa229"><alinea>Chez Spinoza, la conception du droit de nature et l&#x2019;&#x00E9;conomie des affects qu&#x2019;il v&#x00E9;hicule donne un sens tout &#x00E0; fait singulier et diff&#x00E9;rent de Pettit &#x00E0; cette id&#x00E9;e de non-domination ; quant &#x00E0; la loi, si elle garantit la recherche de l&#x2019;int&#x00E9;r&#x00EA;t g&#x00E9;n&#x00E9;ral, c&#x2019;est au nom d&#x2019;une conception de l&#x2019;int&#x00E9;r&#x00EA;t tout &#x00E0; fait particuli&#x00E8;re elle aussi qui ne r&#x00E9;duit pas &#x00E0; n&#x00E9;ant les rapports de forces au sein de la soci&#x00E9;t&#x00E9;<renvoi id="re1no7" idref="no7" typeref="note">7</renvoi>.</alinea></para>
+<para id="pa230"><alinea>Lorsque nous parlons de non-domination chez Spinoza, au sens r&#x00E9;publicain du terme utilis&#x00E9; par Pettit &#x2013; autrement dit de mettre en regard la red&#x00E9;couverte de Pettit avec la r&#x00E9;alit&#x00E9; des travaux d&#x2019;un philosophe r&#x00E9;publicain comme Spinoza, cens&#x00E9; repr&#x00E9;senter la tradition n&#x00E9;oromaine que Pettit &#x00E0; la suite de Skinner red&#x00E9;couvre &#x2013; nous nous retrouvons face &#x00E0; une premi&#x00E8;re difficult&#x00E9;&#x00A0;: c&#x2019;est d&#x2019;abord de domination, plus que de non-domination dont il est question chez Spinoza. Domination qu&#x2019;il faut entendre comme le motif naturel d&#x2019;une lutte imm&#x00E9;diate et de tous les instants contre toutes les formes que peut prendre l&#x2019;oppression, tant il est vrai pour Spinoza que dans le cadre <np pagenum="172"/>naturel l&#x2019;homme n&#x2019;est pas le centre de la nature, et que la puissance naturelle demeure fictive pour l&#x2019;homme isol&#x00E9; qui d&#x00E9;pend toujours du pouvoir d&#x2019;un autre, plus puissant que lui<renvoi id="re1no8" idref="no8" typeref="note">8</renvoi>&#x00A0;:</alinea></para>
+<para id="pa231">
+<bloccitation>
+<alinea>Puisque <marquage typemarq="italique">(par l&#x2019;article 9 de ce chapitre)</marquage> chacun, &#x00E0; l&#x2019;&#x00E9;tat naturel, rel&#x00E8;ve de son propre droit aussi longtemps seulement qu&#x2019;il peut se garder contre l&#x2019;oppression d&#x2019;un autre, et puisque d&#x2019;autre part un homme seul s&#x2019;efforcera en vain de se garder contre tous ; alors, aussi longtemps que le droit naturel des hommes est d&#x00E9;termin&#x00E9; par la puissance de chacun pris s&#x00E9;par&#x00E9;ment, aussi longtemps est-il nul, et plus imaginaire que r&#x00E9;el, puisqu&#x2019;on a aucune assurance d&#x2019;en jouir<renvoi id="re1no9" idref="no9" typeref="note">9</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa232"><alinea>Il faut n&#x00E9;anmoins pr&#x00E9;ciser un &#x00E9;l&#x00E9;ment particuli&#x00E8;rement crucial, d&#x00E8;s lors que l&#x2019;on parle de domination chez Spinoza, pour comprendre cette citation. Cet &#x00E9;l&#x00E9;ment renvoie &#x00E0; l&#x2019;article neuf, chapitre deux, auquel r&#x00E9;f&#x00E8;re cette citation,&#x00A0;qui introduit une distinction majeure entre l&#x2019;homme qui rel&#x00E8;ve de son propre droit (<marquage typemarq="italique">sui juris</marquage>) et l&#x2019;homme qui rel&#x00E8;ve du droit d&#x2019;un autre (<marquage typemarq="italique">alterius juris</marquage>)<renvoi id="re1no10" idref="no10" typeref="note">10</renvoi>. Ce dernier est sous la d&#x00E9;pendance du pouvoir d&#x2019;autrui, tandis que le premier ne d&#x00E9;pend que de lui-m&#x00EA;me &#x00AB;&#x00A0;dans la mesure exacte o&#x00F9; il peut repousser toute force, exiger r&#x00E9;paration comme bon lui semble pour tout dommage subi et, g&#x00E9;n&#x00E9;ralement parlant, vivre &#x00E0; sa guise<renvoi id="re1no11" idref="no11" typeref="note">11</renvoi>&#x00A0;&#x00BB;. Si donc l&#x2019;on conserve les d&#x00E9;ductions de la troisi&#x00E8;me partie de l&#x2019;<marquage typemarq="italique">&#x00C9;thique</marquage> en t&#x00EA;te, alors on comprend que si les hommes &#x00E0; l&#x2019;&#x00E9;tat de nature cherchent contin&#x00FB;ment &#x00E0; se garder contre l&#x2019;oppression, ils cherchent aussi en permanence &#x00E0; dominer leurs semblables. Chacun passe son temps &#x00E0; essayer de dominer l&#x2019;autre tout en s&#x2019;effor&#x00E7;ant d&#x2019;&#x00E9;chapper &#x00E0; sa domination. La lutte naturelle contre la domination est alors incontestablement aussi une lutte pour la domination, qui fait que &#x00AB;&#x00A0;les hommes sont donc par nature ennemis<renvoi id="re1no12" idref="no12" typeref="note">12</renvoi>&#x00A0;&#x00BB;. Dans l&#x2019;&#x00E9;tat social, o&#x00F9; la nature des <np pagenum="173"/>hommes reste la m&#x00EA;me, c&#x2019;est simplement la possibilit&#x00E9; de dominer qui est ou non rendu possible selon le rapport de force d&#x00E9;fini par les lois &#x00E9;dict&#x00E9;es par une puissance publique suffisamment forte pour r&#x00E9;guler ou non les rapports de force naturels interindividuels.</alinea></para>
+<para id="pa233"><alinea>Autrement dit, Spinoza fait de la question de la domination le centre de gravit&#x00E9; de sa r&#x00E9;flexion sur le droit naturel et de l&#x2019;&#x00E9;mancipation humaine (la sortie de toute d&#x00E9;pendance) la premi&#x00E8;re des cons&#x00E9;quences d&#x2019;un droit naturel r&#x00E9;el, c&#x2019;est-&#x00E0;-dire devenant plus puissant et ayant pour effet la construction progressive d&#x2019;une rationalit&#x00E9; immanente. Le combat contre toutes les formes de d&#x00E9;pendance est commun avec les r&#x00E9;publicains de son &#x00E9;poque, par exemple en Angleterre, mais le cadre ou la grille de lecture philosophique propos&#x00E9; pour rendre intelligible ce combat, d&#x2019;un point de vue notamment anthropologique, est bien diff&#x00E9;rent. Les uns, et Pettit s&#x2019;inscrit dans cette lign&#x00E9;e du r&#x00E9;publicanisme anglais, prennent pour point de d&#x00E9;part la libert&#x00E9;, quand l&#x2019;autre la refuse en tant que telle pour ne la concevoir qu&#x2019;en termes de conqu&#x00EA;te dans un contexte o&#x00F9; seuls les rapports de domination constituent la r&#x00E9;alit&#x00E9; des rapports interindividuels, si bien qu&#x2019;au final le droit naturel au c&#x0153;ur du social &#x00AB;&#x00A0;n&#x2019;exclut ni les conflits, ni les haines, ni la col&#x00E8;re, ni les ruses, ni absolument rien de ce que l&#x2019;app&#x00E9;tit conseille<renvoi id="re1no13" idref="no13" typeref="note">13</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa234"><alinea>Aussi, contrairement au r&#x00E9;publicanisme anglais qui s&#x2019;efforce de mettre en valeur le bien-fond&#x00E9; du pouvoir r&#x00E9;publicain, Spinoza exclut d&#x2019;embl&#x00E9;e toute id&#x00E9;e de l&#x00E9;gitimit&#x00E9; de sa th&#x00E9;orie politique. La domination, et le rapport de force qui en r&#x00E9;sulte au sein de la multitude, reste le point de d&#x00E9;part. Contrairement aux all&#x00E9;gations de ceux qui abordent &#x00AB;&#x00A0;l&#x2019;&#x00EE;le d&#x2019;Utopie<renvoi id="re1no14" idref="no14" typeref="note">14</renvoi>&#x00A0;&#x00BB;, la soci&#x00E9;t&#x00E9; est d&#x2019;abord une communaut&#x00E9; passionnelle d&#x2019;int&#x00E9;r&#x00EA;ts propres, et c&#x2019;est dans la prolongation de l&#x2019;int&#x00E9;r&#x00EA;t individuel que se construit l&#x2019;int&#x00E9;r&#x00EA;t social collectif. Autrement dit, les individus recherchent d&#x2019;abord leur int&#x00E9;r&#x00EA;t avant de regarder l&#x2019;int&#x00E9;r&#x00EA;t commun, et ne consentent &#x00E0; s&#x2019;y int&#x00E9;resser que dans la mesure o&#x00F9; l&#x2019;un et l&#x2019;autre se conjuguent dans le cadre de la communaut&#x00E9;. La rationalit&#x00E9; immanente n&#x2019;est qu&#x2019;une cons&#x00E9;quence de l&#x2019;augmentation de puissance qu&#x2019;entra&#x00EE;ne <np pagenum="174"/>la pers&#x00E9;v&#x00E9;rance de son existence individuelle dans un cadre collectif s&#x00E9;curis&#x00E9;. L&#x2019;id&#x00E9;e de l&#x00E9;gitimit&#x00E9; n&#x2019;a donc aucun sens aux yeux de Spinoza pour qualifier le gouvernement des hommes, quand bien m&#x00EA;me il serait r&#x00E9;publicain, puisque seule compte la puissance, qui d&#x00E9;finit le droit de chacun, si bien qu&#x2019;au niveau social et politique, seule compte la puissance publique qui d&#x00E9;termine les citoyens &#x00E0; faire de l&#x2019;int&#x00E9;r&#x00EA;t commun leur int&#x00E9;r&#x00EA;t propre. Le lieu o&#x00F9; r&#x00E8;gne la loi inclut la force, puisque la loi met assur&#x00E9;ment fin &#x00E0; la domination de l&#x2019;un sur l&#x2019;autre au profit de sa propre domination sur tous. Elle est la puissance n&#x00E9;cessaire dont d&#x00E9;pendent toutes les autres puissances, au premier rang desquelles celles des citoyens.</alinea></para>
+<para id="pa235"><alinea>D&#x2019;embl&#x00E9;e, le ton et la diff&#x00E9;rence semblent donc donn&#x00E9;s&#x00A0;: ce sont deux conceptions diff&#x00E9;rentes de l&#x2019;organisation sociale et de la d&#x00E9;mocratie qui semblent sous-jacentes chez nos deux r&#x00E9;publicains &#x00E9;loign&#x00E9;s de plus de trois si&#x00E8;cles, l&#x2019;une qui exclut le conflit au profit, nous allons le voir, du consensus d&#x00E9;lib&#x00E9;ratif pour l&#x2019;&#x00E9;laboration de la loi commune, l&#x2019;autre qui l&#x2019;inclut comme &#x00E9;l&#x00E9;ment constitutif et immanent de d&#x00E9;finition du droit commun et du processus d&#x2019;auto-constitution d&#x00E9;mocratique.</alinea></para>
+</section1>
+<section1 id="s1n28">
+<titre>Le confort intellectuel d&#x2019;un id&#x00E9;al dynamique&#x00A0;: consensus social et processus d&#x00E9;lib&#x00E9;ratif</titre>
+<para id="pa236"><alinea>C&#x2019;est en confrontant ces deux conceptions entra&#x00EE;nant deux visions diff&#x00E9;rentes du social, qu&#x2019;appara&#x00EE;t ce qui distingue Spinoza de Pettit, et le suppl&#x00E9;ment d&#x2019;intelligibilit&#x00E9; du monde social qu&#x2019;apporte selon nous la philosophie de Spinoza. En effet, en cons&#x00E9;quence de sa conception de la libert&#x00E9;, Pettit d&#x00E9;veloppe une r&#x00E9;flexion institutionnelle dont la fin est de promouvoir l&#x2019;id&#x00E9;al de non-domination. Le projet r&#x00E9;publicain est un projet de maximisation de cette non-domination qui se con&#x00E7;oit comme un &#x00AB;&#x00A0;bien communautaire&#x00A0;&#x00BB;, c&#x2019;est-&#x00E0;-dire &#x00AB;&#x00A0;un bien qui poss&#x00E8;de un caract&#x00E8;re &#x00E0; la fois social et commun<renvoi id="re1no15" idref="no15" typeref="note">15</renvoi>&#x00A0;&#x00BB;. Et Pettit d&#x2019;expliquer ainsi cette double dimension&#x00A0;:</alinea></para>
+<para id="pa237">
+<bloccitation>
+<alinea>il s&#x2019;agit d&#x2019;un bien social dans la mesure o&#x00F9; sa r&#x00E9;alisation exige que les gens soient engag&#x00E9;s dans une interaction mutuelle et intentionnelle ; il s&#x2019;agit <np pagenum="175"/>d&#x2019;un bien commun dans la mesure o&#x00F9; il ne peut &#x00EA;tre r&#x00E9;alis&#x00E9; pour un individu sans &#x00EA;tre en m&#x00EA;me temps r&#x00E9;alis&#x00E9; pour tous les autres<renvoi id="re1no16" idref="no16" typeref="note">16</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa238"><alinea>Autrement dit, il implique une interaction commune qui passe essentiellement par le langage rationnel au niveau individuel, et au niveau collectif par l&#x2019;existence d&#x2019;une puissance publique, &#x00E0; laquelle chacun est li&#x00E9;, et qui se voue &#x00E0; la promotion de ce bien commun. Le monde social et politique est donc de fait orient&#x00E9; autour de cet id&#x00E9;al recherch&#x00E9; en commun, et la pr&#x00E9;gnance du caract&#x00E8;re institutionnel fait que les individus dans leur vie concr&#x00E8;te ont tendance &#x00E0; s&#x2019;&#x00E9;vaporer derri&#x00E8;re les normes institutionnelles.</alinea></para>
+<para id="pa239"><alinea>En fixant ainsi une fin politique &#x00E0; atteindre, un id&#x00E9;al &#x00E0; servir, le r&#x00E9;publicanisme de Pettit se pr&#x00E9;sente comme une conception cons&#x00E9;quentialiste&#x00A0;: il ne s&#x2019;agit pas de suivre dogmatiquement un imp&#x00E9;ratif abstrait, mais de rendre une telle libert&#x00E9; r&#x00E9;publicaine effective en luttant institutionnellement contre toutes les formes que peut prendre la domination. Cela peut par exemple passer par un interventionnisme de la puissance publique, aliment&#x00E9; par un syst&#x00E8;me d&#x2019;imp&#x00F4;t, en vue de prot&#x00E9;ger socialement les citoyens, notamment les plus vuln&#x00E9;rables, ou encore de mettre en place des dispositifs favorisant l&#x2019;&#x00E9;galit&#x00E9; des chances et l&#x2019;ind&#x00E9;pendance individuelle au point de vue &#x00E9;conomique et social. L&#x2019;horizon r&#x00E9;publicain de Pettit n&#x2019;est jamais dogmatique et laisse ouverts les possibles.</alinea></para>
+<para id="pa240"><alinea>Mais si la promotion de cette libert&#x00E9; r&#x00E9;publicaine suppose en premier lieu l&#x2019;existence de dispositifs collectifs promouvant les droits individuels et sociaux, elle ne peut &#x00EA;tre garantie que si elle se dote de proc&#x00E9;dures rendant effectivement possible la contestation du pouvoir et de ses d&#x00E9;cisions lorsqu&#x2019;elles deviennent discr&#x00E9;tionnaires. Une telle dimension discr&#x00E9;tionnaire peut se retrouver &#x00E0; tous les niveaux de l&#x2019;&#x00C9;tat (quand bien m&#x00EA;me la constitution aurait veill&#x00E9; &#x00E0; imposer des limitations), au niveau du gouvernement, des l&#x00E9;gislateurs, de l&#x2019;administration ou de la justice&#x00A0;:</alinea></para>
+<para id="pa241">
+<bloccitation>
+<alinea><np pagenum="176"/>La seule mani&#x00E8;re, pour un r&#x00E9;gime r&#x00E9;publicain, de garantir que l&#x2019;exercice de ce pouvoir discr&#x00E9;tionnaire ne soit pas hostile aux int&#x00E9;r&#x00EA;ts et aux opinions du peuple dans son ensemble, ou &#x00E0; certaines parties de la communaut&#x00E9;, est d&#x2019;introduire syst&#x00E9;matiquement la possibilit&#x00E9;, pour les gens ordinaires, de contester les actes du gouvernement<renvoi id="re1no17" idref="no17" typeref="note">17</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa242"><alinea>Autrement dit, le consentement au pouvoir ne suffit pas et l&#x2019;existence du contre-pouvoir est une n&#x00E9;cessit&#x00E9; vitale pour la vie en collectivit&#x00E9; et la protection de la libert&#x00E9;. Car sans aucune possibilit&#x00E9; de contester, la transformation du pouvoir en autorit&#x00E9; arbitraire, soit le retour de la domination, est in&#x00E9;vitable. Cette conception de la libert&#x00E9; r&#x00E9;pond donc &#x00E0; une inqui&#x00E9;tude morale premi&#x00E8;re, profond&#x00E9;ment humaine. Mais elle satisfait aussi et surtout une pr&#x00E9;occupation politique fondamentale caus&#x00E9;e par l&#x2019;incapacit&#x00E9; des hommes &#x00E0; r&#x00E9;pondre par eux-m&#x00EA;mes &#x00E0; une telle inqui&#x00E9;tude. La lutte contre la domination doit &#x00EA;tre l&#x2019;affaire de l&#x2019;&#x00C9;tat, pr&#x00E9;cis&#x00E9;ment car seul l&#x2019;&#x00C9;tat dispose de la puissance publique pour imposer la libert&#x00E9;.</alinea></para>
+<para id="pa243"><alinea>Il n&#x2019;est donc de gouvernement r&#x00E9;publicain que <marquage typemarq="italique">contestable</marquage>, car il n&#x2019;y a de confiance possible qu&#x2019;&#x00E0; l&#x2019;&#x00E9;gard d&#x2019;une instance politique qui n&#x2019;est pas toute-puissante. Non seulement le gouvernement ob&#x00E9;it lui-m&#x00EA;me &#x00E0; l&#x2019;empire du droit, mais encore il doit avoir les moyens d&#x2019;&#x00E9;viter la tyrannie de la majorit&#x00E9; et de laisser la place, lors de la prise de d&#x00E9;cision, &#x00E0; la contestation d&#x00E9;mocratique, n&#x00E9;cessairement d&#x00E9;lib&#x00E9;rative dans sa forme&#x00A0;:</alinea></para>
+<para id="pa244">
+<bloccitation>
+<alinea>cette d&#x00E9;mocratie de contestation devra avoir aussi un caract&#x00E8;re d&#x00E9;lib&#x00E9;ratif ; il faudra donc exiger que les d&#x00E9;cisions soient fond&#x00E9;es sur des consid&#x00E9;rations pr&#x00E9;sent&#x00E9;es comme &#x00E9;tant celles du bien commun, si l&#x2019;on veut que, en toutes circonstances, les gens disposent d&#x2019;une base leur permettant de mettre en cause les actes du gouvernement. Cette mise en cause peut se faire en disant que les motivations invoqu&#x00E9;es &#x00E0; l&#x2019;appui d&#x2019;une d&#x00E9;cision ne conviennent pas ou bien qu&#x2019;elles ne peuvent servir &#x00E0; &#x00E9;tayer l&#x2019;initiative qui a &#x00E9;t&#x00E9; prise<renvoi id="re1no18" idref="no18" typeref="note">18</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa245"><alinea><np pagenum="177"/>Aussi, seule une r&#x00E9;publique contr&#x00F4;l&#x00E9;e int&#x00E9;rieurement par ses citoyens raisonnables est capable de r&#x00E9;pondre rationnellement aux contestations d&#x00E9;mocratiques qui lui seront adress&#x00E9;es et pers&#x00E9;v&#x00E8;re dans son existence collective sans tomber dans la corruption. Loin de toute autorit&#x00E9; arbitraire qui s&#x2019;imposerait &#x00E0; tous sans discussion, la forme de vie r&#x00E9;publicaine est le r&#x00E9;sultat dynamique de proc&#x00E9;dures institutionnelles d&#x00E9;terminant les conditions de la vie en commun qui sont telles que la v&#x00E9;rification vigilante de leur l&#x00E9;galit&#x00E9; est possible par tous. La logique d&#x00E9;lib&#x00E9;rative et contestataire dont il est question ne se r&#x00E9;duit donc pas, si l&#x2019;on veut &#x00EA;tre tout &#x00E0; fait juste, &#x00E0; la simple logique du consensus, mais elle conserve le point commun avec cette conception restrictive que &#x00AB;&#x00A0;la raison occupe le devant de la sc&#x00E8;ne<renvoi id="re1no19" idref="no19" typeref="note">19</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa246"><alinea>Soulignons donc pour finir sur Pettit, que nous sommes face &#x00E0; la promotion d&#x2019;un &#x00AB;&#x00A0;id&#x00E9;al dynamique&#x00A0;&#x00BB;, celui de non-domination, &#x00AB;&#x00A0;capable d&#x2019;interpr&#x00E9;tations nouvelles et d&#x2019;applications plus approfondies&#x00A0;&#x00BB;, &#x00AB;&#x00A0;toujours riche de possibilit&#x00E9;s nouvelles d&#x2019;extrapolations et de d&#x00E9;veloppements&#x00A0;&#x00BB;, en bref tout le contraire &#x00AB;&#x00A0;d&#x2019;un id&#x00E9;al statique qui serait automatiquement li&#x00E9; &#x00E0; une structure d&#x00E9;termin&#x00E9;e de la vie institutionnelle<renvoi id="re1no20" idref="no20" typeref="note">20</renvoi>&#x00A0;&#x00BB;, mais qui en m&#x00EA;me temps, &#x00E0; l&#x2019;image de ses pr&#x00E9;d&#x00E9;cesseurs rationalistes r&#x00E9;publicains anglais, conserve un int&#x00E9;r&#x00EA;t, celui de d&#x00E9;passer tout conflit par la raison commune. Cet &#x0153;cum&#x00E9;nisme r&#x00E9;publicain rencontre clairement l&#x2019;h&#x00E9;ritage de la philosophie d&#x00E9;lib&#x00E9;rative et par sa n&#x00E9;gation ou sa volont&#x00E9; de d&#x00E9;passement du conflit se distingue du radicalisme spinoziste &#x00E0; l&#x2019;aube des Lumi&#x00E8;res&#x00A0;: celui qui ne nie pas la lutte mais en voit la r&#x00E9;alit&#x00E9; quotidienne comme &#x00E9;tant premi&#x00E8;re.</alinea></para>
+<para id="pa247"><alinea>Revenons donc &#x00E0; Spinoza, pour comprendre ce qu&#x2019;il a &#x00E0; offrir &#x00E0; la philosophie r&#x00E9;publicaine du social, et notamment comment il remet en question ce pr&#x00E9;suppos&#x00E9; pr&#x00E9;sent chez Pettit comme les r&#x00E9;publicains anglais de son &#x00E9;poque, selon lequel la raison occupe par d&#x00E9;finition (ou si ce n&#x2019;est pas le cas doit occuper) le devant de la sc&#x00E8;ne sociale et politique.</alinea></para>
+</section1>
+<section1 id="s1n29">
+<titre>L&#x2019;exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne&#x00A0;: la multitude ou la logique du conflit</titre>
+<para id="pa248"><alinea><np pagenum="178"/>Pour comprendre l&#x2019;apport de Spinoza, je me r&#x00E9;f&#x00E9;rerai pour commencer &#x00E0; un livre publi&#x00E9; en 2007 par Martin Breaugh sous le titre <marquage typemarq="italique">L&#x2019;Exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne</marquage> qui retrace <marquage typemarq="italique">une histoire discontinue de la libert&#x00E9; politique</marquage>, dans laquelle je crois que Spinoza, contrairement &#x00E0; Pettit, se situe explicitement, ce qui &#x00E0; mes yeux permet de l&#x2019;inscrire dans une autre voie, plus m&#x00E9;connue, de l&#x2019;histoire de la philosophie r&#x00E9;publicaine. Le livre de Breaugh est un texte passionnant, dont il manque simplement, peut-&#x00EA;tre justement, l&#x2019;&#x00E9;clairage de Spinoza. Voil&#x00E0; pourtant ce que l&#x2019;auteur dit de cette exp&#x00E9;rience dans l&#x2019;entame de l&#x2019;ouvrage&#x00A0;:</alinea></para>
+<para id="pa249">
+<bloccitation>
+<alinea>La pl&#x00E8;be est le nom d&#x2019;une exp&#x00E9;rience, celle de l&#x2019;accession &#x00E0; la dignit&#x00E9; politique humaine. Ni cat&#x00E9;gorie sociale ni affirmation identitaire, la pl&#x00E8;be d&#x00E9;signe un &#x00E9;v&#x00E9;nement politique de tout premier ordre, soit le passage d&#x2019;un statut infrapolitique &#x00E0; celui de sujet politique &#x00E0; part enti&#x00E8;re<renvoi id="re1no21" idref="no21" typeref="note">21</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa250"><alinea>Nous allons voir que c&#x2019;est l&#x00E0; tout le processus immanent qui int&#x00E9;resse fondamentalement Spinoza et le distingue en cela des r&#x00E9;publicains utopistes. Cette exp&#x00E9;rience est bien anim&#x00E9;e par le d&#x00E9;sir de non-domination&#x00A0;:</alinea></para>
+<para id="pa251">
+<bloccitation>
+<alinea>Au c&#x0153;ur de cette exp&#x00E9;rience se trouve un d&#x00E9;sir&#x00A0;: celui de ne pas subir la domination politique ; l&#x2019;impulsion qui donne vie &#x00E0; l&#x2019;exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne est un refus de la domination qui ouvre &#x00E0; l&#x2019;expression d&#x2019;un d&#x00E9;sir de libert&#x00E9;. Ici, il faut comprendre &#x00AB;&#x00A0;libert&#x00E9;&#x00A0;&#x00BB; dans son sens politique, c&#x2019;est-&#x00E0;-dire la possibilit&#x00E9; offerte &#x00E0; tous de participer &#x00E0; la vie de la cit&#x00E9;. Les luttes pl&#x00E9;b&#x00E9;iennes sont des luttes qui visent &#x00E0; faire vivre la libert&#x00E9; politique en s&#x2019;attaquant au r&#x00E8;gne sans partage de la domination<renvoi id="re1no22" idref="no22" typeref="note">22</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa252"><alinea>Mais avec cette exp&#x00E9;rience, on ne touche plus simplement &#x00E0; la seule tradition n&#x00E9;o-romaine de la libert&#x00E9;, on touche &#x00E9;galement &#x00E0; la tradition pl&#x00E9;b&#x00E9;ienne souterraine de la s&#x00E9;cession (r&#x00E9;f&#x00E9;rence &#x00E0; la premi&#x00E8;re s&#x00E9;cession par la pl&#x00E8;be romaine en 494 avant notre &#x00E8;re qui inaugure <np pagenum="179"/>une tradition discontinue de la libert&#x00E9; politique), de l&#x2019;insurrection, de la r&#x00E9;volution. Spinoza, me semble-t-il, appartient pleinement &#x00E0; cette <marquage typemarq="italique">pens&#x00E9;e de la pl&#x00E8;be</marquage> <marquage typemarq="italique">qui heurte la logique d&#x00E9;lib&#x00E9;rative car elle a trait imm&#x00E9;diatement aux affects</marquage>. C&#x2019;est en particulier &#x00E0; travers l&#x2019;approche spinoziste de la multitude, indissociable de l&#x2019;id&#x00E9;e &#x00E9;voqu&#x00E9;e au d&#x00E9;part d&#x2019;une conflictualit&#x00E9; inh&#x00E9;rente aux passions humaines, que Spinoza s&#x2019;inscrit dans cette autre intelligence de la constitution d&#x00E9;mocratique du politique, qui loin de la raison patricienne, loin du syst&#x00E8;me des proc&#x00E9;dures institutionnelles et autres processus d&#x00E9;lib&#x00E9;ratifs visant au final le consensus, g&#x00E9;n&#x00E8;re, &#x00E0; l&#x2019;&#x00E9;preuve de la conflictualit&#x00E9;, l&#x2019;&#x00E9;mancipation du grand nombre. Trois principes sont d&#x00E9;finis par Breaugh pour expliciter cette autre tradition&#x00A0;: le lien communautaire, l&#x2019;agoraphilie, et une temporalit&#x00E9; propre. Nous allons les retrouver dans la mani&#x00E8;re dont Spinoza approche la multitude<renvoi id="re1no23" idref="no23" typeref="note">23</renvoi>.</alinea></para>
+<para id="pa253"><alinea>Dans un c&#x00E9;l&#x00E8;bre article, &#x00C9;tienne Balibar montre comment Spinoza se situe explicitement dans une faille qui sp&#x00E9;cifie sa radicale nouveaut&#x00E9; et constitue sans doute, peut-&#x00EA;tre m&#x00EA;me au-del&#x00E0; de ses propos contre les miracles, le motif d&#x2019;une hostilit&#x00E9; partag&#x00E9;e des &#x00E9;lites intellectuelles de son &#x00E9;poque&#x00A0;: il donnait, chose rare, une place au point de vue des masses<renvoi id="re1no24" idref="no24" typeref="note">24</renvoi>. Dans le prolongement de Machiavel, contrairement &#x00E0; la dynamique du consensus de ses contemporains r&#x00E9;publicains anglais, il soulignait ainsi que c&#x2019;est &#x00E0; travers la conflictualit&#x00E9; que la dynamique du corps social &#x00E9;volue<renvoi id="re1no25" idref="no25" typeref="note">25</renvoi>. C&#x2019;est sans doute cette logique du dissensus, qui ne se limite pas &#x00E0; la contestation rationnelle et qui est alli&#x00E9;e, th&#x00E9;oriquement, &#x00E0; la disparition progressive de toute th&#x00E9;orie rationnelle du contrat dans son &#x0153;uvre politique, que l&#x2019;on peut tirer de la notion spinoziste de multitude par laquelle il chercha &#x00E0; imposer conceptuellement &#x00E0; ses contemporains r&#x00E9;publicains son radicalisme d&#x00E9;mocratique.</alinea></para>
+<para id="pa254"><alinea><np pagenum="180"/>Le concept de <marquage typemarq="italique">multitudo</marquage>, sur lequel Laurent Bove a &#x00E9;crit des pages si &#x00E9;clairantes<renvoi id="re1no26" idref="no26" typeref="note">26</renvoi>, est un concept complexe, qui recouvre une antinomie&#x00A0;: l&#x2019;unit&#x00E9; d&#x2019;une pluralit&#x00E9; r&#x00E9;elle. Mais c&#x2019;est bien le lien social et politique, ou plut&#x00F4;t le devenir collectif, que ce concept parvient &#x00E0; saisir dans toute sa complexit&#x00E9;. S&#x2019;inscrivant au c&#x0153;ur de l&#x2019;ontologie spinoziste de la n&#x00E9;cessit&#x00E9; de la puissance, la multitude se confond avec un processus d&#x2019;autoconstitution de la puissance collective dans lequel l&#x2019;&#x00C9;tat r&#x00E9;publicain prend sa source<renvoi id="re1no27" idref="no27" typeref="note">27</renvoi>. Sans multitude pour le constituer, il n&#x2019;est pas d&#x2019;&#x00C9;tat r&#x00E9;publicain, puisque ce dernier n&#x2019;est autre que la forme institutionnelle que rev&#x00EA;t ensuite la multitude pour pers&#x00E9;v&#x00E9;rer dans sa puissance. La pers&#x00E9;v&#x00E9;rance de la multitude dans sa puissance d&#x00E9;signe donc le <marquage typemarq="italique">conatus</marquage> de l&#x2019;&#x00C9;tat r&#x00E9;publicain, et le progr&#x00E8;s du droit r&#x00E9;publicain dans un &#x00C9;tat donn&#x00E9; n&#x2019;est rien d&#x2019;autre qu&#x2019;un accroissement de la puissance de la multitude. Ce que rencontre la <marquage typemarq="italique">multitudinis potentia</marquage> dans la citoyennet&#x00E9; r&#x00E9;publicaine est alors la condition d&#x2019;une unification de sa puissance, et r&#x00E9;ciproquement la puissance de la multitude ne conserve rien d&#x2019;autre que le droit naturel des citoyens. La puissance de la multitude, le droit commun de l&#x2019;&#x00C9;tat r&#x00E9;publicain et les citoyens partagent donc un devenir commun.</alinea></para>
+<para id="pa255"><alinea>Ce n&#x2019;est pas &#x00E0; proprement parler une agoraphilie dont t&#x00E9;moigne le travail th&#x00E9;orique de Spinoza, mais bien plut&#x00F4;t d&#x2019;un retournement th&#x00E9;orique de grande ampleur destin&#x00E9; &#x00E0; ne r&#x00E9;duire la multitude ni &#x00E0; l&#x2019;antith&#x00E8;se de la <marquage typemarq="italique">communitas</marquage> comme le pensaient les th&#x00E9;ologiens m&#x00E9;di&#x00E9;vaux, du fait de son essence multiple, &#x00E9;parse, inconstante et instable, ni &#x00E0; cette &#x00AB;&#x00A0;hydre &#x00E0; cent t&#x00EA;tes<renvoi id="re1no28" idref="no28" typeref="note">28</renvoi>&#x00A0;&#x00BB;, sans unit&#x00E9; et int&#x00E9;rieurement rong&#x00E9;e par la diversit&#x00E9; que d&#x00E9;crit Hobbes dans une version s&#x00E9;cularis&#x00E9;e de cet h&#x00E9;ritage th&#x00E9;ologique. Ce que les opposants &#x00E0; la multitude soulignent, en pr&#x00E9;f&#x00E9;rant parler de communaut&#x00E9;<renvoi id="re1no29" idref="no29" typeref="note">29</renvoi> ou comme Hobbes de peuple, c&#x2019;est une suppos&#x00E9;e unit&#x00E9; morale, puisque comme l&#x2019;indique l&#x2019;auteur du <np pagenum="181"/>L&#x00E9;viathan, elle &#x00AB;&#x00A0;devient une seule personne qui a sa volont&#x00E9; propre, qui peut disposer de ses actions<renvoi id="re1no30" idref="no30" typeref="note">30</renvoi>&#x00A0;&#x00BB;. C&#x2019;est ce r&#x00E8;gne d&#x2019;une unit&#x00E9; apparente, car abstraite et fictive, que Spinoza bouscula fortement en affirmant que r&#x00E8;gne la multitude, et en revendiquant donc par la m&#x00EA;me occasion cette originalit&#x00E9; en son temps de donner une place de choix &#x00E0; la multitude.</alinea></para>
+<para id="pa256"><alinea>La multitude r&#x00E8;gne en r&#x00E9;alit&#x00E9;, pour Spinoza, au sens o&#x00F9;, en dehors d&#x2019;elle, autrement dit hors de la diversit&#x00E9; des individus-citoyens qui composent la communaut&#x00E9; sociale dont na&#x00EE;t l&#x2019;&#x00C9;tat r&#x00E9;publicain, il n&#x2019;est point de puissance sociale et politique. Ce qui fait la puissance publique, c&#x2019;est le mouvement d&#x2019;une telle pluralit&#x00E9; vers son int&#x00E9;r&#x00EA;t propre, de fait n&#x00E9;cessairement collectif au sens o&#x00F9; il associe un ensemble d&#x2019;individus. Autrement dit, pour Spinoza, seul <marquage typemarq="italique">le divers des individus-citoyens</marquage> est la r&#x00E9;alit&#x00E9; du mouvement constitutif d&#x2019;un &#x00C9;tat, sans quoi aucune des difficult&#x00E9;s inh&#x00E9;rentes aux soci&#x00E9;t&#x00E9;s, par d&#x00E9;finition mouvantes, ne serait intelligible. Par le concept de multitude, les singularit&#x00E9;s individuelles sont non seulement pens&#x00E9;es, articul&#x00E9;es &#x00E0; la collectivit&#x00E9;, mais en plus envisag&#x00E9;es comme d&#x00E9;terminant le <marquage typemarq="italique">conatus</marquage> de l&#x2019;&#x00C9;tat r&#x00E9;publicain. La puissance publique ne peut se construire que sur la pluralit&#x00E9; puisque la n&#x00E9;cessit&#x00E9; de la politique vient du paradoxe initial qui consiste &#x00E0; unifier le divers, qui est l&#x2019;<marquage typemarq="italique">ingenium</marquage> de la multitude<renvoi id="re1no31" idref="no31" typeref="note">31</renvoi>. En donnant &#x00E0; ce concept une telle dimension politique, c&#x2019;est l&#x2019;inconstance et l&#x2019;instabilit&#x00E9; constitutives des soci&#x00E9;t&#x00E9;s que Spinoza, boulevers&#x00E9; par les drames de la R&#x00E9;publique hollandaise qu&#x2019;il avait v&#x00E9;cus de pr&#x00E8;s, et tout particuli&#x00E8;rement l&#x2019;assassinat par la foule des fr&#x00E8;res De Witt, s&#x2019;offrait la possibilit&#x00E9; de penser. C&#x2019;est pourquoi, dans le m&#x00EA;me &#x00E9;lan qui consiste &#x00E0; repenser la multitude, il va r&#x00E9;int&#x00E9;grer dans son vocabulaire les notions voisines traditionnellement mises dans l&#x2019;ombre de la r&#x00E9;flexion politique, car objets de crainte, et tr&#x00E8;s souvent aux prises avec les d&#x00E9;rives tyranniques des soci&#x00E9;t&#x00E9;s politiques, celles de <marquage typemarq="italique">vulgus</marquage>, <marquage typemarq="italique">plebs</marquage>, <marquage typemarq="italique">turba</marquage>.</alinea></para>
+<para id="pa257"><alinea><np pagenum="182"/>La foule, dans ses diverses d&#x00E9;signations, c&#x2019;est la <marquage typemarq="italique">major pars</marquage> de la multitude<renvoi id="re1no32" idref="no32" typeref="note">32</renvoi>&#x00A0;: les <marquage typemarq="italique">vulgi</marquage> sont les hommes dans leur majorit&#x00E9;. Certes la signification du concept de foule peut synth&#x00E9;tiser un &#x00E9;tat des lieux de la r&#x00E9;alit&#x00E9; sociale&#x00A0;o&#x00F9; l&#x2019;ignorance l&#x2019;emporte et se d&#x00E9;cline en termes d&#x2019;irrationalit&#x00E9;, de superstitions, ou encore de pr&#x00E9;jug&#x00E9;s<renvoi id="re1no33" idref="no33" typeref="note">33</renvoi>. Mais loin de toute d&#x00E9;signation p&#x00E9;jorative (il d&#x00E9;nonce la st&#x00E9;rilit&#x00E9; et l&#x2019;impuissance des gouvernants qui souvent s&#x2019;y abaissent<renvoi id="re1no34" idref="no34" typeref="note">34</renvoi>), Spinoza use de ces concepts car ce qu&#x2019;il lui importe est non de maudire, mais de comprendre. La pens&#x00E9;e politique exige de comprendre pourquoi la majorit&#x00E9; des citoyens semble agir, d&#x00E8;s qu&#x2019;ils le peuvent, en opposition avec la puissance collective qui les conserve, pourquoi la multitude dans sa majorit&#x00E9; reste sous la servitude des passions, bref, pourquoi &#x00AB;&#x00A0;la constance de la foule, c&#x2019;est l&#x2019;insoumission et [&#x2026;], loin d&#x2019;&#x00EA;tre gouvern&#x00E9;e par la Raison, elle se laisse emporter par un &#x00E9;lan aveugle &#x00E0; l&#x2019;&#x00E9;loge et au bl&#x00E2;me<renvoi id="re1no35" idref="no35" typeref="note">35</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa258"><alinea>Spinoza refuse la facilit&#x00E9; qui consiste &#x00E0; oblit&#x00E9;rer cette r&#x00E9;alit&#x00E9; en se r&#x00E9;fugiant dans l&#x2019;id&#x00E9;al d&#x2019;une multitude rationnelle. C&#x2019;est d&#x2019;ailleurs ce qu&#x2019;il critiquerait dans la solution rationnelle du pacte social et dans la logique du consensus d&#x00E9;lib&#x00E9;ratif. L&#x2019;irr&#x00E9;alisme tient &#x00E0; la subordination &#x00E0; l&#x2019;id&#x00E9;al d&#x2019;une unit&#x00E9; constitu&#x00E9;e, rationnelle et stable, au d&#x00E9;triment d&#x2019;une r&#x00E9;alit&#x00E9; multiple, autrement plus complexe &#x00E0; saisir, comprenant de la rationalit&#x00E9;, mais ne pouvant en aucun cas s&#x2019;y r&#x00E9;duire. En donnant &#x00E0; la multitude et &#x00E0; son c&#x0153;ur, la foule, une signification politique, Spinoza saisit son paradoxe, &#x00E0; savoir que sa puissance (de constituer l&#x2019;&#x00C9;tat r&#x00E9;publicain, de lui insuffler sa dynamique) est sans cesse frein&#x00E9;e de l&#x2019;int&#x00E9;rieur par la &#x00AB;&#x00A0;<marquage typemarq="italique">civium turbam</marquage><renvoi id="re1no36" idref="no36" typeref="note">36</renvoi>&#x00A0;&#x00BB;, les individus devenus citoyens ne <np pagenum="183"/>pouvant ais&#x00E9;ment envisager leur conservation au-del&#x00E0; de leurs limites individuelles originelles. Elle ne peut r&#x00E9;soudre cette aporie que par son autoconstitution politique qui la conduit, autant que faire se peut, vers un &#x00C9;tat de plus en plus absolu, c&#x2019;est-&#x00E0;-dire de plus en plus rationnel, o&#x00F9; la puissance l&#x2019;emporte n&#x00E9;cessairement sur les diverses expressions de l&#x2019;impuissance et o&#x00F9; la tendance est naturellement d&#x00E9;mocratique, ou bien p&#x00E9;rit. Autrement dit, soit la multitude parvient &#x00E0; conqu&#x00E9;rir sa libert&#x00E9; commune et se dirige in&#x00E9;vitablement vers une constitution r&#x00E9;publicaine d&#x00E9;mocratique, soit elle n&#x2019;en a pas la puissance et finit par s&#x2019;&#x00E9;teindre dans la soumission irrationnelle &#x00E0; un tyran quelconque. Comprendre la diversit&#x00E9; structurant la multitude est donc une premi&#x00E8;re exigence pour pouvoir r&#x00E9;fl&#x00E9;chir aux conditions de sa puissance. Car si le droit, et &#x00E0; travers lui la citoyennet&#x00E9;, est la puissance de la multitude, c&#x2019;est aussi dans la multitude que peut r&#x00E9;sider l&#x2019;impuissance du droit. La complexion de la multitude est donc &#x00E0; l&#x2019;image de ses composants, les citoyens&#x00A0;: elle peut tout aussi bien participer que nuire &#x00E0; sa puissance, et c&#x2019;est en fonction de cette ambivalence interne qu&#x2019;elle pers&#x00E9;v&#x00E8;re dans son existence.</alinea></para>
+<para id="pa259"><alinea>En cela, le concept de multitude concentre les cons&#x00E9;quences politiques de la remise en cause d&#x2019;une m&#x00E9;taphysique du libre arbitre au profit d&#x2019;une ontologie de la &#x00AB;&#x00A0;libre n&#x00E9;cessit&#x00E9;&#x00A0;&#x00BB;. Loin de signifier la d&#x00E9;sunion comme c&#x2019;&#x00E9;tait le cas chez Hobbes, le terme de <marquage typemarq="italique">multitudo</marquage> d&#x00E9;signe l&#x2019;ensemble des relations interindividuelles complexes et le plus souvent conflictuelles qui animent l&#x2019;existence sociale concr&#x00E8;te, lui conf&#x00E8;rent une temporalit&#x00E9; particuli&#x00E8;re par laquelle s&#x2019;institue la communaut&#x00E9; politique et est conditionn&#x00E9; le droit. La multitude, dans la pens&#x00E9;e spinoziste, ne peut donc en aucun cas donner lieu au d&#x00E9;lire d&#x2019;un &#x00E9;lan spontan&#x00E9;ment ad&#x00E9;quat et rationnel de la collectivit&#x00E9;, qui n&#x2019;existerait que dans l&#x2019;&#x00AB;&#x00A0;&#x00EE;le d&#x2019;utopie<renvoi id="re1no37" idref="no37" typeref="note">37</renvoi>&#x00A0;&#x00BB;. Et avant tout, ce concept contribue effectivement &#x00E0; rendre d&#x00E9;finitivement inop&#x00E9;rant celui de sujet, au sens o&#x00F9; Hobbes le d&#x00E9;finissait&#x00A0;: r&#x00E9;duite &#x00E0; la stricte soumission volontaire, la suj&#x00E9;tion ne permet en rien de rendre compte des rapports de puissance naturels qui conduisent un ensemble d&#x2019;individus &#x00E0; prendre une <np pagenum="184"/>orientation institutionnelle particuli&#x00E8;re, &#x00E0; d&#x00E9;terminer un choix politique majoritaire ou &#x00E0; imposer la validation d&#x2019;une direction sociale commune. La temporalit&#x00E9; de la multitude est collective, elle ne peut &#x00EA;tre individuelle&#x00A0;: mais si elle est collective, elle est bien ballot&#x00E9;e par les rapports de force interindividuels.</alinea></para>
+<para id="pa260"><alinea>La multitude nous ram&#x00E8;ne donc au r&#x00E9;el social en tant qu&#x2019;il se politise, qui, loin de se borner au consentement individuel du sujet raisonnable ou m&#x00EA;me &#x00E0; la d&#x00E9;lib&#x00E9;ration collective, est un complexe collectif. Ce terme permet de saisir conceptuellement, par-del&#x00E0; rationalit&#x00E9; et irrationnalit&#x00E9;, le processus qui conduit une pluralit&#x00E9; d&#x2019;individus &#x00E0; produire du &#x00AB;&#x00A0;consentement commun<renvoi id="re1no38" idref="no38" typeref="note">38</renvoi>&#x00A0;&#x00BB;, autrement dit de comprendre comment des individus multiples peuvent s&#x2019;unir en une communaut&#x00E9; qu&#x2019;ils auraient naturellement tendance &#x00E0; rejeter spontan&#x00E9;ment lorsqu&#x2019;ils ne consid&#x00E8;rent que leur int&#x00E9;r&#x00EA;t particulier. Car les relations naturelles, synth&#x00E9;tis&#x00E9;es par Spinoza sous le concept de multitude, sont par d&#x00E9;finition le plus souvent passionnelles. Le premier paragraphe du chapitre six du <marquage typemarq="italique">Trait&#x00E9; politique</marquage> nous apprend par exemple &#x00E0; quel point cette essence affective est &#x00E0; l&#x2019;origine aussi bien des dissensions que des accords au sein de la multitude, puisque si &#x00AB;&#x00A0;les discordes et les s&#x00E9;ditions [&#x2026;] &#x00E9;clatent souvent dans le corps politique<renvoi id="re1no39" idref="no39" typeref="note">39</renvoi>&#x00A0;&#x00BB;, c&#x2019;est aussi la &#x00AB;&#x00A0;force de quelque passion commune<renvoi id="re1no40" idref="no40" typeref="note">40</renvoi>&#x00A0;&#x00BB; qui explique qu&#x2019;elle &#x00AB;&#x00A0;puisse &#x00EA;tre conduite comme par un seul esprit&#x00A0;&#x00BB;.&#x00A0;Unit&#x00E9; affective ne signifie pas pour autant uniformit&#x00E9;, car les variations affectives ne sont pas des exceptions au sein d&#x2019;une multitude d&#x2019;individus tous singuliers. Tant qu&#x2019;elles ne d&#x00E9;truisent pas l&#x2019;association, elles sont les &#x00E9;v&#x00E9;nements r&#x00E9;currents qui t&#x00E9;moignent des soubresauts de toute vie commune et des transformations internes qui am&#x00E8;nent, par le jeu des rapports de puissance, &#x00E0; de nouveaux accords.</alinea></para>
+<para id="pa261"><alinea>Ce que Spinoza inaugure, c&#x2019;est donc l&#x2019;id&#x00E9;e que les individus associ&#x00E9;s et socialement existants non seulement ne sont pas passifs, mais en plus sont collectivement actifs, puisque les mouvements interindividuels inh&#x00E9;rents &#x00E0; la multitude traduisent des exigences communes, ou <np pagenum="185"/>&#x00E0; tout le moins majoritaires, et n&#x00E9;anmoins jamais d&#x00E9;finitivement fig&#x00E9;es, toujours en devenir, qui d&#x00E9;terminent plus tard les gouvernants dans l&#x2019;&#x00E9;laboration des lois. Il est donc important de ne pas faire de contresens sur cette id&#x00E9;e et de ne pas voir derri&#x00E8;re cette th&#x00E9;orie originale du sujet du politique l&#x2019;id&#x00E9;e que les lois rel&#x00E8;veraient d&#x2019;une volont&#x00E9; g&#x00E9;n&#x00E9;rale orientant id&#x00E9;alement le sort commun. Au contraire, Spinoza, en insistant sur les variabilit&#x00E9;s affectives et les rapports de force qui animent la multitude, s&#x2019;efforce de d&#x00E9;limiter sa dimension constituante afin d&#x2019;&#x00E9;viter de la r&#x00E9;duire &#x00E0; la pluralit&#x00E9; disparate et sans ordre que d&#x00E9;crivait Hobbes. La multitude spinoziste n&#x2019;est pas une simple juxtaposition des volont&#x00E9;s d&#x00E9;sordonn&#x00E9;es, car pr&#x00E9;cis&#x00E9;ment les individus qu&#x2019;elle associe s&#x2019;efforcent en commun, par le jeu des passions communes et du rapport de force naturel, d&#x2019;instituer en droit, et donc de rendre stable politiquement au-del&#x00E0; des faits, ce sur quoi la majorit&#x00E9; s&#x2019;accorde. Seul semble importer, dans cette perspective, le processus continu, mais complexe, d&#x2019;&#x00E9;laboration du droit commun de la r&#x00E9;publique en tant qu&#x2019;il lib&#x00E8;re la multitude<renvoi id="re1no41" idref="no41" typeref="note">41</renvoi>.</alinea></para>
+<para id="pa262"><alinea>Spinoza n&#x2019;h&#x00E9;site pas, cependant, pour aller jusqu&#x2019;au bout de sa d&#x00E9;monstration, &#x00E0; montrer que la multitude peut errer, et m&#x00EA;me qu&#x2019;elle peut &#x00EA;tre esclave. Si le meilleur &#x00C9;tat est sans conteste &#x00AB;&#x00A0;celui o&#x00F9; les hommes passent leur vie dans la concorde<renvoi id="re1no42" idref="no42" typeref="note">42</renvoi>&#x00A0;&#x00BB;, il n&#x2019;en demeure pas moins que tous les &#x00C9;tats ne correspondent pas &#x00E0; cet id&#x00E9;al. Bien plus, la soumission du plus grand nombre peut &#x00EA;tre une r&#x00E9;alit&#x00E9; partag&#x00E9;e au rythme des affects de crainte. Mais pr&#x00E9;cis&#x00E9;ment, une telle multitude ignore l&#x2019;ob&#x00E9;issance et ne conna&#x00EE;t que l&#x2019;esclavage&#x00A0;:</alinea></para>
+<para id="pa263">
+<bloccitation>
+<alinea>un corps politique o&#x00F9; la paix d&#x00E9;pend de l&#x2019;inertie des sujets que l&#x2019;on conduit comme un troupeau uniquement form&#x00E9; &#x00E0; l&#x2019;esclavage, m&#x00E9;rite plus justement le nom de solitude que celui de corps politique<renvoi id="re1no43" idref="no43" typeref="note">43</renvoi>.</alinea>
+</bloccitation>
+</para>
+<para id="pa264"><alinea><np pagenum="186"/>L&#x2019;association d&#x2019;esclaves, aux antipodes de l&#x2019;association d&#x00E9;mocratique de citoyens, est donc une forme possible de l&#x2019;existence de la multitude, qui se r&#x00E9;duit alors &#x00E0; une simple juxtaposition d&#x2019;individualit&#x00E9;s isol&#x00E9;es, solitaires et enferm&#x00E9;es dans la crainte. Une telle apparence de paix t&#x00E9;moigne en l&#x2019;occurrence de l&#x2019;absence d&#x2019;&#x00E9;tat politique et de la domination, certes pr&#x00E9;caire mais effective, du droit naturel d&#x2019;un tyran sur la multitude. Il suffit alors que la multitude, anim&#x00E9;e par l&#x2019;&#x00AB;&#x00A0;indignation g&#x00E9;n&#x00E9;rale<renvoi id="re1no44" idref="no44" typeref="note">44</renvoi>&#x00A0;&#x00BB; face &#x00E0; l&#x2019;absence cruelle de tout droit politique, s&#x2019;efforce de &#x00AB;&#x00A0;tirer vengeance du dommage subi en commun<renvoi id="re1no45" idref="no45" typeref="note">45</renvoi>&#x00A0;&#x00BB; pour qu&#x2019;elle l&#x2019;emporte en puissance dans sa lutte contre le tyran, le d&#x00E9;fasse et exige du nouveau souverain, qui ne tire que d&#x2019;elle et de la concorde qu&#x2019;elle &#x00E9;tablit son pouvoir de dire le droit, l&#x2019;institution de la premi&#x00E8;re des revendications qu&#x2019;elle vient d&#x2019;imposer dans les faits&#x00A0;: la libert&#x00E9; politique, principe m&#x00EA;me de tout &#x00E9;tat civil. Ainsi se v&#x00E9;rifie au plus pr&#x00E8;s ce que disait Fran&#x00E7;ois Zourabichvili, dans <marquage typemarq="italique">Le Conservatisme paradoxal de Spinoza</marquage>, &#x00E0; savoir que c&#x2019;est &#x00AB;&#x00A0;dans le combat pour l&#x2019;ind&#x00E9;pendance que la multitude renoue avec le sens et le go&#x00FB;t de la libert&#x00E9;<renvoi id="re1no46" idref="no46" typeref="note">46</renvoi>&#x00A0;&#x00BB;. Comme le dit si justement Martin Breaugh, &#x00AB;&#x00A0;les luttes pl&#x00E9;b&#x00E9;iennes sont des luttes qui visent &#x00E0; faire vivre la libert&#x00E9; politique en s&#x2019;attaquant au r&#x00E8;gne sans partage de la domination<renvoi id="re1no47" idref="no47" typeref="note">47</renvoi>&#x00A0;&#x00BB;.</alinea></para>
+<para id="pa265"><alinea>On a donc bien ici confirmation que cette exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne cherche toujours &#x00E0; exprimer un d&#x00E9;sir de ne pas subir de domination et engendre la conflictualit&#x00E9; indispensable pour parvenir &#x00E0; la surmonter, faisant ainsi de la multitude le sujet politique. Bien s&#x00FB;r, l&#x2019;enjeu est d&#x2019;&#x00E9;viter la rechute dans la servitude et c&#x2019;est &#x00E0; cette fin la construction du <np pagenum="187"/>droit commun qui importe. Spinoza r&#x00E9;volutionne la tradition r&#x00E9;publicaine par l&#x2019;exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne de la multitude, puisqu&#x2019;il montre que la probl&#x00E9;matique de l&#x2019;ob&#x00E9;issance volontaire n&#x2019;est alors plus centrale, que celle de l&#x2019;affirmation de l&#x2019;utile commun par la lutte conflictuelle inh&#x00E9;rente &#x00E0; sa conception de la d&#x00E9;mocratie par l&#x2019;auto-organisation de la multitude s&#x2019;y substitue. Loin de toute chim&#x00E8;re politique, tant de la transcendance de l&#x2019;autorit&#x00E9; souveraine que de l&#x2019;id&#x00E9;al d&#x2019;une r&#x00E9;volution spontan&#x00E9;e, Spinoza s&#x2019;attache &#x00E0; traduire en concept ce que l&#x2019;exp&#x00E9;rience politique nous enseigne afin de mieux saisir dans son essence, et malgr&#x00E9; son apparence complexe et disparate, cette r&#x00E9;alit&#x00E9; collective qui <marquage typemarq="italique">fait</marquage> la politique. Par son &#x00E9;loge de la multitude et de la n&#x00E9;cessit&#x00E9; du conflit, il rappelle, bien loin de tout id&#x00E9;al utopique, que la d&#x00E9;mocratie r&#x00E9;publicaine est en son fond agonistique<renvoi id="re1no48" idref="no48" typeref="note">48</renvoi>.</alinea></para>
+</section1>
+</corps>
+<partiesann>
+<grnote>
+<note id="no1">
+<no>1</no>
+<alinea>Celle-ci a fait l&#x2019;objet d&#x2019;une publication&#x00A0;: <marquage typemarq="italique">Spinoza, Locke et l&#x2019;id&#x00E9;e de citoyennet&#x00E9;. Une g&#x00E9;n&#x00E9;ration r&#x00E9;publicaine &#x00E0; l&#x2019;aube des Lumi&#x00E8;res</marquage>, Paris, Classiques Garnier, 2012.</alinea>
+</note>
+<note id="no2">
+<no>2</no>
+<alinea>Philip Pettit, <marquage typemarq="italique">R&#x00E9;publicanisme</marquage>. <marquage typemarq="italique">Une th&#x00E9;orie de la libert&#x00E9; et du gouvernement</marquage>, trad. fr. P.&#x00A0;Savidan et J.-F.&#x00A0;Spitz, Paris, Gallimard, 2004, p.&#x00A0;101.</alinea>
+</note>
+<note id="no3">
+<no>3</no>
+<alinea>Cf. Christophe Miqueu, <marquage typemarq="italique">Spinoza, Locke et l&#x2019;id&#x00E9;e de citoyennet&#x00E9;</marquage>, <marquage typemarq="italique">op.&#x00A0;cit</marquage>., chap. 5.</alinea>
+</note>
+<note id="no4">
+<no>4</no>
+<alinea>Isaiah Berlin, <marquage typemarq="italique">&#x00C9;loge de la libert&#x00E9;</marquage>, trad. fr J. Lahana, Paris, Calmann-L&#x00E9;vy, 1988.</alinea>
+</note>
+<note id="no5">
+<no>5</no>
+<alinea>Benjamin Constant, &#x00AB;&#x00A0;De la libert&#x00E9; des anciens compar&#x00E9;e &#x00E0; celle des modernes&#x00A0;&#x00BB;, dans <marquage typemarq="italique">De la libert&#x00E9; chez les modernes</marquage>, Paris, Hachette, 1980, p.&#x00A0;491-515.</alinea>
+</note>
+<note id="no6">
+<no>6</no>
+<alinea>Christophe Miqueu, &#x00AB;&#x00A0;Le R&#x00E9;publicanisme. Pr&#x00E9;sentation d&#x2019;un champ de recherches en philosophie politique&#x00A0;&#x00BB;, <marquage typemarq="italique">Klesis</marquage> - Revue philosophique, n&#x00B0;2 &#x00AB;&#x00A0;Recherches en philosophie politique&#x00A0;&#x00BB;, Montpellier, septembre 2006.</alinea>
+</note>
+<note id="no7">
+<no>7</no>
+<alinea>Pour de plus amples d&#x00E9;veloppements, cf. Christophe Miqueu, <marquage typemarq="italique">Spinoza, Locke et l&#x2019;id&#x00E9;e de citoyennet&#x00E9;</marquage>, <marquage typemarq="italique">op.&#x00A0;cit</marquage>., chap. 5.</alinea>
+</note>
+<note id="no8">
+<no>8</no>
+<alinea>Baruch Spinoza,<marquage typemarq="italique">Trait&#x00E9; politique</marquage> (<marquage typemarq="italique">TP</marquage>), trad. fr. C. Ramond, Paris, Puf, 2005, II, 9, p. 103.</alinea>
+</note>
+<note id="no9">
+<no>9</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 15, p.&#x00A0;105.</alinea>
+</note>
+<note id="no10">
+<no>10</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 9-11, p.&#x00A0;103.</alinea>
+</note>
+<note id="no11">
+<no>11</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 9, p.&#x00A0;103.</alinea>
+</note>
+<note id="no12">
+<no>12</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 14, p.&#x00A0;105. Le paragraphe se poursuit ainsi&#x00A0;: &#x00AB;&#x00A0;Le pire ennemi est en effet pour moi celui que je dois craindre le le plus et de qui je dois le plus me garder.&#x00A0;&#x00BB;</alinea>
+</note>
+<note id="no13">
+<no>13</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 8, p.&#x00A0;101.</alinea>
+</note>
+<note id="no14">
+<no>14</no>
+<alinea><marquage typemarq="italique">TP</marquage>, I, 1, p.&#x00A0;89.</alinea>
+</note>
+<note id="no15">
+<no>15</no>
+<alinea>Philip Pettit, <marquage typemarq="italique">R&#x00E9;publicanisme</marquage>, <marquage typemarq="italique">op.&#x00A0;cit</marquage>., p.&#x00A0;368.</alinea>
+</note>
+<note id="no16">
+<no>16</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>., p.&#x00A0;368.</alinea>
+</note>
+<note id="no17">
+<no>17</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>., p.&#x00A0;371.</alinea>
+</note>
+<note id="no18">
+<no>18</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>.</alinea>
+</note>
+<note id="no19">
+<no>19</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>., p.&#x00A0;372.</alinea>
+</note>
+<note id="no20">
+<no>20</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>., p.&#x00A0;192.</alinea>
+</note>
+<note id="no21">
+<no>21</no>
+<alinea>Martin Breaugh, <marquage typemarq="italique">L&#x2019;Exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne. Une histoire discontinue de la libert&#x00E9; politique</marquage>, Paris, Payot, 2007, p.&#x00A0;11.</alinea>
+</note>
+<note id="no22">
+<no>22</no>
+<alinea><marquage typemarq="italique">Ibid</marquage>., p.&#x00A0;12.</alinea>
+</note>
+<note id="no23">
+<no>23</no>
+<alinea>Les pages qui suivent reprennent des analyses pr&#x00E9;sent&#x00E9;es de mani&#x00E8;re plus approfondies dans mon ouvrage <marquage typemarq="italique">Spinoza, Locke et l&#x2019;id&#x00E9;e de citoyennet&#x00E9;, op.&#x00A0;cit</marquage>.</alinea>
+</note>
+<note id="no24">
+<no>24</no>
+<alinea>&#x00C9;tienne Balibar, &#x00AB;&#x00A0;Spinoza, l&#x2019;anti-Orwell. La crainte des masses&#x00A0;&#x00BB;, d&#x2019;abord publi&#x00E9; dans <marquage typemarq="italique">Les temps modernes</marquage>, puis repris dans <marquage typemarq="italique">La Crainte des masses</marquage>, Paris, Galil&#x00E9;e, 1997.</alinea>
+</note>
+<note id="no25">
+<no>25</no>
+<alinea>Cf. Filippo Del Lucchese<marquage typemarq="italique">, Tumultes et Indignation. Conflit, droit et multitude chez Machiavel et Spinoza</marquage>, trad. fr. P. Pasquini, Paris, &#x00C9;ditions Amsterdam, 2010<marquage typemarq="italique">.</marquage></alinea>
+</note>
+<note id="no26">
+<no>26</no>
+<alinea>Laurent Bove, <marquage typemarq="italique">La Strat&#x00E9;gie du conatus. Affirmation et r&#x00E9;sistance chez Spinoza</marquage>, Paris, Vrin, 1996.</alinea>
+</note>
+<note id="no27">
+<no>27</no>
+<alinea><marquage typemarq="italique">TP</marquage>, II, 17, p.&#x00A0;107 ; III, 2, p.&#x00A0;113 ; III, 7, p.&#x00A0;117 ; III, 9, p.&#x00A0;119.</alinea>
+</note>
+<note id="no28">
+<no>28</no>
+<alinea><marquage typemarq="italique">Du citoyen</marquage> (<marquage typemarq="italique">DC</marquage>), II, vi, 1, note, Paris, Librairie g&#x00E9;n&#x00E9;rale fran&#x00E7;aise, 1996, p.&#x00A0;121.</alinea>
+</note>
+<note id="no29">
+<no>29</no>
+<alinea>Cf. Pierre Michaud-Quantin, <marquage typemarq="italique">Universitas. Expressions du mouvement communautaire dans le Moyen Age latin</marquage>, Paris, Vrin, 1970, p.&#x00A0;337.</alinea>
+</note>
+<note id="no30">
+<no>30</no>
+<alinea><marquage typemarq="italique">DC</marquage>, II.vi.1, note, p.&#x00A0;120.</alinea>
+</note>
+<note id="no31">
+<no>31</no>
+<alinea>Baruch Spinoza, <marquage typemarq="italique">Trait&#x00E9; th&#x00E9;ologico-politique</marquage> (<marquage typemarq="italique">TTP</marquage>), trad. fr. J. Lagr&#x00E9;e et P.-F.&#x00A0;Moreau, Paris, Puf, 1999, XVII, 4, p.&#x00A0;540&#x00A0;: &#x00AB;&#x00A0;<marquage typemarq="italique">tantum varium multitudinis ingenium</marquage>.&#x00A0;&#x00BB;</alinea>
+</note>
+<note id="no32">
+<no>32</no>
+<alinea><marquage typemarq="italique">TTP,</marquage> V, 14, p.&#x00A0;229&#x00A0;: &#x00AB;&#x00A0;la pl&#x00E8;be (<marquage typemarq="italique">plebis</marquage>) &#x2013; qui compose la plus grande partie du genre humain.&#x00A0;&#x00BB;</alinea>
+</note>
+<note id="no33">
+<no>33</no>
+<alinea><marquage typemarq="italique">TTP,</marquage> pr&#x00E9;face, 5, p.&#x00A0;60-61&#x00A0;: &#x00AB;&#x00A0;comme la foule (<marquage typemarq="italique">vulgus</marquage>) demeure toujours &#x00E9;galement mis&#x00E9;rable, elle ne peut jamais rester calme longtemps, et rien ne lui pla&#x00EE;t que ce&#x00A0;qui est nouveau et ne l&#x2019;a pas encore d&#x00E9;&#x00E7;ue. Cette inconstance fut la cause de nombreux tumultes et de guerres atroces &#x2013; [&#x2026;] Quinte-Curse l&#x2019;a tr&#x00E8;s bien remarqu&#x00E9; (Livre IV, chap. X)&#x00A0;: <marquage typemarq="italique">Pour gouverner la multitude, il n&#x2019;est rien de plus efficace que la superstition</marquage>. D&#x2019;o&#x00F9; vient qu&#x2019;on la pousse tr&#x00E8;s facilement, sous couleur de religion, tant&#x00F4;t &#x00E0; adorer ses rois comme des Dieux, tant&#x00F4;t &#x00E0; les ex&#x00E9;crer et &#x00E0; les ha&#x00EF;r comme le fl&#x00E9;au commun du genre humain.&#x00A0;&#x00BB;</alinea>
+</note>
+<note id="no34">
+<no>34</no>
+<alinea><marquage typemarq="italique">TP,</marquage> VII, 27, p.&#x00A0;187-89.</alinea>
+</note>
+<note id="no35">
+<no>35</no>
+<alinea><marquage typemarq="italique">TTP,</marquage> pr&#x00E9;face, 15, p.&#x00A0;75 ; cf. aussi <marquage typemarq="italique">TP</marquage>, I, 5, p.&#x00A0;93.</alinea>
+</note>
+<note id="no36">
+<no>36</no>
+<alinea><marquage typemarq="italique">TP,</marquage> VII, 28, p.&#x00A0;189.</alinea>
+</note>
+<note id="no37">
+<no>37</no>
+<alinea><marquage typemarq="italique">TP,</marquage> I, 1, p.&#x00A0;89.</alinea>
+</note>
+<note id="no38">
+<no>38</no>
+<alinea>&#x00AB;&#x00A0;<marquage typemarq="italique">Ex communi consensu</marquage>&#x00A0;&#x00BB;, <marquage typemarq="italique">TP,</marquage> II, 16-17, p.&#x00A0;107 ; II,19, p.&#x00A0;109.</alinea>
+</note>
+<note id="no39">
+<no>39</no>
+<alinea><marquage typemarq="italique">TP,</marquage> VI, 2, p.&#x00A0;141.</alinea>
+</note>
+<note id="no40">
+<no>40</no>
+<alinea><marquage typemarq="italique">TP,</marquage> VI, 2, p.&#x00A0;141<marquage typemarq="italique">.</marquage></alinea>
+</note>
+<note id="no41">
+<no>41</no>
+<alinea>Sur ce concept central de &#x00AB;&#x00A0;multitude libre&#x00A0;&#x00BB;, voir Chantal Jaquet, Pascal S&#x00E9;verac et Ariel Suhamy (dir.), <marquage typemarq="italique">La Multitude libre. Nouvelles lectures du Trait&#x00E9; politique de Spinoza</marquage>, Paris, &#x00C9;ditions Amsterdam, 2008.</alinea>
+</note>
+<note id="no42">
+<no>42</no>
+<alinea><marquage typemarq="italique">TP</marquage>, V, 5, p.&#x00A0;57.</alinea>
+</note>
+<note id="no43">
+<no>43</no>
+<alinea><marquage typemarq="italique">TP</marquage>, V, 4, p.&#x00A0;57.</alinea>
+</note>
+<note id="no44">
+<no>44</no>
+<alinea><marquage typemarq="italique">TP</marquage>, III, 9, p.&#x00A0;41. Cf. notamment les analyses du concept d&#x2019;indignation propos&#x00E9;es par Alexandre Matheron &#x00AB;&#x00A0;Le probl&#x00E8;me de l&#x2019;&#x00E9;volution de Spinoza du <marquage typemarq="italique">Trait&#x00E9; th&#x00E9;ologico-politique</marquage> au <marquage typemarq="italique">Trait&#x00E9; politique</marquage>&#x00A0;&#x00BB;,&#x00A0;E. Curley, P.-F. Moreau (&#x00E9;d.), <marquage typemarq="italique">Spinoza, Issues and Directions. The Proceedings</marquage> <marquage typemarq="italique">of the Chicago Conference 1986</marquage>, Leiden, New York, Brill, 1990 ; &#x00AB;&#x00A0;Passions et institutions chez Spinoza&#x00A0;&#x00BB;, in <marquage typemarq="italique">La Raison d&#x2019;&#x00C9;tat, politique et rationalit&#x00E9;</marquage>, Christian Lazzeri et Dominique Reyni&#x00E9; (dir.), Paris, Puf, 1992 ; &#x00AB;&#x00A0;L&#x2019;indignation et le <marquage typemarq="italique">conatus</marquage> de l&#x2019;&#x00C9;tat spinoziste&#x00A0;&#x00BB;, in <marquage typemarq="italique">Spinoza&#x00A0;: Puissance et Ontologie</marquage>, M. Revault d&#x2019;Allonnes et H. Rizk (dir.), Paris, Kim&#x00E9;, 1994.</alinea>
+</note>
+<note id="no45">
+<no>45</no>
+<alinea><marquage typemarq="italique">Ibid.</marquage> ; cf. aussi <marquage typemarq="italique">TP</marquage>, VI, 1, p.&#x00A0;59.</alinea>
+</note>
+<note id="no46">
+<no>46</no>
+<alinea>Fran&#x00E7;ois Zourabichvili, <marquage typemarq="italique">Le Conservatisme paradoxal de Spinoza</marquage>, Paris, Puf, 2002, p.&#x00A0;257.</alinea>
+</note>
+<note id="no47">
+<no>47</no>
+<alinea>Martin Breaugh, <marquage typemarq="italique">L&#x2019;Exp&#x00E9;rience pl&#x00E9;b&#x00E9;ienne</marquage>, <marquage typemarq="italique">op.&#x00A0;cit.</marquage>, p.&#x00A0;12.</alinea>
+</note>
+<note id="no48">
+<no>48</no>
+<alinea>Cf. pour prolonger, Hourya Bentouhami et Christophe Miqueu (dir.), <marquage typemarq="italique">Conflits et d&#x00E9;mocratie. Quel nouvel espace public</marquage>, Paris, L&#x2019;Harmattan, 2010.</alinea>
+</note>
+</grnote>
+</partiesann>
+</article>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="EDAM_DEBRA_2019_01_0003" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<tri>EDAM_DEBRA_2019_01_0003</tri>
+<pagination>
+<ppage>3</ppage>
+<dpage>7</dpage>
+</pagination>
+<nbpage>5</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Pages de d&#x00E9;but</titre>
+</grtitre>
+</liminaire>
+<corps>
+<section1 id="s1n1"/>
+</corps>
+</article>

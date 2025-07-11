@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="EDAM_DEBRA_2019_01_0011" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<tri>EDAM_DEBRA_2019_01_0011</tri>
+<pagination>
+<ppage>11</ppage>
+<dpage>11</dpage>
+</pagination>
+<nbpage>1</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Remerciements</titre>
+</grtitre>
+<grauteur>
+<auteur id="au1" typeaut="auteur">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au2" typeaut="auteur">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au3" typeaut="auteur">
+<nompers>
+<prenom>Kim</prenom>
+<nomfamille>Sang Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+</liminaire>
+<corps>
+<section1 id="s1n2">
+<para id="pa11"><alinea><np pagenum="11"/>Le pr&#x00E9;sent ouvrage trouve ses origines dans une journ&#x00E9;e d&#x2019;&#x00E9;tudes accueillie en 2011 par le d&#x00E9;partement de philosophie de l&#x2019;universit&#x00E9; Fran&#x00E7;ois Rabelais de Tours. Nos remerciements vont en particulier &#x00E0; Laurent Gerbier, &#x00E0; l&#x2019;&#x00E9;poque directeur du d&#x00E9;partement, et co-organisateur de la rencontre. Nous remercions &#x00E9;galement le laboratoire Sophiapol pour son soutien &#x00E0; l&#x2019;organisation cette journ&#x00E9;e.</alinea></para>
+</section1>
+</corps>
+</article>

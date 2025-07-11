@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="EDAM_DEBRA_2019_01_0007" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<tri>EDAM_DEBRA_2019_01_0007</tri>
+<pagination>
+<ppage>7</ppage>
+<dpage>8</dpage>
+</pagination>
+<nbpage>2</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Présentation des contributeurs et contributrices</titre>
+</grtitre>
+<grauteur>
+<auteur id="au1" typeaut="auteur">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au2" typeaut="auteur">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="au3" typeaut="auteur">
+<nompers>
+<prenom>Kim</prenom>
+<nomfamille>Sang Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+</liminaire>
+<corps>
+<section1 id="s1n1">
+<para id="pa1"><alinea><np pagenum="1"/><marquage typemarq="gras">Judith Butler</marquage> est philosophe, professeure &#x00E0; l&#x2019;universit&#x00E9; de Berkeley. Th&#x00E9;oricienne du genre et de la violence des normes dans le champ social et politique, elle d&#x00E9;ploie une r&#x00E9;flexion sur la vuln&#x00E9;rabilit&#x00E9;, le performatif et la puissance d&#x2019;action des collectifs. Elle a publi&#x00E9;, entre autres, <marquage typemarq="italique">Trouble dans le genre</marquage> (La D&#x00E9;couverte, 2006), <marquage typemarq="italique">Le Pouvoir des mots</marquage> (Amsterdam, 2008), <marquage typemarq="italique">La Vie psychique du pouvoir</marquage> (L&#x00E9;o Scheer, 2002), <marquage typemarq="italique">Humain, inhumain : le travail critique des normes</marquage> (Amsterdam, 2005), <marquage typemarq="italique">Vie pr&#x00E9;caires</marquage> (Amsterdam, 2005), <marquage typemarq="italique">Ce qui fait une vie</marquage> (Zones, 2010), et plus r&#x00E9;cemment <marquage typemarq="italique">Rassemblement, Pluralit&#x00E9;, performativit&#x00E9; et politique</marquage> (Fayard, 2016).</alinea></para>
+<para id="pa2"><alinea><marquage typemarq="gras">Yves Citton</marquage> est professeur de litt&#x00E9;rature et media &#x00E0; l&#x2019;universit&#x00E9; Paris 8. Il co-dirige la revue <marquage typemarq="italique">Multitudes</marquage> et a publi&#x00E9; r&#x00E9;cemment <marquage typemarq="italique">Contre-courants politiques</marquage> (Fayard, 2018), <marquage typemarq="italique">M&#x00E9;diarchie</marquage> (Seuil, 2017), <marquage typemarq="italique">Zazirocratie</marquage> (Amsterdam, 2011), <marquage typemarq="italique">Mythocratie</marquage> (Amsterdam, 2010) et <marquage typemarq="italique">L&#x2019;Envers de la libert&#x00E9;</marquage> (Amsterdam, 2006). Ses articles sont en acc&#x00E8;s libre sur <liensimple id="l01" xlink:href="https://www.yvescitton.net">www.yvescitton.net</liensimple>.</alinea></para>
+<para id="pa3"><alinea><marquage typemarq="gras">Eva Debray</marquage> est certifi&#x00E9;e et docteure en philosophie, chercheuse rattach&#x00E9;e au laboratoire Sophiapol (universit&#x00E9; Paris Nanterre) et enseigne &#x00E0; l&#x2019;UFR de philosophie de l&#x2019;universit&#x00E9; Paris&#x00A0;1 Panth&#x00E9;on-Sorbonne. Sa th&#x00E8;se s&#x2019;est attach&#x00E9;e &#x00E0; exploiter les ressources de la pens&#x00E9;e spinoziste dans le cadre d&#x2019;une r&#x00E9;flexion sur l&#x2019;hypoth&#x00E8;se d&#x2019;un ordre social spontan&#x00E9;.</alinea></para>
+<para id="pa4"><alinea><marquage typemarq="gras">Nicolas Isra&#x00EB;l,</marquage> agr&#x00E9;g&#x00E9; et docteur en philosophie, habilit&#x00E9; &#x00E0; diriger les recherches, est professeur en classes pr&#x00E9;paratoires dans l&#x2019;acad&#x00E9;mie de Paris et charg&#x00E9; de conf&#x00E9;rences &#x00E0; l&#x2019;&#x00C9;cole de guerre. Ses travaux de philosophie politique l&#x2019;ont conduit &#x00E0; concentrer ses recherches dans une perspective anthropologique sur la question de la lutte anti-insurrectionnelle et anti-terroriste. Il est notamment l&#x2019;auteur de <marquage typemarq="italique">Spinoza le temps de la vigilance</marquage> (Payot, 2001), <marquage typemarq="italique">G&#x00E9;n&#x00E9;alogie du droit moderne, l&#x2019;&#x00E9;tat de n&#x00E9;cessit&#x00E9;</marquage> (Payot, 2006), et <marquage typemarq="italique">La Terre de l&#x2019;insolence. Une anthropologie des conflits</marquage> (Les Belles Lettres, 2018).</alinea></para>
+<para id="pa5"><alinea><marquage typemarq="gras">Fr&#x00E9;d&#x00E9;ric Lordon</marquage> est directeur de recherche au CNRS et chercheur au CESSP (universit&#x00E9; Paris&#x00A0;1 Sorbonne, EHESS). Il d&#x00E9;veloppe le programme de recherche d&#x2019;une science sociale spinoziste. Il a publi&#x00E9;, entre autres, <marquage typemarq="italique">Capitalisme, d&#x00E9;sir et servitude</marquage> (La Fabrique, 2010), <marquage typemarq="italique">Imperium. Structures et affects des corps politiques</marquage> <np pagenum="8"/>(La Fabrique, 2015), <marquage typemarq="italique">La Condition anarchique</marquage> (Seuil, 2018), et co-dirig&#x00E9; avec Yves Citton <marquage typemarq="italique">Spinoza et les sciences sociales. De la puissance de la multitude &#x00E0; l&#x2019;&#x00E9;conomie des affects</marquage> (Amsterdam, 2008.)</alinea></para>
+<para id="pa6"><alinea><marquage typemarq="gras">Nicola Marcucci</marquage> est membre associ&#x00E9; du LIER-EHESS. Docteur en histoire et sociologie de la modernit&#x00E9;, il a r&#x00E9;alis&#x00E9; des post-doctorats &#x00E0; l&#x2019;universit&#x00E9; de Milano-Bicocca, &#x00E0; l&#x2019;Universit&#x00E9; de la Humboldt, &#x00E0; l&#x2019;EHESS et &#x00E0; la New School for Social Research &#x00E0; New York. Il termine actuellement une monographie sur la crise de la rationalit&#x00E9; des lumi&#x00E8;res &#x2013; spinozistes et kantiennes &#x2013; et l&#x2019;&#x00E9;mergence d&#x2019;une conception sociologique de la raison.</alinea></para>
+<para id="pa7"><alinea><marquage typemarq="gras">Christophe Miqueu</marquage> est MCF &#x00E0; l&#x2019;universit&#x00E9; de Bordeaux, membre de l&#x2019;EA SPH et associ&#x00E9; au Cevipof. Il travaille sur le r&#x00E9;publicanisme et est notamment l&#x2019;auteur de <marquage typemarq="italique">Spinoza, Locke et l&#x2019;id&#x00E9;e de citoyennet&#x00E9;. Une g&#x00E9;n&#x00E9;ration r&#x00E9;publicaine &#x00E0; l&#x2019;aube des Lumi&#x00E8;res</marquage> (Classiques Garnier, 2012).</alinea></para>
+<para id="pa8"><alinea><marquage typemarq="gras">Pierre-Fran&#x00E7;ois Moreau</marquage> est professeur des Universit&#x00E9;s &#x00E0; l&#x2019;&#x00C9;cole Normale sup&#x00E9;rieure de Lyon. Il a notamment&#x00A0;publi&#x00E9;: <marquage typemarq="italique">Spinoza. L&#x2019;exp&#x00E9;rience et l&#x2019;&#x00E9;ternit&#x00E9;</marquage> (Puf, 1994) et <marquage typemarq="italique">Probl&#x00E8;mes du spinozisme</marquage> (Vrin, 2006). Il dirige l&#x2019;&#x00E9;dition des <marquage typemarq="italique">&#x0152;uvres compl&#x00E8;tes</marquage> de Spinoza.</alinea></para>
+<para id="pa9"><alinea><marquage typemarq="gras">Kim Sang</marquage> <marquage typemarq="gras">Ong-Van-Cung</marquage>, professeure &#x00E0; l&#x2019;universit&#x00E9; Bordeaux Montaigne, a propos&#x00E9; une g&#x00E9;n&#x00E9;alogie m&#x00E9;di&#x00E9;vale du lexique de la subjectivit&#x00E9; dans la philosophie classique. Elle a publi&#x00E9; <marquage typemarq="italique">L&#x2019;Objet de nos pens&#x00E9;es. Descartes et l&#x2019;intentionnalit&#x00E9;</marquage> (Vrin, 2012), une &#x00E9;dition de Cordemoy (Vrin, 2016) et des &#x00E9;tudes sur Descartes, Spinoza, Sartre, Foucault, Deleuze, Butler et Honneth (disponibles sur Academia). Elle s&#x2019;int&#x00E9;resse aux critiques contemporaines du sujet moderne et travaille &#x00E0; une g&#x00E9;n&#x00E9;alogie de la subjectivit&#x00E9; historique au <marquage typemarq="petitecap">xx</marquage><exposant>e</exposant>&#x00A0;si&#x00E8;cle.</alinea></para>
+<para id="pa10"><alinea><marquage typemarq="gras">Pascal S&#x00E9;v&#x00E9;rac</marquage> est ma&#x00EE;tre de conf&#x00E9;rences &#x00E0; l&#x2019;UPEC (universit&#x00E9; Paris-Est Cr&#x00E9;teil)&#x00A0;: il enseigne &#x00E0; l&#x2019;ESP&#x00C9; et est membre du laboratoire LIS (Lettres, Id&#x00E9;es, Savoirs &#x2013; EA 4395). Sp&#x00E9;cialiste de la philosophie spinoziste, il a publi&#x00E9; notamment <marquage typemarq="italique">Le Devenir actif chez Spinoza</marquage> (Honor&#x00E9; Champion, 2005) et <marquage typemarq="italique">Spinoza. Union et d&#x00E9;sunion</marquage> (Vrin, 2011). Il a r&#x00E9;cemment entrepris une confrontation entre philosophie de Spinoza et psychologie de Vygotski, autour de la question du d&#x00E9;veloppement, cognitif et affectif, de l&#x2019;enfant.</alinea></para>
+</section1>
+</corps>
+</article>
