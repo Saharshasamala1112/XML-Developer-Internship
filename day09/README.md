@@ -18,4 +18,5 @@
    </verbatim>
 
 #Assignmnent
-convert pdf into xml file with the concepts covered till now.
+-convert pdf into xml file with the concepts covered till now.
+-practice list in english,and other programming languages like html,python.
