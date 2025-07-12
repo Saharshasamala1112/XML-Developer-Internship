@@ -1,3 +1,5 @@
+#day7 -9th june,2025.
+
 #Installation and setting up of tools(adobe acrobat,photoshop CS4).
    -downloaded tools
    
