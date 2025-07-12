@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Erudit.xsl"?><!DOCTYPE article PUBLIC "-//ERUDIT//DTD Erudit Article_Cairn 2.1//FR" "eruditarticle_cairn_v2.4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" idproprio="CF_HWANG_2022_01_0171" lang="fr" traitement="ouvcol" typeart="article">
+<admin>
+<infoarticle>
+<idpublic norme="doi" />
+<tri>CF_HWANG_2022_01_0171</tri>
+<pagination>
+<ppage>171</ppage>
+<dpage>174</dpage>
+</pagination>
+<nbpage>4</nbpage>
+</infoarticle>
+<ouvrage id="EDAM_DEBRA_2019_01">
+<titreouv lang="fr">Spinoza et les passions du social</titreouv>
+<collection>
+<titre />
+<idissnnum />
+</collection>
+<pub>
+<annee>2019</annee>
+</pub>
+<pubnum>
+<date>20190208</date>
+</pubnum>
+<grauteur>
+<auteur id="co1">
+<nompers>
+<prenom>Eva</prenom>
+<nomfamille>Debray</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co2">
+<nompers>
+<prenom>Fr&#x00E9;d&#x00E9;ric</prenom>
+<nomfamille>Lordon</nomfamille>
+</nompers>
+</auteur>
+<auteur id="co3">
+<nompers>
+<prenom>Kim Sang</prenom>
+<nomfamille>Ong-Van-Cung</nomfamille>
+</nompers>
+</auteur>
+</grauteur>
+<idisbn>9782354801663</idisbn>
+</ouvrage>
+<editeur id="EDAM">
+<nomorg>&#x00C9;ditions Amsterdam</nomorg>
+</editeur>
+<prodnum id="CairnP">
+<nomorg>Cairn/Cairn</nomorg>
+</prodnum>
+<diffnum id="CairnD">
+<nomorg>Cairn</nomorg>
+</diffnum>
+<dtd nom="Erudit Article" version="vCairn 2.4"/>
+<droitsauteur>&#x00A9; &#x00C9;ditions <nomorg>Amsterdam</nomorg>, 2019</droitsauteur>
+</admin>
+<liminaire>
+<grtitre>
+<titre>Épilogue</titre>
+</grtitre>
+</liminaire>
+<corps>
+<section1 id="sin1">
+<para id="pa1"><alinea><np pagenum="171"/> <marquage typemarq="dropcase">L</marquage>’économie paraissait florissante dans les années qui ont précédé la crise des subprimes de 2008. Les prix de l’immobilier ont connu une hausse rapide aux États-Unis et dans toute l’Europe entre 2002 et 2006, profitant aux propriétaires et stimulant le marché de la construction. Un rapport de la Banque mondiale évaluant les perspectives pour 2007 et 2008 notait qu’elles apparaissaient <marquage typemarq="italique">« assez favorables »</marquage> et qualifiait l’économie mondiale <marquage typemarq="italique">« d’environnement prometteur pour la croissance <exposant>1</exposant>»</marquage>.</alinea></para>
+<para id="pa2"><alinea>Les spécialistes n’ont pas fait attention aux signes avant-coureurs. L’effondrement de l’économie mondiale a fait l’effet d’un choc parce que les économistes et les régulateurs financiers se focalisaient sur d’autres problèmes. Comme le documente l’historien Adam Tooze, de nombreux rapports et articles de journaux de l’époque s’inquiétaient des problèmes posés par <marquage typemarq="italique">« l’excès de la dette publique, la médiocrité des écoles et une cession d’actifs chinois »</marquage>, alors qu’ils auraient dû examiner</alinea></para>
+<para id="pa3"><alinea>1. Banque mondiale,<marquage typemarq="italique"> Global Economic Prospects 2007: Managing the Next Wave of Globalization, 2006,</marquage><liensimple id="l2" xlink:href="https://elibrary.worldbank.org/doi/abs/10.1596/">https://elibrary.worldbank.org/doi/abs/10.1596/</liensimple> 978-0-8213-6727-8.<np pagenum="172"/><marquage typemarq="italique">«les mécanismes de base de l’économie américaine, de ses banques et de ses marchés financiers <exposant>2</exposant> »</marquage>.</alinea></para>
+<para id="pa4"><alinea>À l’époque, les spécialistes avaient également l’impression d’avoir définitivement résolu les problèmes du passé. Confiants, ils pensaient avoir enfin découvert le moyen d’assurer une croissance économique stable tout en éliminant efficacement le risque d’une future grande récession. En 2003, l’économiste Robert Lucas déclarait devant l’Association économique américaine que le <marquage typemarq="italique">« problème central de prévention de la dépression est en réalité résolu, et a même été résolu il y a plusieurs décennies »</marquage> par les économistes <exposant>3</exposant>.</alinea></para>
+<para id="pa5"><alinea>Le fait qu’un marché se porte bien ne nous dit rien de son évolution future. Le moment où la croissance d’un marché semble inévitable est même précisément celui où nous devrions le plus nous inquiéter de ce qui alimente cette croissance, ainsi que des faiblesses structurelles que pourrait masquer cet optimisme.</alinea></para>
+<para id="pa6"><alinea>De l’avis général, la publicité en ligne semble poursuivre son ascension. La pandémie de Covid-19 malmène l’économie de la publicité à l’heure où s’achève la rédaction de ce livre. Malgré tout, Google et Facebook ne paraissent pas menacés par de graves difficultés financières. Au contraire, les géants de la publicité programmatique sont sur le point de sortir de la crise dans une position plus dominante que jamais. Dans l’ensemble, l’argent de la publicité continue à se déverser sur 2. Adam Tooze, <marquage typemarq="italique">Crashed: How a Decade of Financial Crises Changed the World,</marquage> Viking, 2018, p.   42-43. (En français  : Adam Tooze,<marquage typemarq="italique"> Crashed  : Comment une décennie de crise financière a changé le monde</marquage>, traduction de Leslie Talaga  Raymond Clarinard, Les Belles Lettres, 2018.) 3. Robert  E. Lucas, Jr., « Macroeconomic Priorities », American Economic Review, 2003, vol. <indice>93</indice>, nº 1.<np pagenum="173"/>l’internet à une vitesse vertigineuse, ce qui signifie qu’une quantité toujours plus importante de capital est immobilisée dans le système massivement automatisé de l’achat et de la vente de la publicité programmatique.</alinea></para>
+<para id="pa7"><alinea>Les spécialistes estiment avoir résolu quelques-unes des difficultés les plus persistantes de leur domaine. La publicité programmatique semble surpasser tout ce qui l’a précédé et offrir le graal des canaux marketing  : une vitesse fulgurante, des données vertigineusement détaillées et des coûts incroyablement bas. Les craintes liées à la puissance du « micro-ciblage » –   la diffusion ultraprécise de messages persuasifs grâce à l’internet  – montrent que même les critiques du secteur de la tech acceptent implicitement l’idée que ces systèmes publicitaires ont un potentiel inégalé pour manipuler l’opinion et changer le comportement du public<exposant>4</exposant>.</alinea></para>
+<para id="pa8"><alinea>Il ne fait aucun doute que, dans certains cas, la publicité en ligne est véritablement efficace. Mais la réalité quotidienne peut être totalement à l’opposé d’une machine promotionnelle qui voit tout, qui sait tout et qui peut tout. La réalité, c’est que de grandes portions du marché programmatique ne sont pas tant un remède miracle que de la poudre de perlimpinpin. Dans l’ensemble, les publicités captent une part de plus en plus réduite de l’attention disponible en ligne, une part dont la valeur économique réelle est en baisse. Pendant ce temps, le marché demeure nébuleux et opaque, constamment surcoté par un écosystème malsain d’acteurs tiraillés par des intérêts</alinea></para>
+<para id="pa9"><alinea>4. Dipayan Ghosh  Ben Scott, « Facebook’s New Controversy Shows How Easily Online Political Ads Can Manipulate You »<marquage typemarq="italique">,Time,</marquage> 19  mars  2018, <liensimple id="l2" xlink:href="https://time.com/5197255/facebook-cambridge-analytica- donald-trump-ads-data/">https://time.com/5197255/facebook-cambridge-analytica- donald-trump-ads-data/</liensimple>.</alinea></para>
+<para id="pa10"><alinea><np pagenum="174"/>contradictoires. Il en résulte une bulle qui ne pourra pas grandir indéfiniment.</alinea></para>
+<para id="pa11"><alinea>En soi, ce dysfonctionnement du secteur de la publicité pourrait n’être qu’un problème de niche, une préoccupation qui empêche une poignée d’annonceurs et d’éditeurs de trouver le sommeil. Mais l’internet que nous utilisons, pour le meilleur ou pour le pire, est lié à la structure et aux perspectives de l’économie de la publicité. Si ce système publicitaire est précaire, alors l’internet tel que nous le connaissons est précaire lui aussi. Notre choix de laisser ces marchés en leur état actuel, véritable jungle déréglementée, ou de mettre en oeuvre des systèmes qui les gèrent au bénéfice du public ne déterminera pas seulement l’avenir de la publicité  : il déterminera aussi l’avenir des technologies qui ont façonné et qui continuent de façonner notre société.</alinea></para>
+</section1>
+</corps>
+</article>
